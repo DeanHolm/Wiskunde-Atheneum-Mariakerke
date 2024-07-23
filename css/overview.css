@@ -1,0 +1,102 @@
+#hoofdstukken {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#hoofdstukken img {
+    width: 350px;
+    height: 525px;
+    margin: 0px 0px 60px 0px;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+#hoofdstukken img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+#hoofdstukken img.dimmed {
+    opacity: 0.3;
+}
+
+main {
+    font-size: 18px;
+}
+
+main p {
+    font-size: 1.5em;
+}
+
+#pijlentitel {
+    display: flex
+}
+
+#pijl {
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+}
+
+#titel {
+    flex: 1;
+    font-size: 2em;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.hidden {
+    visibility: hidden;
+    display: none;
+}
+
+main article {
+    display: block;
+}
+
+main article h2 {
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    text-decoration: underline;
+    padding: 40px 0px 20px 0px;
+}
+
+label {
+   margin-left: 15px;
+   margin-bottom: 10px;
+}
+
+#goal {
+    padding-bottom: 10px;
+}
+
+#exercises h1, #corrections h1 {
+    padding-bottom: 20px;
+}
+
+#exercises a, #corrections a, #corrections p, #corrections span {
+    color: black;
+    font-size: 18px;
+    line-height: 2;
+}
+
+
+@media print {
+    body * {
+        visibility: hidden;
+    }
+    #goals, #goals * {
+        visibility: visible;
+    }
+    #goals {
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin: 20px;
+        padding: 10px;
+        font-size: 12px;
+        page-break-inside: avoid;
+    }
+}

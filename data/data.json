@@ -1,0 +1,729 @@
+{
+    "eerstejaar": {
+        "G1 - Getallen rondom ons": {
+            "Doelstellingen": {
+                "1.1 Ons talstelsel": [
+                    "Ik kan in eigen woorden omschrijven hoe ons talstelsel is opgebouwd.",
+                    "Ik kan in eigen woorden omschrijven wat een positiestelsel is.",
+                    "Ik kan voorbeelden geven van positiestelsels.",
+                    "Ik weet wat bedoeld wordt met eenheden, tientallen, honderdtallen, duizendtallen en tienduizendtallen.",
+                    "Ik weet wat bedoeld wordt met tienden, honderdsten duizendsten en tienduizendsten.",
+                    "Ik kan in een getal het cijfer op elke positie correct benoemen.",
+                    "Ik ken de betekenis van een miljoen, miljard, biljoen en biljard.",
+                    "Ik kan een binair getal omzetten naar een decimaal getal.",
+                    "Ik kan een decimaal getal omzetten naar een binair getal."
+                ],
+                "1.2 Getalverzamelingen": [
+                    "Ik ken de definitie van een natuurlijk getal.",
+                    "Ik kan voorbeelden geven van natuurlijke getallen.",
+                    "Ik ken het symbool van de natuurlijke getallen.",
+                    "Ik kan de natuurlijke getallen weergeven met een Venndiagram.",
+                    "Ik kan in eigen woorden omschrijven wat een geheel getal is.",
+                    "Ik kan voorbeelden geven van gehele getallen.",
+                    "Ik ken het symbool van de gehele getallen.",
+                    "Ik kan de gehele getallen weergeven met een Venndiagram.",
+                    "Ik kan in eigen woorden omschrijven wat een rationaal getal is.",
+                    "Ik kan voorbeelden geven van rationale getallen.",
+                    "Ik ken het symbool van de rationale getallen.",
+                    "Ik kan de rationale getallen weergeven met een Venndiagram.",
+                    "Ik weet hoe ik in symbolen kan weergeven wanneer het getal 0 niet in een verzameling zit.",
+                    "Ik weet hoe ik in symbolen de positieve getallen uit een verzameling kan weergeven.",
+                    "Ik weet hoe ik in symbolen de negatieve getallen uit een verzameling kan weergeven.",
+                    "Ik ken de betekenis van de symbolen ∈, ∉, ⊂ en ⊄.",
+                    "Ik kan de symbolen ∈, ∉, ⊂ en ⊄ toepassen in oefeningen."
+                ],
+                "1.3 Deelbaarheid": [
+                    "Ik ken de definitie van de Euclidische deling in woorden.",
+                    "Ik ken de definitie van de Euclidische deling in symbolen.",
+                    "Ik kan in eigen woorden uitleggen wat een opgaande deling is.",
+                    "Ik kan in eigen woorden uitleggen wat een niet-opgaande deling is.",
+                    "Ik kan uitleggen wat het verband is tussen de termen veelvoud, deelbaar en deler.",
+                    "Ik weet dat een deler van twee getallen ook een deler is van hun som.",
+                    "Ik weet dat een deler van een getal ook een deler is van elk veelvoud van dat getal.",
+                    "Ik ken de betekenis van de symbolen ⇒ en ⇔.",
+                    "Ik kan de symbolen ⇒ en ⇔ toepassen in oefeningen.",
+                    "Ik ken de betekenis van de symbolen ∪, ∩ en \\.",
+                    "Ik kan de unie, doorsnede en het verschil van twee verzamelingen bepalen.",
+                    "Ik weet wanneer een getal deelbaar is door 10(0)(0), 2, 5, 4, 25, 3 en 9."
+                ],
+                "1.4 Breuk, decimale vorm en procent": [
+                    "Ik kan in eigen woorden omschrijven wat gelijkwaardige breuken zijn.",
+                    "Ik kan breuken vereenvoudigen.",
+                    "Ik kan breuken gelijknamig maken.",
+                    "Ik kan een breuk omzetten naar een kommagetal.",
+                    "Ik kan een kommagetal omzetten naar een breuk.",
+                    "Ik kan een percentage berekenen van een getal."
+                ]
+            },
+            "Filmpjes": {
+                "Het positiestelsel" : ["../videos/positiestelsel.mp4"],
+                "Een binair naar een decimaal getal omzetten" : [],
+                "Een decimaal naar een binar getal omzetten" : [],
+                "De natuurlijke getallen" : ["../videos/natuurlijke_getallen.mp4"],
+                "De gehele getallen" : ["../videos/gehele_getallen.mp4"],
+                "De rationale getallen" : ["../videos/rationale_getallen.mp4"],
+                "Implicatie en equivalentie" : [],
+                "Verzamelingen" : [],
+                "Doorsnede en unie van twee verzamelingen" : [],
+                "Verschil van twee verzamelingen" : []
+            },
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "G2 - Gehele getallen": {
+            "Doelstellingen": {
+                "2.1 Welkom in \u2124" : [
+                    "Ik kan de verschillende toestandstekens opsommen.",
+                    "Ik ken de definitie van een geheel getal.",
+                    "Ik kan een getallenas tekenen.",
+                    "Ik kan gehele getallen ordenen op een getallenas.",
+                    "Ik ken de betekenis van de symbolen <, ≤, > en ≥.",
+                    "Ik kan een onbekende (x) gebruiken als plaatsvervanger voor een geheel getal.",
+                    "Ik ken de definitie van de absolute waarde van een getal.",
+                    "Ik kan de absolute waarde van een getal bepalen.",
+                    "Ik ken de definitie van het tegengestelde van een getal.",
+                    "Ik kan het tegengestelde van een getal bepalen.",
+                    "Ik kan een (orthogonaal) assenstelsel tekenen.",
+                    "Ik kan in een assenstelsel de oorsprong aanduiden.",
+                    "Ik kan in een assenstelsel een coördinaat aanduiden.",
+                    "Ik kan in een assenstelsel een coördinaat aflezen.",
+                    "Ik kan in symbolen een coördinaar noteren.",
+                    "Ik kan in een coördinaat het eerste coördinaatgetal / de abscis / de x-waarde aflezen.",
+                    "Ik kan in een coördinaat het tweede coördinaatgetal / de ordinaat / de y-waarde aflezen.",
+                    "Ik kan enkele toepassingen opsommen waar een assenstelsel in het dagelijkse leven wordt gebruikt."
+                ],
+                "2.2 Hoofdbewerkingen met gehele getallen" : [
+                    "Ik kan bij een som de termen en het plusteken benoemen.",
+                    "Ik kan de som bepalen van gehele getallen.",
+                    "Ik kan bij een verschil het aftrektal, het minteken en de aftrekker benoemen.",
+                    "Ik kan de hakenregel toepassen.",
+                    "Ik kan het verschil bepalen van gehele getallen.",
+                    "Ik kan bij een product de factoren en het maalteken benoemen.",
+                    "Ik kan het product bepalen van gehele getallen.",
+                    "Ik kan bij een quotiënt het deeltal, het deelteken en de deler benoemen.",
+                    "Ik kan het quotiënt bepamen van gehele getallen.",
+                    "Ik weet dat bij een quotiënt de deler verschillend moet zijn van 0."
+                ],
+                "2.3 Machten en vierkantswortels" : [
+                    "Ik ken de definitie van machten.",
+                    "Ik kan bij een macht het grondtal en de exponent benoemen.",
+                    "Ik weet wat een kwadraat is.",
+                    "Ik ken de kwadraten tot 15 uit mijn hoofd.",
+                    "Ik weet wat een volkomen kwadraat is.",
+                    "Ik kan de macht met een positieve exponent van een geheel getal bepalen.",
+                    "Ik weet wat een vierkantswortel is.",
+                    "Ik kan bij een vierkantswortel het grondtal en het wortelteken benoemen.",
+                    "Ik kan de vierkantswortel van een volkomen kwadraat bepalen.",
+                    "Ik ken de vierkantswortels van de volkomen kwadraten tot 15 uit mijn hoofd.",
+                    "Ik weet dat het grondtal bij een vierkantswortel niet negatief mag zijn."
+                ],
+                "2.4 Eigenschappen van de hoofdbewerkingen in \u2124" : [
+                    "Ik ken de commutatieve eigenschap voor de optelling in \u2124 in woorden.",
+                    "Ik ken de commutatieve eigenschap voor de optelling in \u2124 in symbolen.",
+                    "Ik ken de commutatieve eigenschap voor de vermenigvuldiging in \u2124 in woorden.",
+                    "Ik ken de commutatieve eigenschap voor de vermenigvuldiging in \u2124 in symbolen.",
+                    "Ik ken de associatieve eigenschap voor de optelling in \u2124 in woorden.",
+                    "Ik ken de associatieve eigenschap voor de optelling in \u2124 in symbolen.",
+                    "Ik ken de associatieve eigenschap voor de vermenigvuldiging in \u2124 in woorden.",
+                    "Ik ken de associatieve eigenschap voor de vermenigvuldiging in \u2124 in symbolen.",
+                    "Ik ken de distributieve eigenschap voor het vermenigvuldigen ten opzichte van het optellen in \u2124 in woorden.",
+                    "Ik ken de distributieve eigenschap voor het vermenigvuldigen ten opzichte van het optellen in \u2124 in symbolen.",
+                    "Ik ken de distributieve eigenschap voor het vermenigvuldigen ten opzichte van het aftrekken in \u2124 in woorden.",
+                    "Ik ken de distributieve eigenschap voor het vermenigvuldigen ten opzichte van het aftrekken in \u2124 in symbolen.",
+                    "Ik ken de eigenschap voor het neutraal element voor de optelling in \u2124 in woorden.",
+                    "Ik ken de eigenschap voor het neutraal element voor de optelling in \u2124 in symbolen.",
+                    "Ik ken de eigenschap voor het neutraal element voor de vermenigvuldiging in \u2124 in woorden.",
+                    "Ik ken de eigenschap voor het neutraal element voor de vermenigvuldiging in \u2124 in symbolen.",
+                    "Ik ken de eigenschap voor het opslorpend element voor de vermenigvuldiging in \u2124 in woorden.",
+                    "Ik ken de eigenschap voor het opslorpend element voor de vermenigvuldiging in \u2124 in symbolen.",
+                    "Ik ken de eigenschap voor het symmetrisch element voor het optellen in \u2124 in woorden.",
+                    "Ik ken de eigenschap voor het symmetrisch element voor het optellen in \u2124 in symbolen.",
+                    "Ik kan de eigenschappen van de hoofdbewerkingen herkennen in oefeningen.",
+                    "Ik kan de eigenschappen van de hoofdbewerkingen toepassen in oefeningen.",
+                    "Ik weet wat een gedurige som is.",
+                    "Ik kan een gedurige som uitwerken.",
+                    "Ik weet wat een gedurig product is.",
+                    "Ik kan een gedurig product uitwerken."
+                ],
+                "2.5 De volgorde van bewerkingen" : [
+                    "Ik ken de volgorde van de bewerkingen.",
+                    "Ik kan de volgorde van de bewerkingen toepassen in oefeningen met gehele getallen."
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "G3 - Oplossingsmethodes voor vraagstukken": {
+            "Doelstellingen": {
+                "3.1 Vraagstukken oplossen met hoofdbewerkingen" : [
+
+                ],
+                "3.2 Vraagstukken oplossen in verband met deelbaarheid" : [
+                ],
+                "3.3 Vraagstukken oplossen door het gebruik van letters" : [
+
+                ],
+                "3.4 Vraagstukken oplossen met vergelijkingen" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "G4 - Rationale getallen": {
+            "Doelstellingen": {
+                "4.1 Welkom in \u211A" : [
+
+                ],
+                "4.2 Hoofdbewerkingen met rationale getallen" : [
+
+                ],
+                "4.3 Machten en vierkantswortels" : [
+
+                ],
+                "4.4 Eigenschappen van de hoofdbewerkingen" : [
+
+                ],
+                "4.5 De volgorde van bewerkingen" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "G5 - Data en onzekerheid": {
+            "Doelstellingen": {
+                "5.1 Soorten data" : [
+
+                ],
+                "5.2 Voorstellingswijzen" : [
+
+                ],
+                "5.3 Gemiddelde, mediaan, modus en variatiebreedte" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "G6 - Oplossingsmethodes voor vraagstukken": {
+            "Doelstellingen": {
+                "6.1 Vraagstukken oplossen door het gebruik van letters" : [
+
+                ],
+                "6.2 Vraagstukken oplossen met vergelijkingen" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "M1 - De wereld van 3D naar 2D": {
+            "Doelstellingen": {
+                "1.1 Ruimtefiguren en vlakke figuren herkennen" : [
+                    "Ik weet dat een kubus, balk, recht prisma, cilinder, kegel, piramide en bol ruimtefiguren zijn.",
+                    "Ik kan ruimtefiguren herkennen in het dagelijks leven.",
+                    "Ik weet wat bedoeld wordt met hoekpunt, ribbe, grond- en bovenvlak, grensvlakken en mantel.",
+                    "Ik kan de ontwikkeling van een kubus, rechthoek, prisma en cilinder herkennen.",
+                    "Ik kan de ontwikkeling van een kubus, rechthoek, prisma en cilinder tekenen.",
+                    "Ik weet dat een vierkant, rechthoek, driehoek, ruit parallellogram, trapezium en cirkel vlakke figuren zijn.",
+                    "Ik kan vlakke figuren herkennen in de zijvlakken van een ruimtefiguur.",
+                    "Ik kan aanzichten herkennen.",
+                    "Ik kan aanzichten tekenen.",
+                    "Ik ken de principes van het natuurlijk perspectief.",
+                    "Ik ken de principes van het cavalièreperspectief.",
+                    "Ik ken de principes van het isometrisch perspectief.",
+                    "Ik kan de verschillende perspectieven herkennen.",
+                    "Ik ken de principes van de Europese projectie.",
+                    "Ik kan de verschillende aanzichten tekenen van een ruimtefiguur.",
+                    "Ik kan op een correcte manier een (breuk)schaal aflezen.",
+                    "Ik kan problemen in verband met schaal oplossen."
+                ],
+                "1.2 Begrippen in de vlakke meetkunde" : [
+                    "Ik weet wat een punt, rechte en vlak is.",
+                    "Ik kan een punt, rechte en vlak herkennen.",
+                    "Ik kan een punt, rechte en vlak symbolisch voorstellen.",
+                    "Ik weet dat door één punt oneinig veel rechten gaan.",
+                    "Ik weet dat door twee verschillende punten juist één rechte gaat.",
+                    "Ik ken de definitie van collineaire punten.",
+                    "Ik kan collineaire punten herkennen.",
+                    "Ik ken het verschil tussen een rechte, halfrechte en lijnstuk.",
+                    "Ik kan een rechte, halfrechte en lijnstuk herkennen.",
+                    "Ik kan een rechte, halfrechte en lijnstuk symbolisch voorstellen.",
+                    "Ik weet wat een groot- en eenheid is.",
+                    "Ik weet wat er bedoeld wordt met lengte en afstand.",
+                    "Ik kan de lengte en afstand bepalen in oefeningen.",
+                    "Ik kan de lengte en afstand symbolisch noteren.",
+                    "Ik ken de definitie van het midden van een lijnstuk in woorden.",
+                    "Ik ken de definitie van het midden van een lijnstuk in symbolen."
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "M2 - Eigenschappen van rechten en hoeken": {
+            "Doelstellingen": {
+                "2.1 Rechten" : [
+                    "Ik ken de definitie van evenwijdige vlakken.",
+                    "Ik kan evenwijdige vlakken in symbolen noteren.",
+                    "Ik ken de definitie van snijdende vlakken.",
+                    "Ik kan snijdende vlakken symbolisch noteren.",
+                    "Ik kan evenwijdige en snijdende vlakken herkennen in oefeningen.",
+                    "Ik ken de definitie van evenwijdige rechten.",
+                    "Ik ken de definitie van snijdende rechten.",
+                    "Ik ken de definitie van kruisende rechten.",
+                    "Ik kan evenwijdige en snijdende rechten symbolisch noteren.",
+                    "Ik kan evenwijdige, snijdende en kruisende rechten herkennen in oefeningen.",
+                    "Ik weet wat de drager is van een rechte.",
+                    "Ik ken de eigenschappen in verband met de onderlinge ligging van rechten.",
+                    "Ik kan de eigenschappen in verband met de onderlinge ligging van rechten toepassen in oefeningen.",
+                    "Ik ken de definitie van de middelloodlijn van een lijnstuk.",
+                    "Ik kan de middelloodlijn van een lijnstuk tekenen.",
+                    "Ik ken de definitite voor de afstand van een punt tot een rechte.",
+                    "Ik kan de afstand van een punt tot een rechte bepalen.",
+                    "Ik kan de afstand van een punt tot een rechte symbolisch noteren.",
+                    "Ik kan de afstand tussen twee evenwijdige rechten bepalen."
+                ],
+                "2.2 Hoeken" : [
+                    "Ik ken de betekenis van een hoek, hoekpunt en benen.",
+                    "Ik weet hoe een hoek voorgesteld wordt.",
+                    "Ik kan een hoek symbolisch noteren.",
+                    "Ik kan een hoek meten tot op 1° nauwkeurig.",
+                    "Ik ken de definitie van twee loodrechte rechten.",
+                    "Ik ken het verband tussen een graad, een minuut en een seconde.",
+                    "Ik kan op een geodriehoek de tekenzijde, nullijn en nulpunt aanduiden.",
+                    "Ik kan een hoek tekenen tot op 1° nauwkeurig.",
+                    "Ik ken de bijzondere hoeken.",
+                    "Ik kan de bijzondere hoeken tekenen.",
+                    "Ik kan de bijzondere hoeken herkennen in oefenen.",
+                    "Ik ken de definitie van de bissectrice / deellijn.",
+                    "Ik kan de bissectrice van een hoek tekenen."
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "M3 - Vlakke figuren": {
+            "Doelstellingen": {
+                "3.1 Vlakke figuren rondom ons herkennen" : [
+
+                ],
+                "3.2 Driehoeken" : [
+
+                ],
+                "3.3 Vierhoeken" : [
+
+                ],
+                "3.4 Cirkels" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "M4 - Ruimtefiguren": {
+            "Doelstellingen": {
+                "4.1 Voorstelling van ruimtefiguren in een vlak" : [
+
+                ],
+                "4.2 Opbouw van ruimtefiguren" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "M5 - Omtrek en oppervlakte van vlakke figuren": {
+            "Doelstellingen": {
+                "5.1 Omtrek van vlakke figuren" : [
+
+                ],
+                "5.2 Oppervlakte van vlakke figuren" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "M6 - Oppervlakte en volume van ruimtefiguren": {
+            "Doelstellingen": {
+                "6.1 Oppervlakte van ruimtefiguren" : [
+
+                ],
+                "6.2 Volume van ruimtefiguren" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        }
+    },
+    "tweedejaar": {
+        "G1 - Rekenen met rationale getallen": {
+            "Doelstellingen": {
+                "1.1 Wat voorafging" : [
+                    "Ik ken de definitie van een natuurlijk getal.",
+                    "Ik kan voorbeelden geven van natuurlijke getallen.",
+                    "Ik ken het symbool van de natuurlijke getallen.",
+                    "Ik kan de natuurlijke getallen weergeven met een Venndiagram.",
+                    "Ik kan in eigen woorden omschrijven wat een geheel getal is.",
+                    "Ik kan voorbeelden geven van gehele getallen.",
+                    "Ik ken het symbool van de gehele getallen.",
+                    "Ik kan de gehele getallen weergeven met een Venndiagram.",
+                    "Ik kan in eigen woorden omschrijven wat een rationaal getal is.",
+                    "Ik kan voorbeelden geven van rationale getallen.",
+                    "Ik ken het symbool van de rationale getallen.",
+                    "Ik kan de rationale getallen weergeven met een Venndiagram.",
+                    "Ik weet hoe ik in symbolen kan weergeven wanneer het getal 0 niet in een verzameling zit.",
+                    "Ik weet hoe ik in symbolen de positieve getallen uit een verzameling kan weergeven.",
+                    "Ik weet hoe ik in symbolen de negatieve getallen uit een verzameling kan weergeven.",
+                    "Ik ken de betekenis van de symbolen ∈, ∉, ⊂ en ⊄.",
+                    "Ik kan de symbolen ∈, ∉, ⊂ en ⊄ toepassen in oefeningen.",
+                    "Ik ken de betekenis van de symbolen ⇒ en ⇔.",
+                    "Ik kan de symbolen ⇒ en ⇔ toepassen in oefeningen.",
+                    "Ik ken de betekenis van de symbolen ∪, ∩ en \\.",
+                    "Ik kan de unie, doorsnede en het verschil van twee verzamelingen bepalen.",
+                    "Ik kan de som bepalen van twee rationale getallen.",
+                    "Ik kan het verschil bepalen van twee rationale getallen.",
+                    "Ik kan het product bepalen van twee rationale getallen.",
+                    "Ik kan het quotiënt bepalen van twee rationale getallen.",
+                    "Ik ken de definitie van machten.",
+                    "Ik kan bij een macht het grondtal en de exponent benoemen.",
+                    "Ik weet wat een kwadraat is.",
+                    "Ik ken de kwadraten tot 15 uit mijn hoofd.",
+                    "Ik weet wat een volkomen kwadraat is.",
+                    "Ik kan de macht met een positieve exponent van een rationaal getal bepalen.",
+                    "Ik weet wat een vierkantswortel is.",
+                    "Ik kan bij een vierkantswortel het grondtal en het wortelteken benoemen.",
+                    "Ik kan de vierkantswortel van een volkomen kwadraat bepalen.",
+                    "Ik ken de vierkantswortels van de volkomen kwadraten tot 15 uit mijn hoofd.",
+                    "Ik weet dat het grondtal bij een vierkantswortel niet negatief mag zijn.",
+                    "Ik ken de volgorde van de bewerkingen.",
+                    "Ik kan de volgorde van de bewerkingen toepassen in oefeningen met rationale getallen."
+                ],
+                "1.2 Oplossingsmethodes voor vraagstukken" : [
+                    "Ik kan vraagstukken oplossen met hoofdbewerkingen.",
+                    "Ik ken de regel van drie.",
+                    "Ik kan vraagstukken oplossen met de regel van drie of een verhoudingstabel.",
+                    "Ik kan regelmaat herkennen in een reeks gegevens.",
+                    "Ik kan wanneer ik regelmaat herken dit omzetten naar een letterformule.",
+                    "Ik kan vergelijkingen oplossen van de vorm x + a = b.",
+                    "Ik kan vergelijkingen oplossen van de vorm x - a = b.",
+                    "Ik kan vergelijkingen oplossen van de vorm ax = b.",
+                    "Ik kan vergelijkingen oplossen van de vorm x : a = b.",
+                    "Ik kan een vraagstuk oplossen met behulp van een vergelijking.",
+                    "Ik kan vraagstukken over procenten oplossen.",
+                    "Ik kan zelf een geschikte oplossingsmethode kiezen bij het oplossen van een vraagstuk."
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "G2 - Machten": {
+            "Doelstellingen": {
+                "2.1 Machten met gehele exponenten" : [
+                    "Ik ken de definitie voor een macht met een negatieve exponent met een geheel grondtal.",
+                    "Ik ken de definitie voor een macht met een negatieve exponent met een rationaal grondtal.",
+                    "Ik ken de rekenregel voor een product van machten met hetzelfde grondtal in woorden.",
+                    "Ik ken de rekenregel voor een product van machten met hetzelfde grondtal in symbolen.",
+                    "Ik ken de rekenregel voor een quotiënt van machten met hetzelfde grondtal in woorden.",
+                    "Ik ken de rekenregel voor een quotiënt van machten met hetzelfde grondtal in symbolen.",
+                    "Ik ken de rekenregel voor een macht van een macht in woorden.",
+                    "Ik ken de rekenregel voor een macht van een macht in symbolen.",
+                    "Ik ken de rekenregel voor de macht van een product in woorden.",
+                    "Ik ken de rekenregel voor de macht van een product in symbolen.",
+                    "Ik ken de rekenregel voor de macht van een quotiënt in woorden.",
+                    "Ik ken de rekenregel voor de macht van een quotiënt in symbolen.",
+                    "Ik kan de rekenregels voor machten toepassen op oefeningen."
+                ],
+                "2.2 Wetenschappelijke schrijfwijze" : [
+                    "Ik ken de definitie van de wetenschappelijke schrijfwijze van een getal.",
+                    "Ik kan een rationaal getal omzetten naar de wetenschappelijke schrijfwijze.",
+                    "Ik kan elke wetenschappelijke schrijfwijze omzetten naar een rationaal getal.",
+                    "Ik kan rekenen met getallen die genoteerd zijn in de wetenschappelijke schrijfwijze."
+                ]
+            },
+            "Filmpjes": {
+                "Machten met gehele exponenten" : ["../videos/machten_met_negatieve_exponent.mp4"],
+                "Product van machten met hetzelfde grondtal" : ["../videos/product_machten_met_zelfde_grondtal.mp4"],
+                "Quotiënt van machten met hetzelfde grondtal" : ["../videos/quotiënt_machten_met_zelfde_grondtal.mp4"],
+                "Macht van een macht" : ["../videos/macht_van_een_macht.mp4"],
+                "Macht van een product en quotiënt" : ["../videos/macht_van_een_product_en_quotiënt.mp4"],
+                "De wetenschappelijke schrijfwijze" : ["../videos/wetenschappelijke_schrijfwijze.mp4"]
+            },
+            "Oefeningen": {
+                "👉 Herschrijf de oefening met positieve exponenten" : ["https://www.geogebra.org/m/mnrafw4v#material/bugvwx8e"],
+                "👉 Bepaal het teken van de uitkomst (1)" : ["https://www.geogebra.org/m/mnrafw4v#material/NJn2EgtV"],
+                "👉 Bepaal het teken van de uitkomst (2)" : ["https://www.geogebra.org/m/mnrafw4v#material/ZkDwNDhB"],
+                "👉 Machten van -1 en 1 met gehele exponenten" : ["https://www.geogebra.org/m/mnrafw4v#material/nWADb4kY"],
+                "👉 Machten van gehele getallen met gehele exponenten" : ["https://www.geogebra.org/m/mnrafw4v#material/BmgBCBap"],
+                "👉 Bepaal de exponent van het resultaat" : ["https://www.geogebra.org/m/mnrafw4v#material/REr7zcEY"],
+                "👉 Schrijf het resultaat als een positieve macht van 2" : ["https://www.geogebra.org/m/mnrafw4v#material/ZPjPEXwD"],
+                "👉 Quotiënt van machten met hetzelfde grondtal: Bepaal de noemer" : ["https://www.geogebra.org/m/mnrafw4v#material/rpGNRkNu"],
+                "👉 Macht van een macht: Bepaal de ontbrekende exponent" : ["https://www.geogebra.org/m/mnrafw4v#material/JHXqHZGK"],
+                "👉 Rekenregels gemengd: Bepaal de exponent" : ["https://www.geogebra.org/m/mnrafw4v#material/TznHabKp"],
+                "👉 Rekenregels gemengd: Schrijf het resultaat met positieve exponenten" : ["https://www.geogebra.org/m/mnrafw4v#material/YzqnTZw7"],
+                "👉 27 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/104264/redirect"]
+            },
+            "Correctiesleutels": {
+                "G2.1 - Machten met gehele exponenten" : ["🔴","../corrections/tweedejaar/G2.1 - Machten met gehele exponenten.pdf"],
+                "G2.2 Wetenschappelijke schrijfwijze" : ["🔴","../corrections/tweedejaar/G2.2 - Wetenschappelijke schrijfwijze.pdf"],
+                "G2 - Oranje blaadjes" : ["🔴", "../corrections/tweedejaar/G2 - Oranje blaadjes.pdf"]
+            }
+        },
+        "G3 - Rekenen met algebraïsche vormen": {
+            "Doelstellingen": {
+                "3.1 Eentermen en veeltermen" : [
+
+                ],
+                "3.2 Som en verschil van veeltermen" : [
+
+                ],
+                "3.3 Product van veeltermen" : [
+
+                ],
+                "3.4 Merkwaardige producten" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "G4 - Data en onzekerheid": {
+            "Doelstellingen": {
+                "4.1 Frequentietabellen opstellen" : [
+
+                ],
+                "4.2 Data onderscheiden en verwerken met ICT in tabellen en diagrammen" : [
+
+                ],
+                "4.3 Centrummaten en spreidingsmaat" : [
+
+                ],
+                "4.4 Numerieke datasets vergelijken" : [
+
+                ],
+                "4.5 Een eigen onderzoek" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "G5 - Oplossingsmethodes voor vraagstukken": {
+            "Doelstellingen": {
+                "5.1 Vergelijkingen oplossen in \u211D" : [
+
+                ],
+                "5.2 Vraagstukken oplossen" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "G6 - Evenredigheden": {
+            "Doelstellingen": {
+                "6.1 Evenredigheden" : [
+
+                ],
+                "6.2 Recht en omgekeerd evenredig" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "M1 - Transformaties": {
+            "Doelstellingen": {
+                "1.1 Even observeren" : [
+                    "Ik kan transformaties herkennen in het dagelijkse leven."
+                ],
+                "1.2 Spiegelen om een as" : [
+                    "Ik weet wat een spiegelas en spiegelbeeld zijn.",
+                    "Ik kan een punt spiegelen om een as.",
+                    "Ik weet wat een dekpunt is.",
+                    "Ik kan een rechte / halfrechte / lijnstuk spiegelen om een as.",
+                    "Ik kan een driehoek spiegelen om een as.",
+                    "Ik kan een vlakke figuur spiegelen om een as.",
+                    "Ik kan een spiegeling om een as symbolisch noteren."
+                ],
+                "1.3 Verschuiven over een vector" : [
+                    "Ik ken de definitie van een (vrije) vector.",
+                    "Ik kan de eigenschappen van een (vrije) vector opsommen.",
+                    "Ik kan van een (vrije) vector de eigenschappen benoemen.",
+                    "Ik kan een (vrije) vector symbolisch noteren.",
+                    "Ik ken de definitie van gelijke vectoren.",
+                    "Ik kan gelijke vectoren herkennen.",
+                    "Ik weet wat een schuifbeeld is.",
+                    "Ik kan een punt verschuiven over een vector.",
+                    "Ik kan een rechte / halfrechte / lijnstuk verschuiven over een vector.",
+                    "Ik kan een driehoek verschuiven over een vector.",
+                    "Ik kan een vlakke figuur verschuiven over een vector.",
+                    "Ik kan een verschuiving symbolisch noteren."
+                ],
+                "1.4 Roteren over een hoek" : [
+                    "Ik weet wat een centrum en draaiingshoek zijn.",
+                    "Ik weet dat het toestandsteken van de draaiingshoek invloed heeft op de zin van de draaiing.",
+                    "Ik ken de definitie van een georiënteerde hoek.",
+                    "Ik kan een punt roteren over een hoek.",
+                    "Ik kan een rechte / halfrechte / lijnstuk roteren over een hoek.",
+                    "Ik kan een driehoek roteren over een hoek.",
+                    "Ik kan een vlakke figuur roteren over een hoek.",
+                    "Ik kan een rotatie symbolisch noteren.",
+                    "Ik ken de definitie van een puntspiegeling.",
+                    "Ik kan een punt puntspiegelen",
+                    "Ik kan een rechte / halfrechte / lijnstuk puntspiegelen.",
+                    "Ik kan een driehoek puntspiegelen.",
+                    "Ik kan een vlakke figuur puntspiegelen.",
+                    "Ik kan een puntspiegeling symbolisch noteren."
+                ],
+                "1.5 Symmetrie" : [
+                    "Ik weet wanneer een figuur spiegelsymmetrisch om een as is.",
+                    "Ik kan voor een ongelijkbenige, gelijkbenige en gelijkzijdige driehoek het aantal symmetrieassen benoemen.",
+                    "Ik kan voor de merkwaardige vierhoeken het aantal symmetrieassen benoemen.",
+                    "Ik kan voor vlakke figuren de symmetrieassen tekenen.",
+                    "Ik weet wanneer een figuur spiegelsymmetrisch om een punt is.",
+                    "Ik kan in een vlakke figuur het symmetriemiddelpunt bepalen."
+                ],
+                "1.6 Eigenschappen van transformaties" : [
+                    "Ik weet wanneer men kan spreken over een transformatie van een vlak.",
+                    "Ik weet wat een isometrie is.",
+                    "Ik ken de eigenschappen van een spiegeling, verschuiving, rotatie en puntspiegeling.",
+                    "Ik kan de eigenschappen van een spiegeling, verschuiving, rotatie en puntspiegeling herkennen.",
+                    "Ik kan de eigenschappen van een spiegeling, verschuiving, rotatie en puntspiegeling toepassen in oefeningen."
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "M2 - Hoeken": {
+            "Doelstellingen": {
+                "2.1 Even observeren" : [
+                    "Ik kan hoeken herkennen in het dagelijkse leven."
+                ],
+                "2.2 Soorten hoeken" : [
+                    "Ik ken de definitie van complementaire hoeken.",
+                    "Ik kan complementaire hoeken herkennen.",
+                    "Ik ken de definitie van supplementaire hoeken.",
+                    "Ik kan supplementaire hoeken herkennen.",
+                    "Ik ken de definitie van overstaande hoeken.",
+                    "Ik kan overstaande hoeken herkennen.",
+                    "Ik ken de eigenschap van overstaande hoeken.",
+                    "Ik kan de eigenschap van overstaande hoeken bewijzen.",
+                    "Ik ken de definitie van aanliggende hoeken.",
+                    "Ik kan aanliggende hoeken herkennen.",
+                    "Ik ken de definitie van nevenhoeken.",
+                    "Ik kan nevenhoeken herkennen."
+                ],
+                "2.3 Hoeken bij evenwijdigen en een snijlijn" : [
+                    "Ik weet wat overeenkomstige hoeken zijn.",
+                    "Ik weet wat verwisselende binnen- en buitenhoeken zijn",
+                    "Ik weet wat binnen- en buitenhoeken aan dezelfde kant van de snijlijn zijn.",
+                    "Ik kan de verschillende soorten hoeken bij twee evenwijdigen en een snijlijn herkennen.",
+                    "Ik kan de verschillende soorten hoeken bij twee evenwijdigen en een snijlijn benoemen.",
+                    "Ik ken de eigenschap van overeenkomstige hoeken bij twee evenwijdigen en een snijlijn.",
+                    "Ik kan de eigenschap van overeenkomstige hoeken bij twee evenwijdigen en een snijlijn bewijzen.",
+                    "Ik ken de omgekeerde eigenschap van overeenkomstige hoeken bij twee evenwijdigen en een snijlijn.",
+                    "Ik ken de eigenschap van twee verwisselende binnenhoeken bij twee evenwijdigen en een snijlijn.",
+                    "Ik kan de eigenschap van twee verwisselende binnenhoeken bij twee evenwijdigen en een snijlijn bewijzen.",
+                    "Ik ken de omgekeerde eigenschap van twee verwisselende binnenhoeken bij twee evenwijdigen en een snijlijn.",
+                    "Ik ken de eigenschap van twee verwisselende buitenhoeken bij twee evenwijdigen en een snijlijn.",
+                    "Ik kan de eigenschap van twee verwisselende buitenhoeken bij twee evenwijdigen en een snijlijn bewijzen.",
+                    "Ik ken de omgekeerde eigenschap van twee verwisselende buitenhoeken bij twee evenwijdigen en een snijlijn.",
+                    "Ik ken de eigenschap van twee binnenhoeken aan dezelfde kant van de snijlijn bij twee evenwijdigen en een snijlijn.",
+                    "Ik kan de eigenschap van twee binnenhoeken aan dezelfde kant van de snijlijn bij twee evenwijdigen en een snijlijn bewijzen.",
+                    "Ik ken de omgekeerde eigenschap van twee binnenhoeken aan dezelfde kant van de snijlijn bij twee evenwijdigen en een snijlijn.",
+                    "Ik ken de eigenschap van twee binnenhoeken aan de andere kant van de snijlijn bij twee evenwijdigen en een snijlijn.",
+                    "Ik kan de eigenschap van twee binnenhoeken aan de andere kant van de snijlijn bij twee evenwijdigen en een snijlijn bewijzen.",
+                    "Ik ken de omgekeerde eigenschap van twee binnenhoeken aan de andere kant van de snijlijn bij twee evenwijdigen en een snijlijn.",
+                    "Ik kan de geziene eigenschappen over de soorten hoeken bij twee evenwijdigen en een snijlijn toepassen in oefeningen."
+                ],
+                "2.4 Som van de hoeken in een veelhoek" : [
+                    "Ik ken de eigenschap over de hoekensom in een driehoek.",
+                    "Ik kan de eigenschap over de hoekensom in een driehoek bewijzen",
+                    "Ik ken de eigenschap over de hoekensom in een vierhoek.",
+                    "Ik kan de eigenschap over de hoekensom in een vierhoek bewijzen.",
+                    "Ik kan de eigenschappen over de hoekensom in een driehoek en vierhoek toepassen in oefeningen.",
+                    "Ik ken de formule om de som van de hoeken in een veelhoek te bepalen.",
+                    "Ik kan de formule om de som van de hoeken in een veelhoek te bepalen toepassen in oefeningen."
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "M3 - Congruentie": {
+            "Doelstellingen": {
+                "3.1 Even observeren" : [
+
+                ],
+                "3.2 Congruentie" : [
+
+                ],
+                "3.3 Verantwoorden van constructies" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "M4 - Driehoeken": {
+            "Doelstellingen": {
+                "4.1 Eigenschappen onderzoeken" : [
+
+                ],
+                "4.2 De driehoeksongelijkheid" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "M5 - Ruimtemeetkunde": {
+            "Doelstellingen": {
+                "5.1 Ruimtefiguren herkennen" : [
+
+                ],
+                "5.2 Volume van ruimtefiguren" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        },
+        "M6 - Vierhoeken": {
+            "Doelstellingen": {
+                "6.1 Eigenschappen onderzoeken" : [
+
+                ],
+                "6.2 Vierhoeken construeren en classificeren" : [
+
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {},
+            "Correctiesleutels": {}
+        }
+    }
+}
