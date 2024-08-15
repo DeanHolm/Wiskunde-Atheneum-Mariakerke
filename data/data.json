@@ -68,7 +68,13 @@
                 "Verschil van twee verzamelingen" : []
             },
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "G1.1 - Ons talstelsel" : ["🔴","../corrections/eerstejaar/G1.1 - Ons talstelsel.pdf"],
+                "G1.2 - Getalverzamelingen" : ["🔴","../corrections/eerstejaar/G1.2 - Getalverzamelingen.pdf"],
+                "G1.3 - Deelbaarheid" : ["🔴","../corrections/eerstejaar/G1.3 - Deelbaarheid.pdf"],
+                "G1.4 - Breuk, decimale vorm en procent" : ["🔴", "../corrections/eerstejaar/G1.4 - Breuk, decimale vorm en procent.pdf"],
+                "G1 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G1 - Oranje blaadjes.pdf"]
+            }
         },
         "G2 - Gehele getallen": {
             "Doelstellingen": {
@@ -152,7 +158,14 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "G2.1 - Welkom in \u2124" : ["🔴","../corrections/eerstejaar/G2.1 - Welkom in Z.pdf"],
+                "G2.2 - Hoofdbewerkingen met gehele getallen" : ["🔴","../corrections/eerstejaar/G2.2 - Hoofdbewerkingen met gehele getallen.pdf"],
+                "G2.3 - Machten en vierkantswortels" : ["🔴","../corrections/eerstejaar/G2.3 - Machten en vierkantswortels.pdf"],
+                "G2.4 - Eigenschappen van de hoofdbewerkingen in \u2124" : ["🔴", "../corrections/eerstejaar/G2.4 - Eigenschappen van de hoofdbewerkingen in Z.pdf"],
+                "G2.5 - De volgorde van bewerkingen" : ["🔴", "../corrections/eerstejaar/G2.5 - De volgorde van bewerkingen.pdf"],
+                "G2 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G2 - Oranje blaadjes.pdf"]
+            }
         },
         "G3 - Oplossingsmethodes voor vraagstukken": {
             "Doelstellingen": {
@@ -170,7 +183,13 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "G3.1 - Vraagstukken oplossen met hoofdbewerkingen" : ["🔴","../corrections/eerstejaar/G3.1 - Vraagstukken oplossen met hoofdbewerkingen.pdf"],
+                "G3.2 - Vraagstukken oplossen in verband met deelbaarheid" : ["🔴","../corrections/eerstejaar/G3.2 - Vraagstukken oplossen in verband met deelbaarheid.pdf"],
+                "G3.3 - Vraagstukken oplossen door het gebruik van letters" : ["🔴","../corrections/eerstejaar/G3.3 - Vraagstukken oplossen door het gebruik van letters.pdf"],
+                "G3.4 - Vraagstukken oplossen met vergelijkingen" : ["🔴", "../corrections/eerstejaar/G3.4 - Vraagstukken oplossen met vergelijkingen.pdf"],
+                "G3 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G3 - Oranje blaadjes.pdf"]
+            }
         },
         "G4 - Rationale getallen": {
             "Doelstellingen": {
@@ -192,7 +211,14 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "G4.1 - Welkom in \u211A" : ["🔴","../corrections/eerstejaar/G4.1 - Welkom in Q.pdf"],
+                "G4.2 - Hoofdbewerkingen met rationale getallen" : ["🔴","../corrections/eerstejaar/G4.2 - Hoofdbewerkingen met rationale getallen.pdf"],
+                "G4.3 - Machten en vierkantswortels" : ["🔴","../corrections/eerstejaar/G4.3 - Machten en vierkantswortels.pdf"],
+                "G4.4 - Eigenschappen van de hoofdbewerkingen" : ["🔴", "../corrections/eerstejaar/G4.4 - Eigenschappen van de hoofdbewerkingen.pdf"],
+                "G4.5 - De volgorde van bewerkingen" : ["🔴", "../corrections/eerstejaar/G4.5 - De volgorde van bewerkingen.pdf"],
+                "G4 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G4 - Oranje blaadjes.pdf"]
+            }
         },
         "G5 - Data en onzekerheid": {
             "Doelstellingen": {
@@ -208,7 +234,11 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "G5.1 & G5.2 - Soorten data & Voorstellingswijzen" : ["🔴","../corrections/eerstejaar/G5.1 & G5.2 - Soorten data & Voorstellingswijzen.pdf"],
+                "G5.3 - Gemiddelde, mediaan, modus en variatiebreedte" : ["🔴","../corrections/eerstejaar/G5.3 - Gemiddelde, mediaan, modus en variatiebreedte.pdf"],
+                "G5 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G5 - Oranje blaadjes.pdf"]
+            }
         },
         "G6 - Oplossingsmethodes voor vraagstukken": {
             "Doelstellingen": {
@@ -221,7 +251,11 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "G6.1 - Vraagstukken oplossen door het gebruik van letters" : ["🔴","../corrections/eerstejaar/G6.1 - Vraagstukken oplossen door het gebruik van letters.pdf"],
+                "G6.2 - Vraagstukken oplossen met vergelijkingen" : ["🔴","../corrections/eerstejaar/G6.2 - Vraagstukken oplossen met vergelijkingen.pdf"],
+                "G6 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G6 - Oranje blaadjes.pdf"]
+            }
         },
         "M1 - De wereld van 3D naar 2D": {
             "Doelstellingen": {
@@ -265,7 +299,11 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "M1.1 - Ruimtefiguren en vlakke figuren herkennen" : ["🔴","../corrections/eerstejaar/M1.1 - Ruimtefiguren en vlakke figuren herkennen.pdf"],
+                "M1.2 - Begrippen in de vlakke meetkunde" : ["🔴","../corrections/eerstejaar/M1.2 - Begrippen in de vlakke meetkunde.pdf"],
+                "M1 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M1 - Oranje blaadjes.pdf"]
+            }
         },
         "M2 - Eigenschappen van rechten en hoeken": {
             "Doelstellingen": {
@@ -308,7 +346,11 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "M2.1 - Rechten" : ["🔴","../corrections/eerstejaar/M2.1 - Rechten.pdf"],
+                "M2.2 - Hoeken" : ["🔴","../corrections/eerstejaar/M2.2 - Hoeken.pdf"],
+                "M2 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M2 - Oranje blaadjes.pdf"]
+            }
         },
         "M3 - Vlakke figuren": {
             "Doelstellingen": {
@@ -327,7 +369,12 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "M3.2 - Driehoeken" : ["🔴","../corrections/eerstejaar/M3.2 - Driehoeken.pdf"],
+                "M3.3 - Vierhoeken" : ["🔴","../corrections/eerstejaar/M3.3 - Vierhoeken.pdf"],
+                "M3.4 - Cirkels" : ["🔴","../corrections/eerstejaar/M3.4 - Cirkels.pdf"],
+                "M3 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M3 - Oranje blaadjes.pdf"]
+            }
         },
         "M4 - Ruimtefiguren": {
             "Doelstellingen": {
@@ -340,7 +387,11 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "M4.1 - Voorstelling van ruimtefiguren in een vlak" : ["🔴","../corrections/eerstejaar/M4.1 - Voorstelling van ruimtefiguren in een vlak.pdf"],
+                "M4.2 - Opbouw van ruimtefiguren" : ["🔴","../corrections/eerstejaar/M4.2 - Opbouw van ruimtefiguren.pdf"],
+                "M4 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M4 - Oranje blaadjes.pdf"]
+            }
         },
         "M5 - Omtrek en oppervlakte van vlakke figuren": {
             "Doelstellingen": {
@@ -353,7 +404,11 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "M5.1 - Omtrek van vlakke figuren" : ["🔴","../corrections/eerstejaar/M5.1 - Omtrek van vlakke figuren.pdf"],
+                "M5.2 - Oppervlakte van vlakke figuren" : ["🔴","../corrections/eerstejaar/M5.2 - Oppervlakte van vlakke figuren.pdf"],
+                "M5 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M5 - Oranje blaadjes.pdf"]
+            }
         },
         "M6 - Oppervlakte en volume van ruimtefiguren": {
             "Doelstellingen": {
@@ -366,7 +421,11 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "M6.1 - Oppervlakte van ruimtefiguren" : ["🔴","../corrections/eerstejaar/M6.1 - Oppervlakte van ruimtefiguren.pdf"],
+                "M6.2 - Volume van ruimtefiguren" : ["🔴","../corrections/eerstejaar/M6.2 - Volume van ruimtefiguren.pdf"],
+                "M6 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M6 - Oranje blaadjes.pdf"]
+            }
         }
     },
     "tweedejaar": {

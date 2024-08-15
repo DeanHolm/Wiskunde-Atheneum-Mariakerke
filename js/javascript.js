@@ -265,9 +265,13 @@ function fillCorrections(chapter) {
     }
 }
 
-
 function scrollToTop() {
     window.scrollTo({
         top: 0,
     });
+}
+
+function herlaadPagina(event) {
+    event.preventDefault(); // Voorkomt de standaard actie van de link
+    location.reload(); // Herlaadt de pagina
 }
