@@ -86,7 +86,8 @@ header {
 }
 
 #title {
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px 0px;
     font-size: 3em;
     color: #E1E554;
     text-shadow: 5px 5px black;
@@ -151,9 +152,6 @@ nav li:not(.active):hover {
     background-position: 0 100%;
     color: #094531;
 }
-
-
-
 
 main {
     grid-area: main;
