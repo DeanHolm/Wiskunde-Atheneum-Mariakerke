@@ -21,3 +21,8 @@ img#picture_pi {
     max-width: 275px;
     flex-shrink: 0; /* Zorgt ervoor dat de afbeelding niet krimpt als de ruimte krap is */
 }
+
+#title {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px 0px;
+}
