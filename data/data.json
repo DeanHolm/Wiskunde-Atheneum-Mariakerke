@@ -63,7 +63,34 @@
                 "Doorsnede en unie van twee verzamelingen" : ["../videos/unie_doorsnede.mp4"],
                 "Verschil van twee verzamelingen" : ["../videos/verschil_van_verzamelingen.mp4"]
             },
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 83 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/104529/redirect"],
+                "👉 Opbouw tiendelig talstelsel (1)" : ["https://www.geogebra.org/m/th39ywcn#material/Dk3VQT42"],
+                "👉 Opbouw tiendelig talstelsel (2)" : ["https://www.geogebra.org/m/th39ywcn#material/auTHUWpV"],
+                "👉 Opbouw tiendelig talstelsel (3)" : ["https://www.geogebra.org/m/th39ywcn#material/jTX9jzU5"],
+                "👉 Opbouw tiendelig talstelsel (4)" : ["https://www.geogebra.org/m/th39ywcn#material/YJbYSrGU"],
+                "👉 Opbouw tiendelig talstelsel (5)" : ["https://www.geogebra.org/m/th39ywcn#material/uurwdduk"],
+                "👉 Getallen tot 100000" : ["https://www.geogebra.org/m/th39ywcn#material/W8rzdX6w"],
+                "👉 Getallenopbouw" : ["https://www.geogebra.org/m/th39ywcn#material/ru5h9vcp"],
+                "👉 Getalverzamelingen" : ["https://www.geogebra.org/m/n4YaavD7"],
+                "👉 Kenmerken van de deelbaarheid (1)" : ["https://www.geogebra.org/m/qrvzzfrb#material/wukbpnwf"],
+                "👉 Kenmerken van de deelbaarheid (2)" : ["https://www.geogebra.org/m/qrvzzfrb#material/g8mmu7hm"],
+                "👉 Kenmerken van de deelbaarheid (3)" : ["https://www.geogebra.org/m/qrvzzfrb#material/zu2ghxbg"],
+                "👉 Kenmerken van de deelbaarheid (4)" : ["https://www.geogebra.org/m/qrvzzfrb#material/mujy8xxq"],
+                "👉 Kenmerken van de deelbaarheid (5)" : ["https://www.geogebra.org/m/qrvzzfrb#material/dgvxunns"],
+                "👉 Kenmerken van de deelbaarheid (6)" : ["https://www.geogebra.org/m/qrvzzfrb#material/uahna5ru"],
+                "👉 Kenmerken van de deelbaarheid (7)" : ["https://www.geogebra.org/m/qrvzzfrb#material/efzwevkp"],
+                "👉 Delers bepalen (1)" : ["https://www.geogebra.org/m/qrvzzfrb#material/zpbuwqrz"],
+                "👉 Delers bepalen (2)" : ["https://www.geogebra.org/m/qrvzzfrb#material/dnqsuhtg"],
+                "👉 Delers bepalen (3)" : ["https://www.geogebra.org/m/qrvzzfrb#material/Ynvjg5c6"],
+                "👉 Gelijkwaardige breuken (1)" : ["https://www.geogebra.org/m/pj7t8vgv#material/skyk9mqf"],
+                "👉 Gelijkwaardige breuken (2)" : ["https://www.geogebra.org/m/k3xtae3u#material/rrwstes5"],
+                "👉 Breuken vereenvoudigen" : ["https://www.geogebra.org/m/k3xtae3u#material/k5bchy4d"],
+                "👉 Decimale breuken" : ["https://www.geogebra.org/m/mevzhrug#material/qtffux4e"],
+                "👉 Van kommagetal naar breuk" : ["https://www.geogebra.org/m/mevzhrug#material/aTB9m6Nx"],
+                "👉 Een procent berekenen als vermenigvuldiging" : ["https://www.geogebra.org/m/radzfcnt#material/kdhgaq7w"],
+                "👉 Procenten uit het hoofd berekenen" : ["https://www.geogebra.org/m/radzfcnt#material/uxgkjhak"]
+            },
             "Correctiesleutels": {
                 "G1.1 - Ons talstelsel" : ["🔴","../corrections/eerstejaar/G1.1 - Ons talstelsel.pdf"],
                 "G1.2 - Getalverzamelingen" : ["🔴","../corrections/eerstejaar/G1.2 - Getalverzamelingen.pdf"],
@@ -432,7 +459,10 @@
 
                 ]
             },
-            "Filmpjes": {},
+            "Filmpjes": {
+                "Omtrek van vlakke figuren" : ["../videos/omtrek_vlakke_figuren.mp4"],
+                "Oppervlakte van vlakke figuren" : ["../videos/oppervlakte_vlakke_figuren.mp4"]
+            },
             "Oefeningen": {},
             "Correctiesleutels": {
                 "M5.1 - Omtrek van vlakke figuren" : ["🔴","../corrections/eerstejaar/M5.1 - Omtrek van vlakke figuren.pdf"],
