@@ -11,7 +11,13 @@ article li::before {
     padding-right: 10px;
 }
 
+article {
+    display: flex;
+    align-items: flex-start; /* Zorgt ervoor dat de tekst en de afbeelding aan de bovenkant uitgelijnd zijn */
+    gap: 20px; /* Ruimte tussen de tekst en de afbeelding */
+}
+
 img#picture_pi {
     max-width: 275px;
-    flex-shrink: 0;
+    flex-shrink: 0; /* Zorgt ervoor dat de afbeelding niet krimpt als de ruimte krap is */
 }

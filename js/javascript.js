@@ -154,31 +154,56 @@ function fillVideos(chapter) {
     title.textContent = "Filmpjes 🎬";
     videosContainer.appendChild(title);
 
-    for (const [key, src] of Object.entries(videoLinks)) {
-        const videoContainer = document.createElement("div");
+    if (Object.keys(videoLinks).length > 0) {
 
-        const titleElement = document.createElement("h2");
-        titleElement.textContent = key;
-        videoContainer.appendChild(titleElement);
+        for (const [key, src] of Object.entries(videoLinks)) {
+            const videoContainer = document.createElement("div");
 
-        const video = document.createElement('video');
-        video.width = 720;
-        video.height = 360;
-        video.controls = true;
+            const titleElement = document.createElement("h2");
+            titleElement.textContent = key;
+            videoContainer.appendChild(titleElement);
 
-        const sourceMP4 = document.createElement('source');
-        sourceMP4.src = src;
-        sourceMP4.type = 'video/mp4';
+            const image = document.createElement('img');
+            image.src = "../images/filmpje_placeholder.png";
+            image.alt = "Klik om de video te starten";
+            image.style.cursor = "pointer";
+            image.width = 640;
+            image.height = 360;
 
-        video.appendChild(sourceMP4);
+            image.addEventListener('click', function() {
+                const video = document.createElement('video');
+                video.width = 640;
+                video.height = 360;
+                video.controls = true;
+                video.autoplay = true;
 
-        const fallbackText = document.createTextNode('Je browser ondersteunt geen HTML5 video.');
-        video.appendChild(fallbackText);
+                const sourceMP4 = document.createElement('source');
+                sourceMP4.src = src;
+                sourceMP4.type = 'video/mp4';
 
-        videoContainer.appendChild(video);
-        videosContainer.appendChild(videoContainer);
+                video.appendChild(sourceMP4);
+
+                const fallbackText = document.createTextNode('Je browser ondersteunt geen HTML5 video.');
+                video.appendChild(fallbackText);
+                videoContainer.replaceChild(video, image);
+            });
+
+            videoContainer.appendChild(image);
+            videosContainer.appendChild(videoContainer);
+        }
+    } else {
+        let messageContainer = document.createElement("div");
+        let blankLine = document.createElement("br");
+        messageContainer.appendChild(blankLine);
+        let message = document.createElement("div");
+        message.textContent = "Er zijn (nog) geen extra uitlegfilmpjes van dit hoofdstuk beschikbaar.";
+        messageContainer.appendChild(message);
+        videosContainer.appendChild(messageContainer);
     }
 }
+
+
+
 
 function fillExercises(chapter) {
     const year = document.querySelector(".overview");
@@ -186,38 +211,44 @@ function fillExercises(chapter) {
     const exercisesContainer = document.getElementById("exercises");
 
     exercisesContainer.innerHTML = '';
-
     let title = document.createElement("h1");
     title.textContent = "Extra oefeningen 📝";
     exercisesContainer.appendChild(title);
 
-    for (const [exercise, urls] of Object.entries(exercisesLinks)) {
-        urls.forEach(url => {
-            const listItem = document.createElement('div');
+    if (Object.keys(exercisesLinks).length > 0) {
 
-            const linkElement = document.createElement('a');
-            linkElement.href = url;
-            linkElement.textContent = exercise;
-            linkElement.target = '_blank';
-            
-            const titleElement = document.createElement('p');
-            titleElement.appendChild(linkElement);
+        for (const [exercise, urls] of Object.entries(exercisesLinks)) {
+            urls.forEach(url => {
+                const listItem = document.createElement('div');
 
-            listItem.appendChild(titleElement);
-            exercisesContainer.appendChild(listItem);
-        });
+                const linkElement = document.createElement('a');
+                linkElement.href = url;
+                linkElement.textContent = exercise;
+                linkElement.target = '_blank';
+
+                const titleElement = document.createElement('p');
+                titleElement.appendChild(linkElement);
+
+                listItem.appendChild(titleElement);
+                exercisesContainer.appendChild(listItem);
+            });
+        }
+    } else {
+        let messageContainer = document.createElement("div");
+        let message = document.createElement("div");
+        message.textContent = "Er zijn (nog) geen extra oefeningen van dit hoofdstuk beschikbaar.";
+        messageContainer.appendChild(message);
+        exercisesContainer.appendChild(messageContainer);
     }
 }
+
 
 function fillCorrections(chapter) {
     const year = document.querySelector(".overview");
     const corrections = data[year.id][chapter]["Correctiesleutels"];
     const correctionsContainer = document.getElementById("corrections");
 
-    // Clear previous content in the corrections container
     correctionsContainer.innerHTML = '';
-
-    // Create and append the title
     let title = document.createElement("h1");
     title.textContent = "Correctiesleutels ✅";
     correctionsContainer.appendChild(title);

@@ -9,9 +9,7 @@
                     "Ik weet wat bedoeld wordt met eenheden, tientallen, honderdtallen, duizendtallen en tienduizendtallen.",
                     "Ik weet wat bedoeld wordt met tienden, honderdsten duizendsten en tienduizendsten.",
                     "Ik kan in een getal het cijfer op elke positie correct benoemen.",
-                    "Ik ken de betekenis van een miljoen, miljard, biljoen en biljard.",
-                    "Ik kan een binair getal omzetten naar een decimaal getal.",
-                    "Ik kan een decimaal getal omzetten naar een binair getal."
+                    "Ik ken de betekenis van een miljoen, miljard, biljoen en biljard."
                 ],
                 "1.2 Getalverzamelingen": [
                     "Ik ken de definitie van een natuurlijk getal.",
@@ -44,7 +42,7 @@
                     "Ik kan de symbolen ⇒ en ⇔ toepassen in oefeningen.",
                     "Ik ken de betekenis van de symbolen ∪, ∩ en \\.",
                     "Ik kan de unie, doorsnede en het verschil van twee verzamelingen bepalen.",
-                    "Ik weet wanneer een getal deelbaar is door 10(0)(0), 2, 5, 4, 25, 3 en 9."
+                    "Ik kan de kenmerken omtrent deelbaarheid toepassen in oefeningen."
                 ],
                 "1.4 Breuk, decimale vorm en procent": [
                     "Ik kan in eigen woorden omschrijven wat gelijkwaardige breuken zijn.",
@@ -57,15 +55,13 @@
             },
             "Filmpjes": {
                 "Het positiestelsel" : ["../videos/positiestelsel.mp4"],
-                "Een binair naar een decimaal getal omzetten" : [],
-                "Een decimaal naar een binar getal omzetten" : [],
                 "De natuurlijke getallen" : ["../videos/natuurlijke_getallen.mp4"],
                 "De gehele getallen" : ["../videos/gehele_getallen.mp4"],
-                "De rationale getallen" : ["../videos/rationale_getallen.mp4"],
-                "Implicatie en equivalentie" : [],
-                "Verzamelingen" : [],
-                "Doorsnede en unie van twee verzamelingen" : [],
-                "Verschil van twee verzamelingen" : []
+                "De rationale getallen" : ["../videos/rationale_getallen1.mp4"],
+                "Implicatie en equivalentie" : ["../videos/implicatie_equivalentie.mp4"],
+                "Verzamelingen" : ["../videos/verzamelingen.mp4"],
+                "Doorsnede en unie van twee verzamelingen" : ["../videos/unie_doorsnede.mp4"],
+                "Verschil van twee verzamelingen" : ["../videos/verschil_van_verzamelingen.mp4"]
             },
             "Oefeningen": {},
             "Correctiesleutels": {
@@ -156,7 +152,18 @@
                     "Ik kan de volgorde van de bewerkingen toepassen in oefeningen met gehele getallen."
                 ]
             },
-            "Filmpjes": {},
+            "Filmpjes": {
+                "Gehele getallen optellen" : ["../videos/optellen_in_Z.mp4"],
+                "Gehele getallen aftrekken" : ["../videos/aftrekken_in_Z.mp4"],
+                "Gehele getallen vermenigvuldigen" : ["../videos/vermenigvuldigen_in_Z.mp4"],
+                "Gehele getallen delen" : ["../videos/delen_in_Z.mp4"],
+                "Machten van gehele getallen" : ["../videos/machten_in_Z.mp4"],
+                "Vierkantswortels van gehele getallen" : ["../videos/vierkantswortels_in_Z.mp4"],
+                "Commutativiteit in \u2124" : ["../videos/commutativiteit_in_Z.mp4"],
+                "Associativiteit in \u2124" : ["../videos/associativiteit_in_Z.mp4"],
+                "Distributiviteit in \u2124" : ["../videos/distributiviteit_in_Z.mp4"],
+                "Rol van 0 en 1 in \u2124" : ["../videos/rol_van_0_en_1_in_Z.mp4"]
+            },
             "Oefeningen": {},
             "Correctiesleutels": {
                 "G2.1 - Welkom in \u2124" : ["🔴","../corrections/eerstejaar/G2.1 - Welkom in Z.pdf"],
@@ -181,7 +188,12 @@
 
                 ]
             },
-            "Filmpjes": {},
+            "Filmpjes": {
+                "Ontbinden in priemfactoren" : ["../videos/ontbinden_in_priemfactoren.mp4"],
+                "Grootste gemeenschappelijke deler" : ["../videos/grootste_gemeenschappelijke_deler.mp4"],
+                "Kleinste gemeenschappelijke veelvoud" : ["../videos/kleinste_gemeenschappelijke_veelvoud.mp4"],
+                "Vergelijkingen oplossen" : ["../videos/vergelijkingen_oplossen.mp4"]
+            },
             "Oefeningen": {},
             "Correctiesleutels": {
                 "G3.1 - Vraagstukken oplossen met hoofdbewerkingen" : ["🔴","../corrections/eerstejaar/G3.1 - Vraagstukken oplossen met hoofdbewerkingen.pdf"],
@@ -209,7 +221,16 @@
 
                 ]
             },
-            "Filmpjes": {},
+            "Filmpjes": {
+                "Rationale getallen" : ["../videos/rationale_getallen.mp4"],
+                "Rationale getallen optellen" : ["../videos/optellen_in_Q.mp4"],
+                "Rationale getallen aftrekken" : ["../videos/aftrekken_in_Q.mp4"],
+                "Rationale getallen vermenigvuldigen" : ["../videos/vermenigvuldigen_in_Q.mp4"],
+                "Rationale getallen delen" : ["../videos/delen_in_Q.mp4"],
+                "Machten van rationale getallen" : ["../videos/machten_in_Q.mp4"],
+                "Kwantoren" : ["../videos/kwantoren.mp4"],
+                "Afronden in een rekenblad" : ["../videos/afronden_in_een_rekenblad.mp4"]
+            },
             "Oefeningen": {},
             "Correctiesleutels": {
                 "G4.1 - Welkom in \u211A" : ["🔴","../corrections/eerstejaar/G4.1 - Welkom in Q.pdf"],
@@ -232,7 +253,14 @@
 
                 ]
             },
-            "Filmpjes": {},
+            "Filmpjes": {
+                "Frequentietabel in een rekenblad" : ["../videos/frequentietabel_in_rekenblad.mp4"],
+                "Lijndiagram in een rekenblad" : ["../videos/lijndiagram_in_rekenblad.mp4"],
+                "Dotplot in een rekenblad" : ["../videos/dotplot_in_rekenblad.mp4"],
+                "Staafdiagram in een rekenblad" : ["../videos/staafdiagram_in_rekenblad.mp4"],
+                "Cirkeldiagram in een rekenblad" : ["../videos/cirkeldiagram_in_rekenblad.mp4"],
+                "Centrummaten en spreidingsmaat in een rekenblad" : ["../videos/centrummaten_spreidingsmaat_in_rekenblad.mp4"] 
+            },
             "Oefeningen": {},
             "Correctiesleutels": {
                 "G5.1 & G5.2 - Soorten data & Voorstellingswijzen" : ["🔴","../corrections/eerstejaar/G5.1 & G5.2 - Soorten data & Voorstellingswijzen.pdf"],
@@ -249,7 +277,9 @@
 
                 ]
             },
-            "Filmpjes": {},
+            "Filmpjes": {
+                "Vergelijkingen oplossen" : ["../videos/vergelijkingen_oplossen2.mp4"]
+            },
             "Oefeningen": {},
             "Correctiesleutels": {
                 "G6.1 - Vraagstukken oplossen door het gebruik van letters" : ["🔴","../corrections/eerstejaar/G6.1 - Vraagstukken oplossen door het gebruik van letters.pdf"],
