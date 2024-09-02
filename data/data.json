@@ -597,9 +597,9 @@
                 "👉 27 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/104264/redirect"]
             },
             "Correctiesleutels": {
-                "G2.1 - Machten met gehele exponenten" : ["🟢","../corrections/tweedejaar/G2.1 - Machten met gehele exponenten.pdf"],
-                "G2.2 Wetenschappelijke schrijfwijze" : ["🟢","../corrections/tweedejaar/G2.2 - Wetenschappelijke schrijfwijze.pdf"],
-                "G2 - Oranje blaadjes" : ["🟢", "../corrections/tweedejaar/G2 - Oranje blaadjes.pdf"]
+                "G2.1 - Machten met gehele exponenten" : ["🔴","../corrections/tweedejaar/G2.1 - Machten met gehele exponenten.pdf"],
+                "G2.2 Wetenschappelijke schrijfwijze" : ["🔴","../corrections/tweedejaar/G2.2 - Wetenschappelijke schrijfwijze.pdf"],
+                "G2 - Oranje blaadjes" : ["🔴", "../corrections/tweedejaar/G2 - Oranje blaadjes.pdf"]
             }
         },
         "G3 - Rekenen met algebraïsche vormen": {
