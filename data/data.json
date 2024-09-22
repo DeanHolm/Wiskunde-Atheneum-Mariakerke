@@ -92,8 +92,8 @@
                 "👉 Procenten uit het hoofd berekenen" : ["https://www.geogebra.org/m/radzfcnt#material/uxgkjhak"]
             },
             "Correctiesleutels": {
-                "G1.1 - Ons talstelsel" : ["🔴","../corrections/eerstejaar/G1.1 - Ons talstelsel.pdf"],
-                "G1.2 - Getalverzamelingen" : ["🔴","../corrections/eerstejaar/G1.2 - Getalverzamelingen.pdf"],
+                "G1.1 - Ons talstelsel" : ["🟢","../corrections/eerstejaar/G1.1 - Ons talstelsel.pdf"],
+                "G1.2 - Getalverzamelingen" : ["🟢","../corrections/eerstejaar/G1.2 - Getalverzamelingen.pdf"],
                 "G1.3 - Deelbaarheid" : ["🔴","../corrections/eerstejaar/G1.3 - Deelbaarheid.pdf"],
                 "G1.4 - Breuk, decimale vorm en procent" : ["🔴", "../corrections/eerstejaar/G1.4 - Breuk, decimale vorm en procent.pdf"],
                 "G1 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G1 - Oranje blaadjes.pdf"]
@@ -546,9 +546,18 @@
                     "Ik kan zelf een geschikte oplossingsmethode kiezen bij het oplossen van een vraagstuk."
                 ]
             },
-            "Filmpjes": {},
+            "Filmpjes": {
+                "Implicatie en equivalentie" : ["../videos/implicatie_equivalentie.mp4"],
+                "Verzamelingen" : ["../videos/verzamelingen.mp4"],
+                "Doorsnede en unie van twee verzamelingen" : ["../videos/unie_doorsnede.mp4"],
+                "Verschil van twee verzamelingen" : ["../videos/verschil_van_verzamelingen.mp4"]
+            },
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "G1.1 - Rekenen met rationale getallen" : ["🔴","../corrections/tweedejaar/G1.1 - Rekenen met rationale getallen.pdf"],
+                "G1.2 Oplossingsmethodes voor vraagstukken" : ["🔴","../corrections/tweedejaar/G1.2 - Oplossingsmethodes voor vraagstukken.pdf"],
+                "G1 - Oranje blaadjes" : ["🔴", "../corrections/tweedejaar/G1 - Oranje blaadjes.pdf"]
+            }
         },
         "G2 - Machten": {
             "Doelstellingen": {
@@ -619,7 +628,13 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "G3.1 - Eentermen en veeltermen" : ["🔴","../corrections/tweedejaar/G3.1 - Eentermen en veeltermen.pdf"],
+                "G3.2 - Som en verschil van veeltermen" : ["🔴","../corrections/tweedejaar/G3.2 - Som en verschil van veeltermen.pdf"],
+                "G3.3 - Product van veeltermen" : ["🔴", "../corrections/tweedejaar/G3.3 - Product van veeltermen.pdf"],
+                "G3.4 - Merkwaardige producten" : ["🔴","../corrections/tweedejaar/G3.4 - Merkwaardige producten.pdf"],
+                "G3 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/G3 - Oranje blaadjes.pdf"]
+            }
         },
         "G4 - Data en onzekerheid": {
             "Doelstellingen": {
@@ -641,11 +656,14 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "G4 - Data en onzekerheid" : ["🔴","../corrections/tweedejaar/G4 - Data en onzekerheid.pdf"],
+                "G4 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/G4 - Oranje blaadjes.pdf"]
+            }
         },
         "G5 - Oplossingsmethodes voor vraagstukken": {
             "Doelstellingen": {
-                "5.1 Vergelijkingen oplossen in \u211D" : [
+                "5.1 Vergelijkingen oplossen in \u211A" : [
 
                 ],
                 "5.2 Vraagstukken oplossen" : [
@@ -654,7 +672,11 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "G5.1 - Vergelijkingen oplossen in \u211A" : ["🔴", "../corrections/tweedejaar/G5.1 - Vergelijkingen oplossen in Q.pdf"],
+                "G5.2 - Vraagstukken oplossen" : ["🔴","../corrections/tweedejaar/G5.2 - Vraagstukken oplossen.pdf"],
+                "G5 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/G5 - Oranje blaadjes.pdf"]
+            }
         },
         "G6 - Evenredigheden": {
             "Doelstellingen": {
@@ -667,7 +689,11 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "G6.1 - Evenredigheden" : ["🔴", "../corrections/tweedejaar/G6.1 - Evenredigheden.pdf"],
+                "G6.2 - Recht en omgekeerd evenredig" : ["🔴","../corrections/tweedejaar/G6.2 - Recht en omgekeerd evenredig.pdf"],
+                "G6 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/G6 - Oranje blaadjes.pdf"]
+            }
         },
         "M1 - Transformaties": {
             "Doelstellingen": {
@@ -730,8 +756,49 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Oefeningen": {
+                "👉 41 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/105868/redirect"],
+                "👉 Het gespiegelde konijn" : ["https://www.geogebra.org/m/aen2ha7e#material/h9eabaqq"],
+                "👉 Een punt spiegelen om een as (1)" : ["https://www.geogebra.org/m/aen2ha7e#material/ey6fm8mv"],
+                "👉 Een punt spiegelen om een as (2)" : ["https://www.geogebra.org/m/aen2ha7e#material/s6ccdept"],
+                "👉 Een hoek spiegelen om een as" : ["https://www.geogebra.org/m/aen2ha7e#material/uzqmhhuf"],
+                "👉 Een vlakke figuur spiegelen om een as" : ["https://www.geogebra.org/m/aen2ha7e#material/ensxuk2n"],
+                "👉 De ligging van de spiegelas (1)" : ["https://www.geogebra.org/m/aen2ha7e#material/fes6szkx"],
+                "👉 De ligging van de spiegelas (2)" : ["https://www.geogebra.org/m/aen2ha7e#material/BFfj43ET"],
+                "👉 Gelijke vectoren" : ["https://www.geogebra.org/m/aen2ha7e#material/xajt6rrq"],
+                "👉 Een punt verschuiven over een vector (1)" : ["https://www.geogebra.org/m/aen2ha7e#material/ayafcpdq"],
+                "👉 Een punt verschuiven over een vector (2)" : ["https://www.geogebra.org/m/aen2ha7e#material/Dz983q2x"],
+                "👉 Een vlakke figuur verschuiven over een vector" : ["https://www.geogebra.org/m/aen2ha7e#material/kq3t4yfe"],
+                "👉 Teken de vector die de verschuiving bepaalt" : ["https://www.geogebra.org/m/aen2ha7e#material/apfjpaq7"],
+                "👉 Een punt draaien (1)" : ["https://www.geogebra.org/m/aen2ha7e#material/jremv3wk"],
+                "👉 Een punt draaien (2)" : ["https://www.geogebra.org/m/aen2ha7e#material/fjwwxp6x"],
+                "👉 Een vlakke figuur draaien" : ["https://www.geogebra.org/m/aen2ha7e#material/rabktxnn"],
+                "👉 Bepaal de draaihoek" : ["https://www.geogebra.org/m/aen2ha7e#material/s6dwvdjm"],
+                "👉 Een punt spiegelen om een punt" : ["https://www.geogebra.org/m/aen2ha7e#material/qmxwgqqr"],
+                "👉 Een vlakke figuur spiegelen om een punt" : ["https://www.geogebra.org/m/aen2ha7e#material/ynxgyeus"],
+                "👉 Onderzoek de symmetrieassen van driehoeken" : ["https://www.geogebra.org/m/aen2ha7e#material/nPCxnTrB"],
+                "👉 Onderzoek de symmetrieassen van een trapezium" : ["https://www.geogebra.org/m/aen2ha7e#material/XJUjJXgR"],
+                "👉 Onderzoek de symmetrieassen van een rechthoek" : ["https://www.geogebra.org/m/aen2ha7e#material/tXfp8cqb"],
+                "👉 Onderzoek de symmetrieassen van een ruit" : ["https://www.geogebra.org/m/aen2ha7e#material/CKXK7q2s"],
+                "👉 Onderzoek de symmetrieassen van een vierkant" : ["https://www.geogebra.org/m/aen2ha7e#material/pNYn33uK"],
+                "👉 Symmetrieassen van vierhoeken" : ["https://www.geogebra.org/m/aen2ha7e#material/rn5vjvzp"],
+                "👉 Symmetrieassen op speelkaarten" : ["https://www.geogebra.org/m/aen2ha7e#material/adrsaqdn"],
+                "👉 Symmetrieassen in een dobbelsteen" : ["https://www.geogebra.org/m/aen2ha7e#material/gcegbckq"],
+                "👉 Spiegelsymmetrie om een as" : ["https://www.geogebra.org/m/aen2ha7e#material/UhRjGHMD"],
+                "👉 Spiegelsymmetrie om een punt" : ["https://www.geogebra.org/m/aen2ha7e#material/r6bmqurw"],
+                "👉 Eigenschappen van een spiegeling om een as" : ["https://www.geogebra.org/m/aen2ha7e#material/j6f6zndn"],
+                "👉 Eigenschappen van een verschuiving over een vector" : ["https://www.geogebra.org/m/aen2ha7e#material/xdzgxkjy"],
+                "👉 Eigenschappen van een rotatie" : ["https://www.geogebra.org/m/aen2ha7e#material/ugneth4m"],
+                "👉 Eigenschappen van een puntspiegeling" : ["https://www.geogebra.org/m/aen2ha7e#material/bbwehafq"]
+            },
+            "Correctiesleutels": {
+                "M1.2 - Spiegelen om een as" : ["🟢", "../corrections/tweedejaar/M1.2 - Spiegelen om een as.pdf"],
+                "M1.3 - Verschuiven over een vector" : ["🟢","../corrections/tweedejaar/M1.3 - Verschuiven over een vector.pdf"],
+                "M1.4 - Roteren over een hoek" : ["🔴","../corrections/tweedejaar/M1.4 - Roteren over een hoek.pdf"],
+                "M1.5 - Symmetrie" : ["🔴", "../corrections/tweedejaar/M1.5 - Symmetrie.pdf"],
+                "M1.6 - Eigenschappen van transformaties" : ["🔴","../corrections/tweedejaar/M1.6 - Eigenschappen van transformaties.pdf"],
+                "M1 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M1 - Oranje blaadjes.pdf"]
+            }
         },
         "M2 - Hoeken": {
             "Doelstellingen": {
@@ -787,7 +854,12 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "M2.2 - Soorten hoeken" : ["🔴","../corrections/tweedejaar/M2.2 - Soorten hoeken.pdf"],
+                "M2.3 - Hoeken bij evenwijdigen en een snijlijn" : ["🔴", "../corrections/tweedejaar/M2.3 - Hoeken bij evenwijdigen en een snijlijn.pdf"],
+                "M2.4 - Som van de hoeken in een veelhoek" : ["🔴","../corrections/tweedejaar/M2.4 - Som van de hoeken in een veelhoek.pdf"],
+                "M2 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M2 - Oranje blaadjes.pdf"]
+            }
         },
         "M3 - Congruentie": {
             "Doelstellingen": {
@@ -803,7 +875,11 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "M3.2 - Congruentie" : ["🔴", "../corrections/tweedejaar/M3.2 - Congruentie.pdf"],
+                "M3.3 - Verantwoorden van constructies" : ["🔴","../corrections/tweedejaar/M3.3 - Verantwoorden van constructies.pdf"],
+                "M3 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M3 - Oranje blaadjes.pdf"]
+            }
         },
         "M4 - Driehoeken": {
             "Doelstellingen": {
@@ -816,7 +892,10 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "M4.1 - Eigenschappen onderzoeken" : ["🔴", "../corrections/tweedejaar/M4.1 - Eigenschappen onderzoeken.pdf"],
+                "M4 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M4 - Oranje blaadjes.pdf"]
+            }
         },
         "M5 - Ruimtemeetkunde": {
             "Doelstellingen": {
@@ -829,7 +908,11 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "M5.1 - Ruimtefiguren herkennen" : ["🔴", "../corrections/tweedejaar/M5.1 - Ruimtefiguren herkennen.pdf"],
+                "M5.2 - Volume van ruimtefiguren" : ["🔴","../corrections/tweedejaar/M5.2 - Volume van ruimtefiguren.pdf"],
+                "M5 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M5 - Oranje blaadjes.pdf"]
+            }
         },
         "M6 - Vierhoeken": {
             "Doelstellingen": {
@@ -842,7 +925,11 @@
             },
             "Filmpjes": {},
             "Oefeningen": {},
-            "Correctiesleutels": {}
+            "Correctiesleutels": {
+                "M6.1 - Eigenschappen onderzoeken" : ["🔴", "../corrections/tweedejaar/M6.1 - Eigenschappen onderzoeken.pdf"],
+                "M6.2 - Vierhoeken construeren en classificeren" : ["🔴","../corrections/tweedejaar/M6.2 - Vierhoeken construeren en classificeren.pdf"],
+                "M6 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M6 - Oranje blaadjes.pdf"]
+            }
         }
     }
 }

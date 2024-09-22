@@ -12,14 +12,14 @@ a {
 
 #grid-container-home {
     display: grid;
-    grid-template-columns: 1fr 1300px 1fr;
+    grid-template-columns: 1fr 1000px 1fr;
     grid-template-rows: 200px 150px 1fr 150px;
     grid-template-areas:
         "header header header"
         "borderleft nav borderright"
         "borderleft main borderright"
         "footer footer footer";
-        min-height: 100vh;
+    min-height: 100vh;
 }
 
 #grid-container-nav {
@@ -34,7 +34,7 @@ a {
 
 #grid-container-footer {
     display: grid;
-    grid-template-columns: 1fr 1300px 1fr;
+    grid-template-columns: 1fr 1000px 1fr;
     grid-template-areas: "leftfooter middlefooter rightfooter";
 }
 
@@ -88,13 +88,13 @@ header {
 #title {
     font-family: 'Times New Roman', Times, serif;
     padding: 20px 0px;
-    font-size: 3em;
+    font-size: 2.5em;
     color: #E1E554;
     text-shadow: 5px 5px black;
     letter-spacing: 8px;
     background-color: #094531;
     border-radius: 0px 0px 20px 20px;
-    width: 1300px;
+    width: 1000px;
     border: 4px solid #E1E554;
 }
 
@@ -117,7 +117,7 @@ nav li {
     font-family: 'Great Vibes', cursive;
     text-shadow: 1px 1px black;
     color: #E1E554;
-    font-size: 2em;
+    font-size: 1.5em;
     list-style-type: none;
     overflow: hidden;
     padding: 20px 0px;
@@ -142,10 +142,14 @@ nav li a {
 nav li.active {
     color: #094531;
     text-shadow: 1px 1px black;
-    background-color: #E1E554; /* Vult de volledige ruimte met kleur */
-    background-size: 100% 100%; /* Zorgt ervoor dat de achtergrondkleur volledig zichtbaar is */
-    background-position: 0 0; /* Zorgt ervoor dat de achtergrondkleur in de juiste positie staat */
-    transition: none; /* Geen transitie-effecten voor het actieve element */
+    background-color: #E1E554;
+    /* Vult de volledige ruimte met kleur */
+    background-size: 100% 100%;
+    /* Zorgt ervoor dat de achtergrondkleur volledig zichtbaar is */
+    background-position: 0 0;
+    /* Zorgt ervoor dat de achtergrondkleur in de juiste positie staat */
+    transition: none;
+    /* Geen transitie-effecten voor het actieve element */
 }
 
 nav li:not(.active):hover {
@@ -226,7 +230,7 @@ ol {
 }
 
 #POD div {
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 30px;
     border: 3px solid #094531;
@@ -240,7 +244,7 @@ ol {
     align-items: center;
     justify-content: center;
     text-align: center;
-    
+
 }
 
 #POD a {
