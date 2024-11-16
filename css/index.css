@@ -21,3 +21,7 @@ img#picture_pi {
     max-width: 275px;
     flex-shrink: 0; /* Zorgt ervoor dat de afbeelding niet krimpt als de ruimte krap is */
 }
+
+body {
+    background-color: #dbdfd1;
+}
