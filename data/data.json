@@ -860,7 +860,15 @@
                     "Ik kan de formule om de som van de hoeken in een veelhoek te bepalen toepassen in oefeningen."
                 ]
             },
-            "Filmpjes": {},
+            "Filmpjes": {
+                "Bewijs - Eigenschap overstaande hoeken" : ["../videos/Bewijs - Overstaande hoeken.mp4"],
+                "Bewijs - Eigenschap verwisselende binnenhoeken" : ["../videos/Bewijs - Verwisselende binnenhoeken.mp4"],
+                "Bewijs - Eigenschap verwisselende buitenhoeken" : ["../videos/Bewijs - Verwisselende buitenhoeken.mp4"],
+                "Bewijs - Eigenschap binnenhoeken aan dezelfde kant van de snijlijn" : ["../videos/Bewijs - Binnenhoeken aan dezelfde kant van de snijlijn.mp4"],
+                "Bewijs - Eigenschap buitenhoeken aan dezelfde kant van de snijlijn" : ["../videos/Bewijs - Buitenhoeken aan dezelfde kant van de snijlijn.mp4"],
+                "Bewijs - Eigenschap hoekensom in een driehoek" : ["../videos/Bewijs - Hoekensom driehoek.mp4"],
+                "Bewijs - Eigenschap hoekensom in een vierhoek" : ["../videos/Bewijs - Hoekensom vierhoek.mp4"]
+            },
             "Oefeningen": {},
             "Correctiesleutels": {
                 "M2.2 - Soorten hoeken" : ["🟢","../corrections/tweedejaar/M2.2 - Soorten hoeken.pdf"],
