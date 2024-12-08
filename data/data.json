@@ -224,7 +224,7 @@
                 "3.3 Vraagstukken oplossen door het gebruik van letters" : [
                     "Ik kan in een lettervorm de coëfficiënt en het lettergedeelte herkennen.",
                     "Ik kan regelmaat / een patroon herkennen in een reeks gegevens.",
-                    "Ik kan regelmaat / een patroom omzetten in een letterformule.",
+                    "Ik kan regelmaat / een patroon omzetten in een letterformule.",
                     "Ik kan de letter als plaatsvervanger van een getal vervangen door een gegeven getal en zo de getalwaarde berekenen.",
                     "Ik kan patroonherkenning gebruiken als heuristiek om een vraagstuk op te lossen."
                 ],
@@ -259,19 +259,67 @@
         "G4 - Rationale getallen": {
             "Doelstellingen": {
                 "4.1 Welkom in \u211A" : [
-
+                    "Ik ken de betekenis van een rationaal getal.",
+                    "Ik kan rationale getallen ordenen op een getallenas.",
+                    "Ik ken de definitie van de absolute waarde van een getal.",
+                    "Ik kan de absolute waarde van een rationaal getal bepalen.",
+                    "Ik ken de definitie van het tegengestelde van een getal.",
+                    "Ik kan het tegengestelde van een rationaal getal bepalen.",
+                    "Ik ken de definitie van het omgekeerde van een rationaal getal.",
+                    "Ik kan het omgekeerde van een rationaal getal bepalen.",
+                    "Ik kan in een (orthogonaal) assenstelsel coördinaten aanduiden met rationale coördinaatgetallen.",
+                    "Ik kan in een (orthogonaal) assenstelsel coördinaten aflezen met rationale coördinaatgetallen.",
+                    "Ik kan een breuk omzetten naar een begrensde decimale vorm.",
+                    "Ik kan met behulp van ICT een breuk omzetten naar een onbegrensde decimale vorm.",
+                    "Ik kan een begrensde decimale vorm omzetten naar een onvereenvoudigbare breuk.",
+                    "Ik kan met behulp van ICT een onbegrensde decimale vorm omzetten naar een onvereenvoudigbare breuk."
                 ],
                 "4.2 Hoofdbewerkingen met rationale getallen" : [
-
+                    "Ik kan de som bepalen van twee rationale getallen.",
+                    "Ik kan het verschil bepalen van twee rationale getallen.",
+                    "Ik kan het product bepalen van twee rationale getallen.",
+                    "Ik kan het quotiënt bepalen van twee rationale getallen.",
                 ],
                 "4.3 Machten en vierkantswortels" : [
-
+                    "Ik ken de definitie van machten.",
+                    "Ik ken de rekenregel om een macht van een breuk te bepalen.",
+                    "Ik kan de macht van een breuk bepalen.",
+                    "Ik kan de macht van een decimaal getal bepalen.",
+                    "Ik ken de regenregel om een vierkantswortel van een breuk te bepalen.",
+                    "Ik kan de vierkantswortel van een breuk bepalen",
+                    "Ik kan de vierkantswortel van een decimaal getal bepalen.",
                 ],
                 "4.4 Eigenschappen van de hoofdbewerkingen" : [
-
+                    "Ik ken het symbool van de universele, existentiële en uniciteitskwantor.",
+                    "Ik kan de juiste kwantor gebruiken om een wiskundige redenering aan te vullen.",
+                    "Ik ken de commutatieve eigenschap voor de optelling in \u211A in woorden.",
+                    "Ik ken de commutatieve eigenschap voor de optelling in \u211A in symbolen.",
+                    "Ik ken de commutatieve eigenschap voor de vermenigvuldiging in \u211A in woorden.",
+                    "Ik ken de commutatieve eigenschap voor de vermenigvuldiging in \u211A in symbolen.",
+                    "Ik ken de associatieve eigenschap voor de optelling in \u211A in woorden.",
+                    "Ik ken de associatieve eigenschap voor de optelling in \u211A in symbolen.",
+                    "Ik ken de associatieve eigenschap voor de vermenigvuldiging in \u211A in woorden.",
+                    "Ik ken de associatieve eigenschap voor de vermenigvuldiging in \u211A in symbolen.",
+                    "Ik ken de distributieve eigenschap voor het vermenigvuldigen ten opzichte van het optellen in \u211A in woorden.",
+                    "Ik ken de distributieve eigenschap voor het vermenigvuldigen ten opzichte van het optellen in \u211A in symbolen.",
+                    "Ik ken de distributieve eigenschap voor het vermenigvuldigen ten opzichte van het aftrekken in \u211A in woorden.",
+                    "Ik ken de distributieve eigenschap voor het vermenigvuldigen ten opzichte van het aftrekken in \u211A in symbolen.",
+                    "Ik ken de eigenschap voor het neutraal element voor de optelling in \u211A in woorden.",
+                    "Ik ken de eigenschap voor het neutraal element voor de optelling in \u211A in symbolen.",
+                    "Ik ken de eigenschap voor het neutraal element voor de vermenigvuldiging in \u211A in woorden.",
+                    "Ik ken de eigenschap voor het neutraal element voor de vermenigvuldiging in \u211A in symbolen.",
+                    "Ik ken de eigenschap voor het opslorpend element voor de vermenigvuldiging in \u211A in woorden.",
+                    "Ik ken de eigenschap voor het opslorpend element voor de vermenigvuldiging in \u211A in symbolen.",
+                    "Ik ken de eigenschap voor het symmetrisch element voor het optellen in \u211A in woorden.",
+                    "Ik ken de eigenschap voor het symmetrisch element voor het optellen in \u211A in symbolen.",
+                    "Ik ken de eigenschap voor het symmetrisch element voor het vermenigvuldigen in \u211A in woorden.",
+                    "Ik ken de eigenschap voor het symmetrisch element voor het vermenigvuldigen in \u211A in symbolen.",
+                    "Ik kan de eigenschappen van de hoofdbewerkingen herkennen in oefeningen.",
+                    "Ik kan de eigenschappen van de hoofdbewerkingen toepassen in oefeningen.",
                 ],
                 "4.5 De volgorde van bewerkingen" : [
-
+                    "Ik ken de volgorde van de bewerkingen.",
+                    "Ik kan de volgorde van de bewerkingen toepassen in oefeningen met rationale getallen."
                 ]
             },
             "Filmpjes": {
