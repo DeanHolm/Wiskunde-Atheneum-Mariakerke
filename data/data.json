@@ -204,15 +204,41 @@
         "G3 - Oplossingsmethodes voor vraagstukken": {
             "Doelstellingen": {
                 "3.1 Vraagstukken oplossen met hoofdbewerkingen" : [
-
+                    "Ik kan in eigen woorden omschrijven wat een heuristiek is.",
+                    "Ik kan vraagstukken oplossen met hoofdbewerkingen.",
+                    "Ik kan vraagstukken oplossen met behulp van de regel van drie.",
+                    "Ik kan vraagstukken oplossen met behulp van een verhoudingstabel.",
+                    "Ik kan de hoofdbewerkingen, de regel van drie en een verhoudingstabel als heuristiek gebruiken om een vraagstuk op te lossen."
                 ],
                 "3.2 Vraagstukken oplossen in verband met deelbaarheid" : [
+                    "Ik ken de definitie van een priemgetal.",
+                    "Ik kan de eerste 10 priemgetallen opsommen.",
+                    "Ik kan een getal ontbinden in priemfactoren.",
+                    "Ik ken de definitie van de grootste gemeenschappelijke deler van twee getallen.",
+                    "Ik kan de grootste gemeenschappelijke deler van twee getallen bepalen.",
+                    "Ik ken de defintie van onderling ondeelbare getallen.",
+                    "Ik kan bepalen of twee getallen onderdeling ondeelbaar zijn of niet.",
+                    "Ik ken de definitie van het kleinste gemeenschappelijk veelvoud van twee getallen.",
+                    "Ik kan het kleinste gemeenschappelijk veelvoud van twee getallen bepalen."
                 ],
                 "3.3 Vraagstukken oplossen door het gebruik van letters" : [
-
+                    "Ik kan in een lettervorm de coëfficiënt en het lettergedeelte herkennen.",
+                    "Ik kan regelmaat / een patroon herkennen in een reeks gegevens.",
+                    "Ik kan regelmaat / een patroom omzetten in een letterformule.",
+                    "Ik kan de letter als plaatsvervanger van een getal vervangen door een gegeven getal en zo de getalwaarde berekenen.",
+                    "Ik kan patroonherkenning gebruiken als heuristiek om een vraagstuk op te lossen."
                 ],
                 "3.4 Vraagstukken oplossen met vergelijkingen" : [
-
+                    "Ik kan een vergelijking herkennen.",
+                    "Ik kan in een vergelijking het linker- en rechterlid aanduiden.",
+                    "Ik kan vergelijkingen oplossen van de vorm x + a = b.",
+                    "Ik kan vergelijkingen oplossen van de vorm x - a = b.",
+                    "Ik kan vergelijkingen oplossen van de vorm ax = b.",
+                    "Ik kan vergelijkingen oplossen van de vorm x : a = b.",
+                    "Ik kan een vergelijking gebruiken als heuristiek om een vraagstuk op te lossen.",
+                    "Ik kan een vergelijking gebruiken om een oefening met procenten uit te rekenen.",
+                    "Ik kan procentrekenene gebruiken als heuristiek om een vraagstuk op te lossen.",
+                    "Ik kan een eenvoudige formule omvormen."
                 ]
             },
             "Filmpjes": {
