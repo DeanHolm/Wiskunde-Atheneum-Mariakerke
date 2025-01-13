@@ -656,7 +656,9 @@
                 "Werken met de rekenmachine - Vierkantswortels" : ["../videos/7. Vierkantswortels.mp4"],
                 "Werken met de rekenmachine - Voorbeeldoefening" : ["../videos/8. Voorbeeldoefening.mp4"]
             },
-            "Oefeningen": {},
+            "Oefeningen": {
+                 "👉 42 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111807/redirect"]
+            },
             "Correctiesleutels": {
                 "G1.1 - Rekenen met rationale getallen" : ["🟢","../corrections/tweedejaar/G1.1 - Rekenen met rationale getallen.pdf"],
                 "G1.2 Oplossingsmethodes voor vraagstukken" : ["🟢","../corrections/tweedejaar/G1.2 - Oplossingsmethodes voor vraagstukken.pdf"],
@@ -731,7 +733,9 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
+            "Oefeningen": {
+                 "👉 60 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111808/redirect"]
+            },
             "Correctiesleutels": {
                 "G3.1 - Eentermen en veeltermen" : ["🟢","../corrections/tweedejaar/G3.1 - Eentermen en veeltermen.pdf"],
                 "G3.2 - Som en verschil van veeltermen" : ["🟢","../corrections/tweedejaar/G3.2 - Som en verschil van veeltermen.pdf"],
@@ -759,7 +763,9 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 7 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111809/redirect"]
+            },
             "Correctiesleutels": {
                 "G4 - Data en onzekerheid" : ["🔴","../corrections/tweedejaar/G4 - Data en onzekerheid.pdf"],
                 "G4 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/G4 - Oranje blaadjes.pdf"]
@@ -775,7 +781,9 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 22 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111810/redirect"]
+            },
             "Correctiesleutels": {
                 "G5.1 - Vergelijkingen oplossen in \u211A" : ["🔴", "../corrections/tweedejaar/G5.1 - Vergelijkingen oplossen in Q.pdf"],
                 "G5.2 - Vraagstukken oplossen" : ["🔴","../corrections/tweedejaar/G5.2 - Vraagstukken oplossen.pdf"],
@@ -792,7 +800,9 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 10 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111811/redirect"]
+            },
             "Correctiesleutels": {
                 "G6.1 - Evenredigheden" : ["🔴", "../corrections/tweedejaar/G6.1 - Evenredigheden.pdf"],
                 "G6.2 - Recht en omgekeerd evenredig" : ["🔴","../corrections/tweedejaar/G6.2 - Recht en omgekeerd evenredig.pdf"],
@@ -965,7 +975,9 @@
                 "Bewijs - Eigenschap hoekensom in een driehoek" : ["../videos/Bewijs - Hoekensom driehoek.mp4"],
                 "Bewijs - Eigenschap hoekensom in een vierhoek" : ["../videos/Bewijs - Hoekensom vierhoek.mp4"]
             },
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 31 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111812/redirect"]
+            },
             "Correctiesleutels": {
                 "M2.2 - Soorten hoeken" : ["🟢","../corrections/tweedejaar/M2.2 - Soorten hoeken.pdf"],
                 "M2.3 - Hoeken bij evenwijdigen en een snijlijn" : ["🟢", "../corrections/tweedejaar/M2.3 - Hoeken bij evenwijdigen en een snijlijn.pdf"],
@@ -986,7 +998,9 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 10 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111813/redirect"]
+            },
             "Correctiesleutels": {
                 "M3.2 - Congruentie" : ["🔴", "../corrections/tweedejaar/M3.2 - Congruentie.pdf"],
                 "M3.3 - Verantwoorden van constructies" : ["🔴","../corrections/tweedejaar/M3.3 - Verantwoorden van constructies.pdf"],
@@ -1003,7 +1017,9 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 8 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111814/redirect"]
+            },
             "Correctiesleutels": {
                 "M4.1 - Eigenschappen onderzoeken" : ["🔴", "../corrections/tweedejaar/M4.1 - Eigenschappen onderzoeken.pdf"],
                 "M4 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M4 - Oranje blaadjes.pdf"]
@@ -1019,7 +1035,9 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 12 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111815/redirect"]
+            },
             "Correctiesleutels": {
                 "M5.1 - Ruimtefiguren herkennen" : ["🔴", "../corrections/tweedejaar/M5.1 - Ruimtefiguren herkennen.pdf"],
                 "M5.2 - Volume van ruimtefiguren" : ["🔴","../corrections/tweedejaar/M5.2 - Volume van ruimtefiguren.pdf"],
@@ -1036,7 +1054,9 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 7 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111816/redirect"]
+            },
             "Correctiesleutels": {
                 "M6.1 - Eigenschappen onderzoeken" : ["🔴", "../corrections/tweedejaar/M6.1 - Eigenschappen onderzoeken.pdf"],
                 "M6.2 - Vierhoeken construeren en classificeren" : ["🔴","../corrections/tweedejaar/M6.2 - Vierhoeken construeren en classificeren.pdf"],
