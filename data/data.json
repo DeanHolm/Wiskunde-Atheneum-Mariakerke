@@ -720,16 +720,57 @@
         "G3 - Rekenen met algebraïsche vormen": {
             "Doelstellingen": {
                 "3.1 Eentermen en veeltermen" : [
-
+                    "Ik ken de definitie van een eenterm.",
+                    "Ik ken de 5 afspraken om een eenterm wiskundig correct te noteren.",
+                    "Ik kan in een eenterm de coëfficiënt en het lettergedeelte van elkaar scheiden.",
+                    "Ik ken de definitie van de graad van een eenterm in een letter.",
+                    "Ik kan de graad van een eenterm in een letter bepalen.",
+                    "Ik ken de definitie van de graad van een eenterm in alle letters.",
+                    "Ik kan de graad van een eenterm in alle letters bepalen.",
+                    "Ik ken de definitie van gelijksoortige eentermen.",
+                    "Ik kan gelijksoortige eentermen herkennen.",
+                    "Ik kan de getalwaarde van een eenterm berekenen.",
+                    "Ik kan letterformules in de vorm van een eenterm herkennen.",
+                    "Ik kan letterformules in de vorm van een eenterm opstellen.",
+                    "Ik ken de definitie van een veelterm.",
+                    "Ik kan een tweeterm en drieterm herkennen.",
+                    "Ik ken de definitie van de graad van een veelterm in een letter.",
+                    "Ik kan de graad van een veelterm in een letter bepalen.",
+                    "Ik kan de getalwaarde van een veelterm berekenen.",
+                    "Ik kan letterformules in de vorm van een veelterm herkennen.",
+                    "Ik kan letterformules in de vorm van een veelterm opstellen."
                 ],
                 "3.2 Som en verschil van veeltermen" : [
-
+                    "Ik ken de stappen die nodig zijn om gelijksoortige eentermen bij elkaar op te tellen / af te trekken.",
+                    "Ik kan gelijksoortige eentermen bij elkaar optellen / aftrekken.",
+                    "Ik weet wat er wordt bedoeld met het herleiden van een veelterm.,
+                    "Ik kan veeltermen herleiden.",
+                    "Ik weet wat er wordt bedoeld het het rangschikken van een veelterm (in een bepaalde letter).",
+                    "Ik kan veeltermen herleiden (in een bepaalde letter).",
+                    "Ik ken de stappen die nodig zijn om twee veeltermen op te tellen.",
+                    "Ik kan twee veeltermen bij elkaar optellen.",
+                    "Ik ken de stappen die nodig zijn om het verschil van twee veeltermen te bepalen.",
+                    "Ik kan het verschil bepalen van twee veeltermen."
                 ],
                 "3.3 Product van veeltermen" : [
-
+                    "Ik ken de stappen die nodig zijn om het product van twee eentermen te bepalen.",
+                    "Ik kan het product van twee veeltermen bepalen.",
+                    "Ik ken de stappen die nodig zijn om de macht van een eenterm te bepalen.",
+                    "Ik kan de macht van een eenterm bepalen.",
+                    "Ik ken de stappen die nodig zijn om het product te bepalen van een eenterm met een veelterm.",
+                    "Ik kan het product bepalen van een eenterm met een veelterm.",
+                    "Ik ken de stappen die nodig zijn om het product van twee veeltermen te bepalen.",
+                    "Ik kan het product van twee veeltermen bepalen."
                 ],
                 "3.4 Merkwaardige producten" : [
-
+                    "Ik herken het kwadraat van een tweeterm als een merkwaardig product.",
+                    "Ik ken de formule om het kwadraat van een tweeterm te bepalen.",
+                    "Ik kan het dubbel product aanduiden bij het bepalen van het kwadraat van een tweeterm.",
+                    "Ik kan het kwadraat van een tweeterm bepalen.",
+                    "Ik kan uitleggen van toegevoegde tweetermen zijn.",
+                    'Ik kan toegevoegde tweetermen herkennen."
+                    "Ik herken het product van twee toegevoegde tweetermen als een merkwaardig product.",
+                    "Ik ken de formule om het product van twee toegevoegde tweetermen te bepalen."
                 ]
             },
             "Filmpjes": {},
