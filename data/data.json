@@ -191,7 +191,9 @@
                 "Distributiviteit in \u2124" : ["../videos/distributiviteit_in_Z.mp4"],
                 "Rol van 0 en 1 in \u2124" : ["../videos/rol_van_0_en_1_in_Z.mp4"]
             },
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 97 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111792/redirect"]
+            },
             "Correctiesleutels": {
                 "G2.1 - Welkom in \u2124" : ["🟢","../corrections/eerstejaar/G2.1 - Welkom in Z.pdf"],
                 "G2.2 - Hoofdbewerkingen met gehele getallen" : ["🟢","../corrections/eerstejaar/G2.2 - Hoofdbewerkingen met gehele getallen.pdf"],
@@ -247,7 +249,9 @@
                 "Kleinste gemeenschappelijke veelvoud" : ["../videos/kleinste_gemeenschappelijke_veelvoud.mp4"],
                 "Vergelijkingen oplossen" : ["../videos/vergelijkingen_oplossen.mp4"]
             },
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 71 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111793/redirect"]
+            },
             "Correctiesleutels": {
                 "G3.1 - Vraagstukken oplossen met hoofdbewerkingen" : ["🟢","../corrections/eerstejaar/G3.1 - Vraagstukken oplossen met hoofdbewerkingen.pdf"],
                 "G3.2 - Vraagstukken oplossen in verband met deelbaarheid" : ["🟢","../corrections/eerstejaar/G3.2 - Vraagstukken oplossen in verband met deelbaarheid.pdf"],
@@ -332,7 +336,9 @@
                 "Kwantoren" : ["../videos/kwantoren.mp4"],
                 "Afronden in een rekenblad" : ["../videos/afronden_in_een_rekenblad.mp4"]
             },
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 105 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111795/redirect"]
+            },
             "Correctiesleutels": {
                 "G4.1 - Welkom in \u211A" : ["🔴","../corrections/eerstejaar/G4.1 - Welkom in Q.pdf"],
                 "G4.2 - Hoofdbewerkingen met rationale getallen" : ["🔴","../corrections/eerstejaar/G4.2 - Hoofdbewerkingen met rationale getallen.pdf"],
@@ -362,7 +368,9 @@
                 "Cirkeldiagram in een rekenblad" : ["../videos/cirkeldiagram_in_rekenblad.mp4"],
                 "Centrummaten en spreidingsmaat in een rekenblad" : ["../videos/centrummaten_spreidingsmaat_in_rekenblad.mp4"] 
             },
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 20 extra Polpo-oefeningen" : [https://api.polpo.be/api/Bundles/111796/redirect]
+            },
             "Correctiesleutels": {
                 "G5.1 & G5.2 - Soorten data & Voorstellingswijzen" : ["🔴","../corrections/eerstejaar/G5.1 & G5.2 - Soorten data & Voorstellingswijzen.pdf"],
                 "G5.3 - Gemiddelde, mediaan, modus en variatiebreedte" : ["🔴","../corrections/eerstejaar/G5.3 - Gemiddelde, mediaan, modus en variatiebreedte.pdf"],
@@ -381,7 +389,9 @@
             "Filmpjes": {
                 "Vergelijkingen oplossen" : ["../videos/vergelijkingen_oplossen2.mp4"]
             },
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 21 extra Polpo-oefeningen" : [https://api.polpo.be/api/Bundles/111797/redirect]
+            },
             "Correctiesleutels": {
                 "G6.1 - Vraagstukken oplossen door het gebruik van letters" : ["🔴","../corrections/eerstejaar/G6.1 - Vraagstukken oplossen door het gebruik van letters.pdf"],
                 "G6.2 - Vraagstukken oplossen met vergelijkingen" : ["🔴","../corrections/eerstejaar/G6.2 - Vraagstukken oplossen met vergelijkingen.pdf"],
@@ -429,7 +439,9 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 36 extra Polpo-oefeningen" : [https://api.polpo.be/api/Bundles/111799/redirect]
+            },
             "Correctiesleutels": {
                 "M1.1 - Ruimtefiguren en vlakke figuren herkennen" : ["🟢","../corrections/eerstejaar/M1.1 - Ruimtefiguren en vlakke figuren herkennen.pdf"],
                 "M1.2 - Begrippen in de vlakke meetkunde" : ["🟢","../corrections/eerstejaar/M1.2 - Begrippen in de vlakke meetkunde.pdf"],
@@ -476,7 +488,9 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 36 extra Polpo-oefeningen" : [https://api.polpo.be/api/Bundles/111800/redirect]
+            },
             "Correctiesleutels": {
                 "M2.1 - Rechten" : ["🟢","../corrections/eerstejaar/M2.1 - Rechten.pdf"],
                 "M2.2 - Hoeken" : ["🟢","../corrections/eerstejaar/M2.2 - Hoeken.pdf"],
@@ -499,7 +513,9 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 83 extra Polpo-oefeningen" : [https://api.polpo.be/api/Bundles/111801/redirect]
+            },
             "Correctiesleutels": {
                 "M3.2 - Driehoeken" : ["🔴","../corrections/eerstejaar/M3.2 - Driehoeken.pdf"],
                 "M3.3 - Vierhoeken" : ["🔴","../corrections/eerstejaar/M3.3 - Vierhoeken.pdf"],
@@ -517,7 +533,9 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 17 extra Polpo-oefeningen" : [https://api.polpo.be/api/Bundles/111803/redirect]
+            },
             "Correctiesleutels": {
                 "M4.1 - Voorstelling van ruimtefiguren in een vlak" : ["🔴","../corrections/eerstejaar/M4.1 - Voorstelling van ruimtefiguren in een vlak.pdf"],
                 "M4.2 - Opbouw van ruimtefiguren" : ["🔴","../corrections/eerstejaar/M4.2 - Opbouw van ruimtefiguren.pdf"],
@@ -537,7 +555,9 @@
                 "Omtrek van vlakke figuren" : ["../videos/omtrek_vlakke_figuren.mp4"],
                 "Oppervlakte van vlakke figuren" : ["../videos/oppervlakte_vlakke_figuren.mp4"]
             },
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 28 extra Polpo-oefeningen" : [https://api.polpo.be/api/Bundles/111804/redirect]
+            },
             "Correctiesleutels": {
                 "M5.1 - Omtrek van vlakke figuren" : ["🔴","../corrections/eerstejaar/M5.1 - Omtrek van vlakke figuren.pdf"],
                 "M5.2 - Oppervlakte van vlakke figuren" : ["🔴","../corrections/eerstejaar/M5.2 - Oppervlakte van vlakke figuren.pdf"],
@@ -554,7 +574,9 @@
                 ]
             },
             "Filmpjes": {},
-            "Oefeningen": {},
+            "Oefeningen": {
+                "👉 34 extra Polpo-oefeningen" : [https://api.polpo.be/api/Bundles/111806/redirect]
+            },
             "Correctiesleutels": {
                 "M6.1 - Oppervlakte van ruimtefiguren" : ["🔴","../corrections/eerstejaar/M6.1 - Oppervlakte van ruimtefiguren.pdf"],
                 "M6.2 - Volume van ruimtefiguren" : ["🔴","../corrections/eerstejaar/M6.2 - Volume van ruimtefiguren.pdf"],
