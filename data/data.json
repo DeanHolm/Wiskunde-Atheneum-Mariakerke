@@ -518,7 +518,7 @@
             },
             "Correctiesleutels": {
                 "M3.2 - Driehoeken" : ["🟢","../corrections/eerstejaar/M3.2 - Driehoeken.pdf"],
-                "M3.3 - Vierhoeken" : ["🔴","../corrections/eerstejaar/M3.3 - Vierhoeken.pdf"],
+                "M3.3 - Vierhoeken" : ["🟢","../corrections/eerstejaar/M3.3 - Vierhoeken.pdf"],
                 "M3.4 - Cirkels" : ["🔴","../corrections/eerstejaar/M3.4 - Cirkels.pdf"],
                 "M3 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M3 - Oranje blaadjes.pdf"]
             }
