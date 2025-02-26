@@ -340,8 +340,8 @@
                 "👉 105 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111795/redirect"]
             },
             "Correctiesleutels": {
-                "G4.1 - Welkom in \u211A" : ["🔴","../corrections/eerstejaar/G4.1 - Welkom in Q.pdf"],
-                "G4.2 - Hoofdbewerkingen met rationale getallen" : ["🔴","../corrections/eerstejaar/G4.2 - Hoofdbewerkingen met rationale getallen.pdf"],
+                "G4.1 - Welkom in \u211A" : ["🟢","../corrections/eerstejaar/G4.1 - Welkom in Q.pdf"],
+                "G4.2 - Hoofdbewerkingen met rationale getallen" : ["🟢","../corrections/eerstejaar/G4.2 - Hoofdbewerkingen met rationale getallen.pdf"],
                 "G4.3 - Machten en vierkantswortels" : ["🔴","../corrections/eerstejaar/G4.3 - Machten en vierkantswortels.pdf"],
                 "G4.4 - Eigenschappen van de hoofdbewerkingen" : ["🔴", "../corrections/eerstejaar/G4.4 - Eigenschappen van de hoofdbewerkingen.pdf"],
                 "G4.5 - De volgorde van bewerkingen" : ["🔴", "../corrections/eerstejaar/G4.5 - De volgorde van bewerkingen.pdf"],
