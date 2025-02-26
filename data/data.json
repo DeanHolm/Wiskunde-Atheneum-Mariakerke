@@ -1140,7 +1140,10 @@
 
                 ]
             },
-            "Filmpjes": {},
+            "Filmpjes": {
+                "Bewijs - Eigenschap middelloodlijn" : ["../videos/Bewijs - Eigenschap middelloodlijn.mp4"],
+                "Bewijs - Eigenschap bissectrice" : ["../videos/Bewijs - Eigenschap bissectrice.mp4"]
+            },
             "Oefeningen": {
                 "👉 10 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111813/redirect"]
             },
