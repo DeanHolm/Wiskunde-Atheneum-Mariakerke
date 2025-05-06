@@ -1174,10 +1174,50 @@
         "M4 - Driehoeken": {
             "Doelstellingen": {
                 "4.1 Eigenschappen onderzoeken" : [
-
+                    "Ik ken de definitie van een driehoek.",
+                    "Ik kan in een driehoek de hoekpunten aanduiden.",
+                    "Ik kan de hoekpunten van een driehoek correct symbolisch noteren.",
+                    "Ik kan in een driehoek de hoeken aanduiden.",
+                    "Ik kan de hoeken van een driehoek correct symbolisch noteren.",
+                    "Ik kan in een driehoek de zijden aanduiden.",
+                    "Ik kan de zijden van een driehoek correct symbolisch noteren.",
+                    "Ik kan in een driehoek de dragers van de zijden aanduiden.",
+                    "Ik kan de dragers van de zijden correct symbolisch noteren.",
+                    "Ik kan in een driehoek de overstaande hoek van een zijde aanduiden.",
+                    "Ik kan in een driehoek de aanliggende hoeken van een zijde aanduiden.",
+                    "Ik kan in een driehoek de ingesloten hoek van twee zijden aanduiden.",
+                    "Ik kan de verschillende soorten driehoeken classificeren volgens de zijden.",
+                    "Ik ken de definities van een gelijkbenige, gelijkzijdige en ongelijkbenige driehoek.",
+                    "Ik kan in een gelijkbenige driehoek de tophoek, de basishoeken, de basis en de benen aanduiden.",
+                    "Ik kan de verschillende soorten driehoeken classificeren volgens de hoeken.",
+                    "Ik ken de definities van een scherphoekige, stomphoekige en rechthoekige driehoek.",
+                    "Ik kan in een rechthoekige driehoek de rechte hoek, de rechthoekszijden en de schuine zijde / hypothenusa aanduiden.",
+                    "Ik ken de definitie van een hoogtelijk van een driehoek.",
+                    "Ik kan een hoogtelijn van een driehoek herkennen.",
+                    "Ik ken de definitie van een bissectrice van een driehoek.",
+                    "Ik kan de bissectrice van een driehoek herkennen.",
+                    "Ik ken de definitie van een zwaartelijn van een driehoek.",
+                    "Ik kan een zwaartelijn van een driehoek herkennen.",
+                    "Ik ken de definitie van de middelloodlijn van een driehoek.",
+                    "Ik kan de middelloodlijn van een driehoek herkennen.",
+                    "Ik ken de eigenschap van een gelijkbenige driehoek.",
+                    "Ik kan de eigenschap van een gelijkbenige driehoek bewijzen.",
+                    "Ik ken de omgekeerde eigenschap van een gelijkbenige driehoek.",
+                    "Ik ken het kenmerk van een gelijkbenige driehoek.",
+                    "Ik ken de eigenschap over de merkwaardige lijnen in een gelijkbenige driehoek.",
+                    "Ik kan de eigenschap over de merkwaardige lijnen in een gelijkbenige driehoek bewijzen.",
+                    "Ik weet dat de bissectrice van de tophoek van een gelijkbenige driehoek ook een summetrieas is van die driehoek.",
+                    "Ik ken de eigenschap van een gelijkzijdige driehoek.",
+                    "Ik kan de eigenschap van een gelijkzijdige driehoek bewijzen.",
+                    "Ik ken de omgekeerde eigenschap van een gelijkzijdige driehoek.",
+                    "Ik ken het kenmerk van een gelijkzijdige driehoek.",
+                    "Ik weet dat een gelijkzijdige driehoek drie symmetrieassen heeft.",
+                    "Ik kan alle geziene definities, eigenschappen, omgekeerde eigenschappen en kenmerken toepassen in oefeningen."
                 ],
                 "4.2 De driehoeksongelijkheid" : [
-
+                    "Ik kan een gelijkbenige driehoek construeren.",
+                    "Ik kan een gelijkzijdige driehoek construeren.",
+                    "Ik kan alle geziene definities, eigenschappen, omgekeerde eigenschappen en kenmerken gebruiken om driehoeken te tekenen / construeren.
                 ]
             },
             "Filmpjes": {},
