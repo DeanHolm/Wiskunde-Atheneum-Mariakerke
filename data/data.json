@@ -957,9 +957,9 @@
                 "👉 10 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111811/redirect"]
             },
             "Correctiesleutels": {
-                "G6.1 - Evenredigheden" : ["🔴", "../corrections/tweedejaar/G6.1 - Evenredigheden.pdf"],
-                "G6.2 - Recht en omgekeerd evenredig" : ["🔴","../corrections/tweedejaar/G6.2 - Recht en omgekeerd evenredig.pdf"],
-                "G6 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/G6 - Oranje blaadjes.pdf"]
+                "G6.1 - Evenredigheden" : ["🟢", "../corrections/tweedejaar/G6.1 - Evenredigheden.pdf"],
+                "G6.2 - Recht en omgekeerd evenredig" : ["🟢","../corrections/tweedejaar/G6.2 - Recht en omgekeerd evenredig.pdf"],
+                "G6 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/G6 - Oranje blaadjes.pdf"]
             }
         },
         "M1 - Transformaties": {
