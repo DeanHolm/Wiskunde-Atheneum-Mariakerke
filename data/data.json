@@ -661,9 +661,9 @@
                 "👉 28 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111804/redirect"]
             },
             "Correctiesleutels": {
-                "M5.1 - Omtrek van vlakke figuren" : ["🔴","../corrections/eerstejaar/M5.1 - Omtrek van vlakke figuren.pdf"],
-                "M5.2 - Oppervlakte van vlakke figuren" : ["🔴","../corrections/eerstejaar/M5.2 - Oppervlakte van vlakke figuren.pdf"],
-                "M5 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M5 - Oranje blaadjes.pdf"]
+                "M5.1 - Omtrek van vlakke figuren" : ["🟢","../corrections/eerstejaar/M5.1 - Omtrek van vlakke figuren.pdf"],
+                "M5.2 - Oppervlakte van vlakke figuren" : ["🟢","../corrections/eerstejaar/M5.2 - Oppervlakte van vlakke figuren.pdf"],
+                "M5 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/M5 - Oranje blaadjes.pdf"]
             }
         },
         "M6 - Oppervlakte en volume van ruimtefiguren": {
