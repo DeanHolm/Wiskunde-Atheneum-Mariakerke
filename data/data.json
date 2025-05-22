@@ -393,9 +393,9 @@
                 "👉 21 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111797/redirect"]
             },
             "Correctiesleutels": {
-                "G6.1 - Vraagstukken oplossen door het gebruik van letters" : ["🔴","../corrections/eerstejaar/G6.1 - Vraagstukken oplossen door het gebruik van letters.pdf"],
-                "G6.2 - Vraagstukken oplossen met vergelijkingen" : ["🔴","../corrections/eerstejaar/G6.2 - Vraagstukken oplossen met vergelijkingen.pdf"],
-                "G6 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G6 - Oranje blaadjes.pdf"]
+                "G6.1 - Vraagstukken oplossen door het gebruik van letters" : ["🟢","../corrections/eerstejaar/G6.1 - Vraagstukken oplossen door het gebruik van letters.pdf"],
+                "G6.2 - Vraagstukken oplossen met vergelijkingen" : ["🟢","../corrections/eerstejaar/G6.2 - Vraagstukken oplossen met vergelijkingen.pdf"],
+                "G6 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/G6 - Oranje blaadjes.pdf"]
             }
         },
         "M1 - De wereld van 3D naar 2D": {
