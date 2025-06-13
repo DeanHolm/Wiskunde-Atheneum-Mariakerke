@@ -431,7 +431,7 @@
                     "Ik kan vergelijkingen oplossen van de vorm x - a = b.",
                     "Ik kan vergelijkingen oplossen van de vorm ax = b.",
                     "Ik kan vergelijkingen oplossen van de vorm x : a = b.",
-                    "Ik kan vergelijkingen oplossen van de vorm ax + b = c",
+                    "Ik kan vergelijkingen oplossen van de vorm ax + b = c.",
                     "Ik kan een vergelijking gebruiken als heuristiek om een vraagstuk op te lossen."
                 ]
             },
@@ -1043,10 +1043,23 @@
         "G5 - Oplossingsmethodes voor vraagstukken": {
             "Doelstellingen": {
                 "5.1 Vergelijkingen oplossen in \u211A" : [
-
+                    "Ik kan een gelijkheid herkennen.",
+                    "Ik kan in een gelijkheid het linker- en rechterlid aanduiden.",
+                    "Ik kan de eigenschappen over gelijkheden in woorden noteren.",
+                    "Ik kan de eigenschappen over gelijkheden in symbolen noteren.",
+                    "Ik kan een vergelijking herkennen.",
+                    "Ik kan in een vergelijking het linker- en rechterlid aanduiden.",
+                    "Ik kan in eigen woorden het verschil tussen een gelijkheid en een vergelijking uitleggen.",
+                    "Ik kan vergelijkingen oplossen van de vorm x + a = b.",
+                    "Ik kan vergelijkingen oplossen van de vorm x - a = b.",
+                    "Ik kan vergelijkingen oplossen van de vorm ax = b.",
+                    "Ik kan vergelijkingen oplossen van de vorm x : a = b.",
+                    "Ik kan vergelijkingen oplossen van de vorm ax + b = cx + d.",
+                    "Ik kan in een vergelijking eerst de haakjes wegwerken door distributiviteit toe te passen.",
+                    "Ik kan in een vergelijking de noemers wegwerken."
                 ],
                 "5.2 Vraagstukken oplossen" : [
-
+                    "Ik kan een vergelijking gebruiken als heuristiek om een vraagstuk op te lossen."
                 ]
             },
             "Filmpjes": {},
