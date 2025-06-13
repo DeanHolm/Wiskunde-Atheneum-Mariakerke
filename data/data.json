@@ -372,9 +372,9 @@
                 "👉 20 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111796/redirect"]
             },
             "Correctiesleutels": {
-                "G5.1 & G5.2 - Soorten data & Voorstellingswijzen" : ["🔴","../corrections/eerstejaar/G5.1 & G5.2 - Soorten data & Voorstellingswijzen.pdf"],
-                "G5.3 - Gemiddelde, mediaan, modus en variatiebreedte" : ["🔴","../corrections/eerstejaar/G5.3 - Gemiddelde, mediaan, modus en variatiebreedte.pdf"],
-                "G5 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G5 - Oranje blaadjes.pdf"]
+                "G5.1 & G5.2 - Soorten data & Voorstellingswijzen" : ["🟢","../corrections/eerstejaar/G5.1 & G5.2 - Soorten data & Voorstellingswijzen.pdf"],
+                "G5.3 - Gemiddelde, mediaan, modus en variatiebreedte" : ["🟢","../corrections/eerstejaar/G5.3 - Gemiddelde, mediaan, modus en variatiebreedte.pdf"],
+                "G5 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/G5 - Oranje blaadjes.pdf"]
             }
         },
         "G6 - Oplossingsmethodes voor vraagstukken": {
@@ -671,9 +671,9 @@
                 "👉 28 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111804/redirect"]
             },
             "Correctiesleutels": {
-                "M5.1 - Omtrek van vlakke figuren" : ["🔴","../corrections/eerstejaar/M5.1 - Omtrek van vlakke figuren.pdf"],
-                "M5.2 - Oppervlakte van vlakke figuren" : ["🔴","../corrections/eerstejaar/M5.2 - Oppervlakte van vlakke figuren.pdf"],
-                "M5 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M5 - Oranje blaadjes.pdf"]
+                "M5.1 - Omtrek van vlakke figuren" : ["🟢","../corrections/eerstejaar/M5.1 - Omtrek van vlakke figuren.pdf"],
+                "M5.2 - Oppervlakte van vlakke figuren" : ["🟢","../corrections/eerstejaar/M5.2 - Oppervlakte van vlakke figuren.pdf"],
+                "M5 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/M5 - Oranje blaadjes.pdf"]
             }
         },
         "M6 - Oppervlakte en volume van ruimtefiguren": {
@@ -690,9 +690,9 @@
                 "👉 34 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111806/redirect"]
             },
             "Correctiesleutels": {
-                "M6.1 - Oppervlakte van ruimtefiguren" : ["🔴","../corrections/eerstejaar/M6.1 - Oppervlakte van ruimtefiguren.pdf"],
-                "M6.2 - Volume van ruimtefiguren" : ["🔴","../corrections/eerstejaar/M6.2 - Volume van ruimtefiguren.pdf"],
-                "M6 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M6 - Oranje blaadjes.pdf"]
+                "M6.1 - Oppervlakte van ruimtefiguren" : ["🟢","../corrections/eerstejaar/M6.1 - Oppervlakte van ruimtefiguren.pdf"],
+                "M6.2 - Volume van ruimtefiguren" : ["🟢","../corrections/eerstejaar/M6.2 - Volume van ruimtefiguren.pdf"],
+                "M6 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/M6 - Oranje blaadjes.pdf"]
             }
         }
     },
@@ -920,8 +920,8 @@
                 "👉 7 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111809/redirect"]
             },
             "Correctiesleutels": {
-                "G4 - Data en onzekerheid" : ["🔴","../corrections/tweedejaar/G4 - Data en onzekerheid.pdf"],
-                "G4 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/G4 - Oranje blaadjes.pdf"]
+                "G4 - Data en onzekerheid" : ["🟢","../corrections/tweedejaar/G4 - Data en onzekerheid.pdf"],
+                "G4 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/G4 - Oranje blaadjes.pdf"]
             }
         },
         "G5 - Oplossingsmethodes voor vraagstukken": {
@@ -1256,8 +1256,8 @@
             },
             "Correctiesleutels": {
                 "M5.1 - Ruimtefiguren herkennen" : ["🟢", "../corrections/tweedejaar/M5.1 - Ruimtefiguren herkennen.pdf"],
-                "M5.2 - Volume van ruimtefiguren" : ["🔴","../corrections/tweedejaar/M5.2 - Volume van ruimtefiguren.pdf"],
-                "M5 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M5 - Oranje blaadjes.pdf"]
+                "M5.2 - Volume van ruimtefiguren" : ["🟢","../corrections/tweedejaar/M5.2 - Volume van ruimtefiguren.pdf"],
+                "M5 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/M5 - Oranje blaadjes.pdf"]
             }
         },
         "M6 - Vierhoeken": {
