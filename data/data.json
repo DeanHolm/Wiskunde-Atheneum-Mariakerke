@@ -1396,10 +1396,28 @@
         "M5 - Ruimtemeetkunde": {
             "Doelstellingen": {
                 "5.1 Ruimtefiguren herkennen" : [
-
+                    "Ik kan ruimtefiguren herkennen in het dagelijkse leven.",
+                    "Ik kan bij ruimtefiguren het boven-, grond- en de zijvlakken benoemen.",
+                    "Ik kan bij ruimtefiguren het aantal vlakken, ribben en hoekpunten bepalen.",
+                    "Ik kan voorbeelden geven van omwentelingslichamen.",
+                    "Ik kan herkennen of een ruimtefiguur spiegelsymmetrisch is om een vlak.",
+                    "Ik kan herkennen of een ruimtefiguur spiegelsymmetrisch is om een punt.",
+                    "Ik kan natuurlijk, isometrisch en cavalièreperspectief herkennen.",
+                    "Ik kan de Europese projectie herkennen.",
+                    "Ik kan de werkelijke afmetingen bepalen van een ruimtefiguur getekend in cavalièreperspectief.",
+                    "Ik kan de werkelijke afmetingen bepalen van een ruimtefiguur getekend in isometrisch perspectief.",
+                    "Ik kan de werkelijke afmetingen bepalen van de rechtopstaande ribben van een ruimtefiguur getekend in de Europese projectie.",
+                    "Ik kan de verschillende aanzichten van een figuur bepalen."
                 ],
                 "5.2 Volume van ruimtefiguren" : [
-
+                    "Ik ken de verschillende volumematen.",
+                    "Ik kan de ene volumemaat omzetten naar een andere volumemaat.",
+                    "Ik kan een schatting maken over het volume van iets in het dagelijkse leven.",
+                    "Ik kan in een probleem herkennen wanneer ik het volume moet berekenen.",
+                    "Ik ken de formule om het volume van een kubus te berekenen.",
+                    "Ik ken de formule om het volume van een balk te berekenen.",
+                    "Ik ken de formule om het volume van een cilinder te berekenen.",
+                    "Ik kan aan de hand van een tabel of grafiek een lineair, kwadratisch en kubisch verband herkennen."
                 ]
             },
             "Filmpjes": {},
@@ -1415,10 +1433,66 @@
         "M6 - Vierhoeken": {
             "Doelstellingen": {
                 "6.1 Eigenschappen onderzoeken" : [
-
+                    "Ik ken de definitie van een vierhoek.",
+                    "Ik kan in een vierhoek de hoekpunten aanduiden.",
+                    "Ik kan in een vierhoek de hoekpunten correct symbolisch noteren.",
+                    "Ik kan in een vierhoek de hoeken aanduiden.",
+                    "Ik kan in een vierhoek de hoeken correct symbolisch noteren.",
+                    "Ik kan in een vierhoek de dragers van de zijden aanduiden.",
+                    "Ik kan in een vierhoek de dragers van de zijden correct symbolisch noteren.",
+                    "Ik kan in een vierhoek de diagonalen aanduiden.",
+                    "Ik kan in een vierhoek de diagonalen correct symbolisch noteren.",
+                    "Ik kan een vierhoek de overstaande hoekenparen aanduiden.",
+                    "Ik kan in een vierhoek de overstaande zijdenparen aanduiden.",
+                    "Ik ken de definitie van een trapezium.",
+                    "Ik kan een trapezium herkennen.",
+                    "Ik kan in een trapezium de evenwijdige zijden, de opstaande zijden en de hoogte aanduiden.",
+                    "Ik kan in een trapezium de kleine basis en de grote basis aanduiden.",
+                    "Ik ken de definitie van een gelijkbenig trapezium.",
+                    "Ik kan een gelijkbenig trapezium herkennen.",
+                    "Ik kan in een gelijkbenig trapezium de basishoeken aanduiden.",
+                    "Ik ken de definitie van een rechthoekig trapezium.",
+                    "Ik kan een rechthoekig trapezium herkennen.",
+                    "Ik ken de definitie van een parallellogram.",
+                    "Ik kan een parallellogram herkennen.",
+                    "Ik kan in een parallellogram de hoogte aanduiden.",
+                    "Ik ken de eigenschap over de zijden van een parallellogram.",
+                    "Ik kan de eigenschap over de zijden van een parallellogram bewijzen.",
+                    "Ik ken de omgekeerde eigenschap over de zijden van een parallellogram.",
+                    "Ik ken het zijdenkenmerk van een parallellogram.",
+                    "Ik ken de eigenschap over de hoeken van een parallellogram.",
+                    "Ik kan de eigenschap over de hoeken van een parallellogram bewijzen.",
+                    "Ik ken de omgekeerde eigenschap over de hoeken van een parallellogram.",
+                    "Ik ken het hoekenkenmerk van een parallellogram.",
+                    "Ik ken de eigenschap over de diagonalen van een parallellogram.",
+                    "Ik kan de eigenschap over de diagonalen van een parallellogram bewijzen.",
+                    "Ik ken de omgekeerde eigenschap over de diagonalen van een parallellogram.",
+                    "Ik ken het diagonalenkenmerk van een parallellogram.",
+                    "Ik ken de definitie van een rechthoek.",
+                    "Ik kan een rechthoek herkennen.",
+                    "Ik kan in een rechthoek de lengte en de breedte aanduiden.",
+                    "Ik ken de eigenschap over de diagonalen van een rechthoek.",
+                    "Ik weet dat de eigenschappen van een parallellogram ook geldig zijn bij een rechthoek.",
+                    "Ik ken de eigenschap over de diagonalen van een rechthoek.",
+                    "Ik kan de eigenschap over de diagonalen van een rechthoek bewijzen.",
+                    "Ik ken de definitie van een ruit.",
+                    "Ik kan een ruit herkennen.",
+                    "Ik kan in een ruit de kleine en de grote diagonaal aanduiden.",
+                    "Ik weet dat de eigenschappen van een parallellogram ook geldig zijn bij een ruit.",
+                    "Ik ken de eigenschap over de diagonalen in een ruit.",
+                    "Ik ken de definitie van een vierkant.",
+                    "Ik kan een vierkant herkennen.",
+                    "Ik weet dat de eigenschappen die geldig zijn bij een rechthoek en een ruit ook geldig zijn bij een vierkant.,
+                    "Ik kan de classificatie van de vierhoeken in een Venndiagram weergeven.",
+                    "Ik kan alle definities en eigenschappen van vierhoeken toepassen in oefeningen."
                 ],
                 "6.2 Vierhoeken construeren en classificeren" : [
-
+                    "Ik begrijp wat er wordt bedoeld met de classificatie van vierhoeken.",
+                    "Ik kan de vierhoeken classificeren op basis van eigenschappen van de zijden.",
+                    "Ik kan de vierhoeken classificeren op basis van eigenschappen van de hoeken.",
+                    "Ik kan de vierhoeken classificeren op basis van eigenschappen van de diagonalen.",
+                    "Ik kan de vierhoeken classificeren op basis van eigenschappen van symmetrie.",
+                    "Ik kan met behulp van de eigenschappen van vierhoeken met een geodriehoek en passer vierhoeken tekenen en/of construeren."
                 ]
             },
             "Filmpjes": {},
