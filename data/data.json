@@ -753,10 +753,20 @@
         "M6 - Oppervlakte en volume van ruimtefiguren": {
             "Doelstellingen": {
                 "6.1 Oppervlakte van ruimtefiguren" : [
-
+                    "Ik ken de formule om de manteloppervlakte van een kubus te berekenen.",
+                    "Ik ken de formule om de totale oppervlakte van een kubus te berekenen.",
+                    "Ik ken de formule om de manteloppervlakte van een balk te berekenen.",
+                    "Ik ken de formule om de totale oppervlakte van een balk te berekenen.",
+                    "Ik kan de oppervlakteformules van ruimtefiguren toepassen in vraagstukken."
                 ],
                 "6.2 Volume van ruimtefiguren" : [
-
+                    "Ik ken de verschillende volumematen.",
+                    "Ik kan de ene volumemaat omzetten naar een andere volumemaat.",
+                    "Ik kan een schatting maken over het volume van iets in het dagelijkse leven.",
+                    "Ik kan in een probleem herkennen wanneer ik het volume moet berekenen.",
+                    "Ik ken de formule om het volume van een kubus te berekenen.",
+                    "Ik ken de formule om het volume van een balk te berekenen.",
+                    "Ik ken de formule om het volume van een cilinder te berekenen."
                 ]
             },
             "Filmpjes": {},
