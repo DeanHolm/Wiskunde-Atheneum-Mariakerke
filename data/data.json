@@ -984,19 +984,51 @@
         "G4 - Data en onzekerheid": {
             "Doelstellingen": {
                 "4.1 Frequentietabellen opstellen" : [
-
+                    "Ik kan in eigen woorden het verschil tussen numerieke en categorische data uitleggen.",
+                    "Ik kan voorbeelden geven van numerieke data.",
+                    "Ik kan voorbeelden geven van categorische data.",
+                    "Ik kan in een oefening numerieke en categorische data van elkaar onderscheiden.",
+                    "Ik weet wat een frequentietabel is.",
+                    "Ik kan een frequentietabel herkennen.",
+                    "Ik kan aan de hand van data zelf een frequentietabel opstellen.",
+                    "Ik weet wat absolute frequenties betekent.",
+                    "Ik weet dat de som van de absolute frequenties overeenkomt met het aantal datagegevens.",
+                    "Ik kan informatie aflezen uit een frequentietabel."
                 ],
                 "4.2 Data onderscheiden en verwerken met ICT in tabellen en diagrammen" : [
-
+                    "Ik kan met behulp van ICT een frequentietabel opstellen.",
+                    "Ik kan met behulp van ICT een dotplot tekenen.",
+                    "Ik kan met behulp van ICT een staafdiagram tekenen.",
+                    "Ik kan met behulp van ICT een cirkeldiagram tekenen.",
+                    "Ik kan met behulp van ICT een lijngrafiek / lijndiagram tekenen.",
+                    "Ik kan een stengelbladdiagram tekenen.",
+                    "Ik kan in een stengelbladdiagram de stengel en de bladeren aanduiden.",
+                    "Ik kan met behulp van ICT een stengelbladdiagram tekenen.",
+                    "Ik kan een dubbel stengelbladdiagram tekenen.",
+                    "Ik kan met behulp van ICT een dubbel stengelbladdiagram tekenen.
                 ],
                 "4.3 Centrummaten en spreidingsmaat" : [
-
+                    "Ik kan uitleggen wat de betekenis is van een centrummaat.",
+                    "Ik kan de centrummaten opsommen.",
+                    "Ik ken de definitie van het gemiddelde.",
+                    "Ik ken de notatie van het gemiddelde.",
+                    "Ik kan het gemiddelde berekenen met en zonder ICT.",
+                    "Ik ken de definitie van de mediaan.",
+                    "Ik ken de notatie van de mediaan.",
+                    "Ik kan de mediaan bepalen met en zonder ICT.",
+                    "Ik ken de definitie van de modus.",
+                    "Ik ken de notatie van de modus.",
+                    "Ik kan de modus / modi bepalen met en zonder ICT.",
+                    "Ik kan uitleggen wat de betekenis is van een spreidingsmaat.",
+                    "Ik ken de definitie van variatiebreedte.",
+                    "Ik kan de variatiebreedte berekenen met en zonder ICT."
                 ],
                 "4.4 Numerieke datasets vergelijken" : [
-
+                    "Ik kan verschillende numerieke datasets met elkaar vergelijken met behulp van staafdiagrammen, lijngrafieken en dubbele stengelbladdiagrammen."
                 ],
                 "4.5 Een eigen onderzoek" : [
-
+                    "Ik kan zelf data verzamelen om een eigen onderzoek uit te voeren.",
+                    "Ik kan deze data zelfstandig verwerken door deze gepast voor te stellen en de centrummaten / spreidingsmaat te bepalen."
                 ]
             },
             "Filmpjes": {},
