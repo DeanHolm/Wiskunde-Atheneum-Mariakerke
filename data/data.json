@@ -351,13 +351,47 @@
         "G5 - Data en onzekerheid": {
             "Doelstellingen": {
                 "5.1 Soorten data" : [
-
+                    "Ik kan in eigen woorden het verschil tussen numerieke en categorische data uitleggen.",
+                    "Ik kan voorbeelden geven van numerieke data.",
+                    "Ik kan voorbeelden geven van categorische data.",
+                    "Ik kan in een oefening numerieke en categorische data van elkaar onderscheiden.",
+                    "Ik weet wat een frequentietabel is.",
+                    "Ik kan een frequentietabel herkennen.",
+                    "Ik kan aan de hand van data zelf een frequentietabel opstellen.",
+                    "Ik weet wat absolute frequenties betekent.",
+                    "Ik weet dat de som van de absolute frequenties overeenkomt met het aantal datagegevens.",
+                    "Ik kan informatie aflezen uit een frequentietabel."
                 ],
                 "5.2 Voorstellingswijzen" : [
-
+                    "Ik kan een lijndiagram / lijngrafiek herkennen.",
+                    "Ik kan informatie aflezen uit een lijndiagram / lijngrafiek.",
+                    "Ik kan zelf een lijndiagram / lijngrafiek tekenen.",
+                    "Ik kan een dotplot herkennen.",
+                    "Ik kan informatie aflezen uit een dotplot.",
+                    "Ik kan zelf een dotplot tekenen.",
+                    "Ik kan een staafdiagram herkennen.",
+                    "Ik kan informatie aflezen uit een staafdiagram.",
+                    "Ik kan zelf een staafdiagram tekenen.",
+                    "Ik kan een cirkeldiagram herkennen.",
+                    "Ik kan informatie aflezen uit een cirkeldiagram.",
+                    "Ik kan misleidende grafieken herkennen.",
+                    "Ik kan uitleggen waarom een grafiek misleidend kan zijn."
                 ],
                 "5.3 Gemiddelde, mediaan, modus en variatiebreedte" : [
-
+                    "Ik kan uitleggen wat de betekenis is van een centrummaat.",
+                    "Ik kan de centrummaten opsommen."
+                    "Ik ken de definitie van het gemiddelde.",
+                    "Ik ken de notatie van het gemiddelde."
+                    "Ik kan het gemiddelde berekenen met en zonder ICT.",
+                    "Ik ken de definitie van de mediaan.",
+                    "Ik ken de notatie van de mediaan.",
+                    "Ik kan de mediaan bepalen.",
+                    "Ik ken de definitie van de modus.",
+                    "Ik ken de notatie van de modus.",
+                    "Ik kan de modus / modi bepalen.",
+                    "Ik kan uitleggen wat de betekenis is van een spreidingsmaat.",
+                    "Ik ken de definitie van variatiebreedte.",
+                    "Ik kan de variatiebreedte berekenen."
                 ]
             },
             "Filmpjes": {
@@ -380,7 +414,7 @@
         "G6 - Oplossingsmethodes voor vraagstukken": {
             "Doelstellingen": {
                 "6.1 Vraagstukken oplossen door het gebruik van letters" : [
-
+                    
                 ],
                 "6.2 Vraagstukken oplossen met vergelijkingen" : [
 
