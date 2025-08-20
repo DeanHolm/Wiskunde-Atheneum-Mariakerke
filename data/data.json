@@ -494,6 +494,7 @@
                 "👉 36 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111799/redirect"]
             },
             "Correctiesleutels": {
+                "M1 - Theorie" : ["🟢", "../corrections/eerstejaar/M1 - Theorie.pdf"],
                 "M1.1 - Ruimtefiguren en vlakke figuren herkennen" : ["🟢","../corrections/eerstejaar/M1.1 - Ruimtefiguren en vlakke figuren herkennen.pdf"],
                 "M1.2 - Begrippen in de vlakke meetkunde" : ["🟢","../corrections/eerstejaar/M1.2 - Begrippen in de vlakke meetkunde.pdf"],
                 "M1 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/M1 - Oranje blaadjes.pdf"]
@@ -1509,5 +1510,6 @@
         }
     }
 }
+
 
 
