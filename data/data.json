@@ -93,11 +93,11 @@
             },
             "Correctiesleutels": {
                 "G1 - Theorie" : ["🟢", "../corrections/eerstejaar/G1 - Theorie.pdf"],
-                "G1.1 - Ons talstelsel" : ["🟢","../corrections/eerstejaar/G1.1 - Ons talstelsel.pdf"],
-                "G1.2 - Getalverzamelingen" : ["🟢","../corrections/eerstejaar/G1.2 - Getalverzamelingen.pdf"],
-                "G1.3 - Deelbaarheid" : ["🟢","../corrections/eerstejaar/G1.3 - Deelbaarheid.pdf"],
-                "G1.4 - Breuk, decimale vorm en procent" : ["🟢", "../corrections/eerstejaar/G1.4 - Breuk, decimale vorm en procent.pdf"],
-                "G1 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/G1 - Oranje blaadjes.pdf"]
+                "G1.1 - Ons talstelsel" : ["🔴","../corrections/eerstejaar/G1.1 - Ons talstelsel.pdf"],
+                "G1.2 - Getalverzamelingen" : ["🔴","../corrections/eerstejaar/G1.2 - Getalverzamelingen.pdf"],
+                "G1.3 - Deelbaarheid" : ["🔴","../corrections/eerstejaar/G1.3 - Deelbaarheid.pdf"],
+                "G1.4 - Breuk, decimale vorm en procent" : ["🔴", "../corrections/eerstejaar/G1.4 - Breuk, decimale vorm en procent.pdf"],
+                "G1 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G1 - Oranje blaadjes.pdf"]
             }
         },
         "G2 - Gehele getallen": {
@@ -197,12 +197,12 @@
             },
             "Correctiesleutels": {
                 "G2 - Theorie" : ["🟢", "../corrections/eerstejaar/G2 - Theorie.pdf"],
-                "G2.1 - Welkom in \u2124" : ["🟢","../corrections/eerstejaar/G2.1 - Welkom in Z.pdf"],
-                "G2.2 - Hoofdbewerkingen met gehele getallen" : ["🟢","../corrections/eerstejaar/G2.2 - Hoofdbewerkingen met gehele getallen.pdf"],
-                "G2.3 - Machten en vierkantswortels" : ["🟢","../corrections/eerstejaar/G2.3 - Machten en vierkantswortels.pdf"],
-                "G2.4 - Eigenschappen van de hoofdbewerkingen in \u2124" : ["🟢", "../corrections/eerstejaar/G2.4 - Eigenschappen van de hoofdbewerkingen in Z.pdf"],
-                "G2.5 - De volgorde van bewerkingen" : ["🟢", "../corrections/eerstejaar/G2.5 - De volgorde van bewerkingen.pdf"],
-                "G2 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/G2 - Oranje blaadjes.pdf"]
+                "G2.1 - Welkom in \u2124" : ["🔴","../corrections/eerstejaar/G2.1 - Welkom in Z.pdf"],
+                "G2.2 - Hoofdbewerkingen met gehele getallen" : ["🔴","../corrections/eerstejaar/G2.2 - Hoofdbewerkingen met gehele getallen.pdf"],
+                "G2.3 - Machten en vierkantswortels" : ["🔴","../corrections/eerstejaar/G2.3 - Machten en vierkantswortels.pdf"],
+                "G2.4 - Eigenschappen van de hoofdbewerkingen in \u2124" : ["🔴", "../corrections/eerstejaar/G2.4 - Eigenschappen van de hoofdbewerkingen in Z.pdf"],
+                "G2.5 - De volgorde van bewerkingen" : ["🔴", "../corrections/eerstejaar/G2.5 - De volgorde van bewerkingen.pdf"],
+                "G2 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G2 - Oranje blaadjes.pdf"]
             }
         },
         "G3 - Oplossingsmethodes voor vraagstukken": {
@@ -495,9 +495,9 @@
             },
             "Correctiesleutels": {
                 "M1 - Theorie" : ["🟢", "../corrections/eerstejaar/M1 - Theorie.pdf"],
-                "M1.1 - Ruimtefiguren en vlakke figuren herkennen" : ["🟢","../corrections/eerstejaar/M1.1 - Ruimtefiguren en vlakke figuren herkennen.pdf"],
-                "M1.2 - Begrippen in de vlakke meetkunde" : ["🟢","../corrections/eerstejaar/M1.2 - Begrippen in de vlakke meetkunde.pdf"],
-                "M1 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/M1 - Oranje blaadjes.pdf"]
+                "M1.1 - Ruimtefiguren en vlakke figuren herkennen" : ["🔴","../corrections/eerstejaar/M1.1 - Ruimtefiguren en vlakke figuren herkennen.pdf"],
+                "M1.2 - Begrippen in de vlakke meetkunde" : ["🔴","../corrections/eerstejaar/M1.2 - Begrippen in de vlakke meetkunde.pdf"],
+                "M1 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M1 - Oranje blaadjes.pdf"]
             }
         },
         "M2 - Eigenschappen van rechten en hoeken": {
@@ -545,9 +545,9 @@
             },
             "Correctiesleutels": {
                 "M2 - Theorie" : ["🟢", "../corrections/eerstejaar/M2 - Theorie.pdf"],
-                "M2.1 - Rechten" : ["🟢","../corrections/eerstejaar/M2.1 - Rechten.pdf"],
-                "M2.2 - Hoeken" : ["🟢","../corrections/eerstejaar/M2.2 - Hoeken.pdf"],
-                "M2 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/M2 - Oranje blaadjes.pdf"]
+                "M2.1 - Rechten" : ["🔴","../corrections/eerstejaar/M2.1 - Rechten.pdf"],
+                "M2.2 - Hoeken" : ["🔴","../corrections/eerstejaar/M2.2 - Hoeken.pdf"],
+                "M2 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M2 - Oranje blaadjes.pdf"]
             }
         },
         "M3 - Vlakke figuren": {
@@ -1511,6 +1511,7 @@
         }
     }
 }
+
 
 
 
