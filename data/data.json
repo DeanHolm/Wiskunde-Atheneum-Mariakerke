@@ -92,6 +92,7 @@
                 "👉 Procenten uit het hoofd berekenen" : ["https://www.geogebra.org/m/radzfcnt#material/uxgkjhak"]
             },
             "Correctiesleutels": {
+                "G1 - Theorie" : ["🟢", "../corrections/eerstejaar/G1 - Theorie.pdf"],
                 "G1.1 - Ons talstelsel" : ["🟢","../corrections/eerstejaar/G1.1 - Ons talstelsel.pdf"],
                 "G1.2 - Getalverzamelingen" : ["🟢","../corrections/eerstejaar/G1.2 - Getalverzamelingen.pdf"],
                 "G1.3 - Deelbaarheid" : ["🟢","../corrections/eerstejaar/G1.3 - Deelbaarheid.pdf"],
@@ -1507,3 +1508,4 @@
         }
     }
 }
+
