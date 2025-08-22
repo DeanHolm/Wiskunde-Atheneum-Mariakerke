@@ -411,9 +411,9 @@
             },
             "Correctiesleutels": {
                 "G5 - Theorie" : ["🟢", "../corrections/eerstejaar/G5 - Theorie.pdf"],
-                "G5.1 & G5.2 - Soorten data & Voorstellingswijzen" : ["🟢","../corrections/eerstejaar/G5.1 & G5.2 - Soorten data & Voorstellingswijzen.pdf"],
-                "G5.3 - Gemiddelde, mediaan, modus en variatiebreedte" : ["🟢","../corrections/eerstejaar/G5.3 - Gemiddelde, mediaan, modus en variatiebreedte.pdf"],
-                "G5 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/G5 - Oranje blaadjes.pdf"]
+                "G5.1 & G5.2 - Soorten data & Voorstellingswijzen" : ["🔴","../corrections/eerstejaar/G5.1 & G5.2 - Soorten data & Voorstellingswijzen.pdf"],
+                "G5.3 - Gemiddelde, mediaan, modus en variatiebreedte" : ["🔴","../corrections/eerstejaar/G5.3 - Gemiddelde, mediaan, modus en variatiebreedte.pdf"],
+                "G5 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G5 - Oranje blaadjes.pdf"]
             }
         },
         "G6 - Oplossingsmethodes voor vraagstukken": {
@@ -448,9 +448,9 @@
             },
             "Correctiesleutels": {
                 "G6 - Theorie" : ["🟢", "../corrections/eerstejaar/G6 - Theorie.pdf"],
-                "G6.1 - Vraagstukken oplossen door het gebruik van letters" : ["🟢","../corrections/eerstejaar/G6.1 - Vraagstukken oplossen door het gebruik van letters.pdf"],
-                "G6.2 - Vraagstukken oplossen met vergelijkingen" : ["🟢","../corrections/eerstejaar/G6.2 - Vraagstukken oplossen met vergelijkingen.pdf"],
-                "G6 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/G6 - Oranje blaadjes.pdf"]
+                "G6.1 - Vraagstukken oplossen door het gebruik van letters" : ["🔴","../corrections/eerstejaar/G6.1 - Vraagstukken oplossen door het gebruik van letters.pdf"],
+                "G6.2 - Vraagstukken oplossen met vergelijkingen" : ["🔴","../corrections/eerstejaar/G6.2 - Vraagstukken oplossen met vergelijkingen.pdf"],
+                "G6 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G6 - Oranje blaadjes.pdf"]
             }
         },
         "M1 - De wereld van 3D naar 2D": {
@@ -1515,6 +1515,7 @@
         }
     }
 }
+
 
 
 
