@@ -868,6 +868,7 @@
                  "👉 42 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111807/redirect"]
             },
             "Correctiesleutels": {
+                "G1 - Theorie" : ["🟢", "../corrections/tweedejaar/G1 - Theorie.pdf"],
                 "G1.1 - Rekenen met rationale getallen" : ["🔴","../corrections/tweedejaar/G1.1 - Rekenen met rationale getallen.pdf"],
                 "G1.2 Oplossingsmethodes voor vraagstukken" : ["🔴","../corrections/tweedejaar/G1.2 - Oplossingsmethodes voor vraagstukken.pdf"],
                 "G1 - Oranje blaadjes" : ["🔴", "../corrections/tweedejaar/G1 - Oranje blaadjes.pdf"]
@@ -1519,6 +1520,7 @@
         }
     }
 }
+
 
 
 
