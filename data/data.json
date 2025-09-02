@@ -988,6 +988,7 @@
                  "👉 60 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111808/redirect"]
             },
             "Correctiesleutels": {
+                "G3 - Theorie" : ["🔴","../corrections/tweedejaar/G3 - Theorie.pdf"],
                 "G3.1 - Eentermen en veeltermen" : ["🔴","../corrections/tweedejaar/G3.1 - Eentermen en veeltermen.pdf"],
                 "G3.2 - Som en verschil van veeltermen" : ["🔴","../corrections/tweedejaar/G3.2 - Som en verschil van veeltermen.pdf"],
                 "G3.3 - Product van veeltermen" : ["🔴", "../corrections/tweedejaar/G3.3 - Product van veeltermen.pdf"],
@@ -1521,6 +1522,7 @@
         }
     }
 }
+
 
 
 
