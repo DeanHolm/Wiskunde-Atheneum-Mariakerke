@@ -676,6 +676,7 @@
                 "👉 83 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111801/redirect"]
             },
             "Correctiesleutels": {
+                "M3 - Theorie" : ["🟢", "../corrections/eerstejaar/M3 - Theorie.pdf"],
                 "M3.2 - Driehoeken" : ["🔴","../corrections/eerstejaar/M3.2 - Driehoeken.pdf"],
                 "M3.3 - Vierhoeken" : ["🔴","../corrections/eerstejaar/M3.3 - Vierhoeken.pdf"],
                 "M3.4 - Cirkels" : ["🔴","../corrections/eerstejaar/M3.4 - Cirkels.pdf"],
@@ -1515,6 +1516,7 @@
         }
     }
 }
+
 
 
 
