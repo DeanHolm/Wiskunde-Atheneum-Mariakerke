@@ -785,6 +785,7 @@
                 "👉 34 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111806/redirect"]
             },
             "Correctiesleutels": {
+                "M6 - Theorie" : ["🟢", "../corrections/eerstejaar/M6 - Theorie.pdf"],
                 "M6.1 - Oppervlakte van ruimtefiguren" : ["🔴","../corrections/eerstejaar/M6.1 - Oppervlakte van ruimtefiguren.pdf"],
                 "M6.2 - Volume van ruimtefiguren" : ["🔴","../corrections/eerstejaar/M6.2 - Volume van ruimtefiguren.pdf"],
                 "M6 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M6 - Oranje blaadjes.pdf"]
@@ -1518,6 +1519,7 @@
         }
     }
 }
+
 
 
 
