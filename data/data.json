@@ -707,7 +707,7 @@
                 "👉 17 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111803/redirect"]
             },
             "Correctiesleutels": {
-                "M4 - Theorie" : ["🟢", "../corrections/eerstejaar/M4 - Theorie.pdf"]
+                "M4 - Theorie" : ["🟢", "../corrections/eerstejaar/M4 - Theorie.pdf"],
                 "M4.1 - Voorstelling van ruimtefiguren in een vlak" : ["🔴","../corrections/eerstejaar/M4.1 - Voorstelling van ruimtefiguren in een vlak.pdf"],
                 "M4.2 - Opbouw van ruimtefiguren" : ["🔴","../corrections/eerstejaar/M4.2 - Opbouw van ruimtefiguren.pdf"],
                 "M4 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M4 - Oranje blaadjes.pdf"]
@@ -755,6 +755,7 @@
                 "👉 28 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111804/redirect"]
             },
             "Correctiesleutels": {
+                "M5 - Theorie" : ["🟢", "../corrections/eerstejaar/M5 - Theorie.pdf"],
                 "M5.1 - Omtrek van vlakke figuren" : ["🔴","../corrections/eerstejaar/M5.1 - Omtrek van vlakke figuren.pdf"],
                 "M5.2 - Oppervlakte van vlakke figuren" : ["🔴","../corrections/eerstejaar/M5.2 - Oppervlakte van vlakke figuren.pdf"],
                 "M5 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M5 - Oranje blaadjes.pdf"]
@@ -1517,6 +1518,7 @@
         }
     }
 }
+
 
 
 
