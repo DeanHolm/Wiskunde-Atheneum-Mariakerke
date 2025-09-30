@@ -96,8 +96,8 @@
                 "G1.1 - Ons talstelsel" : ["🟢","../corrections/eerstejaar/G1.1 - Ons talstelsel.pdf"],
                 "G1.2 - Getalverzamelingen" : ["🟢","../corrections/eerstejaar/G1.2 - Getalverzamelingen.pdf"],
                 "G1.3 - Deelbaarheid" : ["🟢","../corrections/eerstejaar/G1.3 - Deelbaarheid.pdf"],
-                "G1.4 - Breuk, decimale vorm en procent" : ["🔴", "../corrections/eerstejaar/G1.4 - Breuk, decimale vorm en procent.pdf"],
-                "G1 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G1 - Oranje blaadjes.pdf"]
+                "G1.4 - Breuk, decimale vorm en procent" : ["🟢", "../corrections/eerstejaar/G1.4 - Breuk, decimale vorm en procent.pdf"],
+                "G1 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/G1 - Oranje blaadjes.pdf"]
             }
         },
         "G2 - Gehele getallen": {
@@ -1229,8 +1229,8 @@
                 "M1.2 - Spiegelen om een as" : ["🟢", "../corrections/tweedejaar/M1.2 - Spiegelen om een as.pdf"],
                 "M1.3 - Verschuiven over een vector" : ["🟢","../corrections/tweedejaar/M1.3 - Verschuiven over een vector.pdf"],
                 "M1.4 - Roteren over een hoek" : ["🟢","../corrections/tweedejaar/M1.4 - Roteren over een hoek.pdf"],
-                "M1.5 - Symmetrie" : ["🔴", "../corrections/tweedejaar/M1.5 - Symmetrie.pdf"],
-                "M1.6 - Eigenschappen van transformaties" : ["🔴","../corrections/tweedejaar/M1.6 - Eigenschappen van transformaties.pdf"],
+                "M1.5 - Symmetrie" : ["🟢", "../corrections/tweedejaar/M1.5 - Symmetrie.pdf"],
+                "M1.6 - Eigenschappen van transformaties" : ["🟢","../corrections/tweedejaar/M1.6 - Eigenschappen van transformaties.pdf"],
                 "M1 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M1 - Oranje blaadjes.pdf"]
             }
         },
@@ -1522,6 +1522,7 @@
         }
     }
 }
+
 
 
 
