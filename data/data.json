@@ -465,11 +465,6 @@
                     "Ik kan vlakke figuren herkennen in de zijvlakken van een ruimtefiguur.",
                     "Ik kan aanzichten herkennen.",
                     "Ik kan aanzichten tekenen.",
-                    "Ik ken de principes van het natuurlijk perspectief.",
-                    "Ik ken de principes van het cavalièreperspectief.",
-                    "Ik ken de principes van het isometrisch perspectief.",
-                    "Ik kan de verschillende perspectieven herkennen.",
-                    "Ik ken de principes van de Europese projectie.",
                     "Ik kan de verschillende aanzichten tekenen van een ruimtefiguur.",
                     "Ik kan op een correcte manier een (breuk)schaal aflezen.",
                     "Ik kan problemen in verband met schaal oplossen."
@@ -500,8 +495,8 @@
             "Correctiesleutels": {
                 "M1 - Theorie" : ["🟢", "../corrections/eerstejaar/M1 - Theorie.pdf"],
                 "M1.1 - Ruimtefiguren en vlakke figuren herkennen" : ["🟢","../corrections/eerstejaar/M1.1 - Ruimtefiguren en vlakke figuren herkennen.pdf"],
-                "M1.2 - Begrippen in de vlakke meetkunde" : ["🔴","../corrections/eerstejaar/M1.2 - Begrippen in de vlakke meetkunde.pdf"],
-                "M1 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M1 - Oranje blaadjes.pdf"]
+                "M1.2 - Begrippen in de vlakke meetkunde" : ["🟢","../corrections/eerstejaar/M1.2 - Begrippen in de vlakke meetkunde.pdf"],
+                "M1 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/M1 - Oranje blaadjes.pdf"]
             }
         },
         "M2 - Eigenschappen van rechten en hoeken": {
@@ -1522,6 +1517,7 @@
         }
     }
 }
+
 
 
 
