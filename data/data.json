@@ -126,12 +126,12 @@
                     "Ik kan bij een som de termen en het plusteken benoemen.",
                     "Ik kan de som bepalen van gehele getallen.",
                     "Ik kan bij een verschil het aftrektal, het minteken en de aftrekker benoemen.",
-                    "Ik kan de hakenregel toepassen.",
+                    "Ik kan de tekenregels toepassen.",
                     "Ik kan het verschil bepalen van gehele getallen.",
                     "Ik kan bij een product de factoren en het maalteken benoemen.",
                     "Ik kan het product bepalen van gehele getallen.",
                     "Ik kan bij een quotiënt het deeltal, het deelteken en de deler benoemen.",
-                    "Ik kan het quotiënt bepamen van gehele getallen.",
+                    "Ik kan het quotiënt bepalen van gehele getallen.",
                     "Ik weet dat bij een quotiënt de deler verschillend moet zijn van 0."
                 ],
                 "2.3 Machten en vierkantswortels" : [
@@ -197,8 +197,8 @@
             },
             "Correctiesleutels": {
                 "G2 - Theorie" : ["🟢", "../corrections/eerstejaar/G2 - Theorie.pdf"],
-                "G2.1 - Welkom in \u2124" : ["🔴","../corrections/eerstejaar/G2.1 - Welkom in Z.pdf"],
-                "G2.2 - Hoofdbewerkingen met gehele getallen" : ["🔴","../corrections/eerstejaar/G2.2 - Hoofdbewerkingen met gehele getallen.pdf"],
+                "G2.1 - Welkom in \u2124" : ["🟢","../corrections/eerstejaar/G2.1 - Welkom in Z.pdf"],
+                "G2.2 - Hoofdbewerkingen met gehele getallen" : ["🟢","../corrections/eerstejaar/G2.2 - Hoofdbewerkingen met gehele getallen.pdf"],
                 "G2.3 - Machten en vierkantswortels" : ["🔴","../corrections/eerstejaar/G2.3 - Machten en vierkantswortels.pdf"],
                 "G2.4 - Eigenschappen van de hoofdbewerkingen in \u2124" : ["🔴", "../corrections/eerstejaar/G2.4 - Eigenschappen van de hoofdbewerkingen in Z.pdf"],
                 "G2.5 - De volgorde van bewerkingen" : ["🔴", "../corrections/eerstejaar/G2.5 - De volgorde van bewerkingen.pdf"],
@@ -917,9 +917,9 @@
             },
             "Correctiesleutels": {
                 "G2 - Theorie" : ["🟢", "../corrections/tweedejaar/G2 - Theorie.pdf"],
-                "G2.1 - Machten met gehele exponenten" : ["🔴","../corrections/tweedejaar/G2.1 - Machten met gehele exponenten.pdf"],
-                "G2.2 Wetenschappelijke schrijfwijze" : ["🔴","../corrections/tweedejaar/G2.2 - Wetenschappelijke schrijfwijze.pdf"],
-                "G2 - Oranje blaadjes" : ["🔴", "../corrections/tweedejaar/G2 - Oranje blaadjes.pdf"]
+                "G2.1 - Machten met gehele exponenten" : ["🟢","../corrections/tweedejaar/G2.1 - Machten met gehele exponenten.pdf"],
+                "G2.2 Wetenschappelijke schrijfwijze" : ["🟢","../corrections/tweedejaar/G2.2 - Wetenschappelijke schrijfwijze.pdf"],
+                "G2 - Oranje blaadjes" : ["🟢", "../corrections/tweedejaar/G2 - Oranje blaadjes.pdf"]
             }
         },
         "G3 - Rekenen met algebraïsche vormen": {
@@ -1517,6 +1517,7 @@
         }
     }
 }
+
 
 
 
