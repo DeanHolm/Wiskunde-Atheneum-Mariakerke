@@ -199,7 +199,7 @@
                 "G2 - Theorie" : ["🟢", "../corrections/eerstejaar/G2 - Theorie.pdf"],
                 "G2.1 - Welkom in \u2124" : ["🟢","../corrections/eerstejaar/G2.1 - Welkom in Z.pdf"],
                 "G2.2 - Hoofdbewerkingen met gehele getallen" : ["🟢","../corrections/eerstejaar/G2.2 - Hoofdbewerkingen met gehele getallen.pdf"],
-                "G2.3 - Machten en vierkantswortels" : ["🔴","../corrections/eerstejaar/G2.3 - Machten en vierkantswortels.pdf"],
+                "G2.3 - Machten en vierkantswortels" : ["🟢","../corrections/eerstejaar/G2.3 - Machten en vierkantswortels.pdf"],
                 "G2.4 - Eigenschappen van de hoofdbewerkingen in \u2124" : ["🔴", "../corrections/eerstejaar/G2.4 - Eigenschappen van de hoofdbewerkingen in Z.pdf"],
                 "G2.5 - De volgorde van bewerkingen" : ["🔴", "../corrections/eerstejaar/G2.5 - De volgorde van bewerkingen.pdf"],
                 "G2 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G2 - Oranje blaadjes.pdf"]
@@ -1517,6 +1517,7 @@
         }
     }
 }
+
 
 
 
