@@ -117,7 +117,7 @@
                     "Ik kan in een assenstelsel de oorsprong aanduiden.",
                     "Ik kan in een assenstelsel een coördinaat aanduiden.",
                     "Ik kan in een assenstelsel een coördinaat aflezen.",
-                    "Ik kan in symbolen een coördinaar noteren.",
+                    "Ik kan in symbolen een coördinaat noteren.",
                     "Ik kan in een coördinaat het eerste coördinaatgetal / de abscis / de x-waarde aflezen.",
                     "Ik kan in een coördinaat het tweede coördinaatgetal / de ordinaat / de y-waarde aflezen.",
                     "Ik kan enkele toepassingen opsommen waar een assenstelsel in het dagelijkse leven wordt gebruikt."
@@ -1517,6 +1517,7 @@
         }
     }
 }
+
 
 
 
