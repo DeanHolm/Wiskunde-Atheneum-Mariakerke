@@ -200,9 +200,9 @@
                 "G2.1 - Welkom in \u2124" : ["🟢","../corrections/eerstejaar/G2.1 - Welkom in Z.pdf"],
                 "G2.2 - Hoofdbewerkingen met gehele getallen" : ["🟢","../corrections/eerstejaar/G2.2 - Hoofdbewerkingen met gehele getallen.pdf"],
                 "G2.3 - Machten en vierkantswortels" : ["🟢","../corrections/eerstejaar/G2.3 - Machten en vierkantswortels.pdf"],
-                "G2.4 - Eigenschappen van de hoofdbewerkingen in \u2124" : ["🔴", "../corrections/eerstejaar/G2.4 - Eigenschappen van de hoofdbewerkingen in Z.pdf"],
-                "G2.5 - De volgorde van bewerkingen" : ["🔴", "../corrections/eerstejaar/G2.5 - De volgorde van bewerkingen.pdf"],
-                "G2 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G2 - Oranje blaadjes.pdf"]
+                "G2.4 - Eigenschappen van de hoofdbewerkingen in \u2124" : ["🟢", "../corrections/eerstejaar/G2.4 - Eigenschappen van de hoofdbewerkingen in Z.pdf"],
+                "G2.5 - De volgorde van bewerkingen" : ["🟢", "../corrections/eerstejaar/G2.5 - De volgorde van bewerkingen.pdf"],
+                "G2 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/G2 - Oranje blaadjes.pdf"]
             }
         },
         "G3 - Oplossingsmethodes voor vraagstukken": {
@@ -1338,9 +1338,9 @@
                 "👉 10 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111813/redirect"]
             },
             "Correctiesleutels": {
-                "M3.2 - Congruentie" : ["🟢", "../corrections/tweedejaar/M3.2 - Congruentie.pdf"],
-                "M3.3 - Verantwoorden van constructies" : ["🟢","../corrections/tweedejaar/M3.3 - Verantwoorden van constructies.pdf"],
-                "M3 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/M3 - Oranje blaadjes.pdf"]
+                "M3.2 - Congruentie" : ["🔴", "../corrections/tweedejaar/M3.2 - Congruentie.pdf"],
+                "M3.3 - Verantwoorden van constructies" : ["🔴","../corrections/tweedejaar/M3.3 - Verantwoorden van constructies.pdf"],
+                "M3 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M3 - Oranje blaadjes.pdf"]
             }
         },
         "M4 - Driehoeken": {
@@ -1397,10 +1397,10 @@
                 "👉 8 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111814/redirect"]
             },
             "Correctiesleutels": {
-                "M4.1 - Eigenschappen onderzoeken" : ["🟢", "../corrections/tweedejaar/M4.1 - Eigenschappen onderzoeken.pdf"],
-                "M4.2 - De driehoeksongelijkheid" : ["🟢", "../corrections/tweedejaar/M4.2 - De driehoeksongelijkheid.pdf"],
-                "M4 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/M4 - Oranje blaadjes.pdf"],
-                "M4 - Bewijzen meetkunde studeren" : ["🟢","../corrections/tweedejaar/M4 - Bewijzen meetkunde studeren.pdf"]
+                "M4.1 - Eigenschappen onderzoeken" : ["🔴", "../corrections/tweedejaar/M4.1 - Eigenschappen onderzoeken.pdf"],
+                "M4.2 - De driehoeksongelijkheid" : ["🔴", "../corrections/tweedejaar/M4.2 - De driehoeksongelijkheid.pdf"],
+                "M4 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M4 - Oranje blaadjes.pdf"],
+                "M4 - Bewijzen meetkunde studeren" : ["🔴","../corrections/tweedejaar/M4 - Bewijzen meetkunde studeren.pdf"]
             }
         },
         "M5 - Ruimtemeetkunde": {
@@ -1435,9 +1435,9 @@
                 "👉 12 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111815/redirect"]
             },
             "Correctiesleutels": {
-                "M5.1 - Ruimtefiguren herkennen" : ["🟢", "../corrections/tweedejaar/M5.1 - Ruimtefiguren herkennen.pdf"],
-                "M5.2 - Volume van ruimtefiguren" : ["🟢","../corrections/tweedejaar/M5.2 - Volume van ruimtefiguren.pdf"],
-                "M5 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/M5 - Oranje blaadjes.pdf"]
+                "M5.1 - Ruimtefiguren herkennen" : ["🔴", "../corrections/tweedejaar/M5.1 - Ruimtefiguren herkennen.pdf"],
+                "M5.2 - Volume van ruimtefiguren" : ["🔴","../corrections/tweedejaar/M5.2 - Volume van ruimtefiguren.pdf"],
+                "M5 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M5 - Oranje blaadjes.pdf"]
             }
         },
         "M6 - Vierhoeken": {
@@ -1510,13 +1510,14 @@
                 "👉 7 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111816/redirect"]
             },
             "Correctiesleutels": {
-                "M6.1 - Eigenschappen onderzoeken" : ["🟢", "../corrections/tweedejaar/M6.1 - Eigenschappen onderzoeken.pdf"],
-                "M6.2 - Vierhoeken construeren en classificeren" : ["🟢","../corrections/tweedejaar/M6.2 - Vierhoeken construeren en classificeren.pdf"],
-                "M6 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/M6 - Oranje blaadjes.pdf"]
+                "M6.1 - Eigenschappen onderzoeken" : ["🔴", "../corrections/tweedejaar/M6.1 - Eigenschappen onderzoeken.pdf"],
+                "M6.2 - Vierhoeken construeren en classificeren" : ["🔴","../corrections/tweedejaar/M6.2 - Vierhoeken construeren en classificeren.pdf"],
+                "M6 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M6 - Oranje blaadjes.pdf"]
             }
         }
     }
 }
+
 
 
 
