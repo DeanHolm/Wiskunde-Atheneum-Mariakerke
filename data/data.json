@@ -1297,7 +1297,8 @@
                 "M2.2 - Soorten hoeken" : ["🟢","../corrections/tweedejaar/M2.2 - Soorten hoeken.pdf"],
                 "M2.3 - Hoeken bij evenwijdigen en een snijlijn" : ["🟢", "../corrections/tweedejaar/M2.3 - Hoeken bij evenwijdigen en een snijlijn.pdf"],
                 "M2.4 - Som van de hoeken in een veelhoek" : ["🟢","../corrections/tweedejaar/M2.4 - Som van de hoeken in een veelhoek.pdf"],
-                "M2 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/M2 - Oranje blaadjes.pdf"]
+                "M2 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/M2 - Oranje blaadjes.pdf"],
+                "M2 - Studeerbundel bewijzen" : ["🟢","../corrections/tweedejaar/Studeerbundel_Bewijzen_M2_Correctiesleutel.pdf"]
             }
         },
         "M3 - Congruentie": {
@@ -1517,6 +1518,7 @@
         }
     }
 }
+
 
 
 
