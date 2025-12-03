@@ -1221,12 +1221,13 @@
                 "👉 Eigenschappen van een puntspiegeling" : ["https://www.geogebra.org/m/aen2ha7e#material/bbwehafq"]
             },
             "Correctiesleutels": {
+                "M1 - Theorie" : ["🟢", "../corrections/tweedejaar/M1 - Theorie.pdf"],
                 "M1.2 - Spiegelen om een as" : ["🟢", "../corrections/tweedejaar/M1.2 - Spiegelen om een as.pdf"],
                 "M1.3 - Verschuiven over een vector" : ["🟢","../corrections/tweedejaar/M1.3 - Verschuiven over een vector.pdf"],
                 "M1.4 - Roteren over een hoek" : ["🟢","../corrections/tweedejaar/M1.4 - Roteren over een hoek.pdf"],
                 "M1.5 - Symmetrie" : ["🟢", "../corrections/tweedejaar/M1.5 - Symmetrie.pdf"],
                 "M1.6 - Eigenschappen van transformaties" : ["🟢","../corrections/tweedejaar/M1.6 - Eigenschappen van transformaties.pdf"],
-                "M1 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M1 - Oranje blaadjes.pdf"]
+                "M1 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/M1 - Oranje blaadjes.pdf"]
             }
         },
         "M2 - Hoeken": {
@@ -1518,6 +1519,7 @@
         }
     }
 }
+
 
 
 
