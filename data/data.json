@@ -544,9 +544,9 @@
             },
             "Correctiesleutels": {
                 "M2 - Theorie" : ["🟢", "../corrections/eerstejaar/M2 - Theorie.pdf"],
-                "M2.1 - Rechten" : ["🔴","../corrections/eerstejaar/M2.1 - Rechten.pdf"],
-                "M2.2 - Hoeken" : ["🔴","../corrections/eerstejaar/M2.2 - Hoeken.pdf"],
-                "M2 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M2 - Oranje blaadjes.pdf"]
+                "M2.1 - Rechten" : ["🟢","../corrections/eerstejaar/M2.1 - Rechten.pdf"],
+                "M2.2 - Hoeken" : ["🟢","../corrections/eerstejaar/M2.2 - Hoeken.pdf"],
+                "M2 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/M2 - Oranje blaadjes.pdf"]
             }
         },
         "M3 - Vlakke figuren": {
@@ -1518,6 +1518,7 @@
         }
     }
 }
+
 
 
 
