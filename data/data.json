@@ -257,7 +257,7 @@
             "Correctiesleutels": {
                 "G3 - Theorie" : ["🟢", "../corrections/eerstejaar/G3 - Theorie.pdf"],
                 "G3.1 - Vraagstukken oplossen met hoofdbewerkingen" : ["🟢","../corrections/eerstejaar/G3.1 - Vraagstukken oplossen met hoofdbewerkingen.pdf"],
-                "G3.2 - Vraagstukken oplossen in verband met deelbaarheid" : ["🔴","../corrections/eerstejaar/G3.2 - Vraagstukken oplossen in verband met deelbaarheid.pdf"],
+                "G3.2 - Vraagstukken oplossen in verband met deelbaarheid" : ["🟢","../corrections/eerstejaar/G3.2 - Vraagstukken oplossen in verband met deelbaarheid.pdf"],
                 "G3.3 - Vraagstukken oplossen door het gebruik van letters" : ["🔴","../corrections/eerstejaar/G3.3 - Vraagstukken oplossen door het gebruik van letters.pdf"],
                 "G3.4 - Vraagstukken oplossen met vergelijkingen" : ["🔴", "../corrections/eerstejaar/G3.4 - Vraagstukken oplossen met vergelijkingen.pdf"],
                 "G3 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G3 - Oranje blaadjes.pdf"]
@@ -1520,6 +1520,7 @@
         }
     }
 }
+
 
 
 
