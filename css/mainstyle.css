@@ -11,8 +11,10 @@ body {
 
 a {
     text-decoration: none;
-    color: #054531;
+    color: #E1E554;
 }
+
+/* ================= GRID LAYOUT ================= */
 
 #grid-container-home {
     display: grid;
@@ -28,12 +30,8 @@ a {
 
 #grid-container-nav {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: auto;
-    grid-template-areas:
-        "start eerstejaar tweedejaar pod links";
-    padding: none;
-    margin: none;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-areas: "start eerstejaar tweedejaar pod links";
 }
 
 #grid-container-footer {
@@ -42,41 +40,7 @@ a {
     grid-template-areas: "leftfooter middlefooter rightfooter";
 }
 
-#leftfooter {
-    grid-area: leftfooter;
-}
-
-#middlefooter {
-    grid-area: middlefooter;
-}
-
-#rightfooter {
-    grid-area: rightfooter;
-}
-
-#start {
-    grid-area: start;
-    border-right: 3px solid #054531;
-}
-
-ul #eerstejaar {
-    grid-area: eerstejaar;
-    border-right: 3px solid #054531;
-}
-
-ul #tweedejaar {
-    grid-area: tweedejaar;
-    border-right: 3px solid #054531;
-}
-
-#pod {
-    grid-area: pod;
-    border-right: 3px solid #054531;
-}
-
-#links {
-    grid-area: links;
-}
+/* ================= HEADER ================= */
 
 header {
     grid-area: header;
@@ -91,127 +55,102 @@ header {
 }
 
 #title {
-    font-family: 'Times New Roman', Times, serif;
-    padding: 20px 0px;
+    padding: 20px 0;
     font-size: 2.5em;
-    color: #054531;
+    color: #E1E554;
     text-shadow: 5px 5px black;
     letter-spacing: 8px;
-    background-color: #E1E554;
-    border-radius: 0px 0px 20px 20px;
+    background-color: #054531;
+    border-radius: 0 0 20px 20px;
     width: 1000px;
-    border: 4px solid #054531;
-    box-shadow: 0 0 15px rgba(255, 255, 255, 0.782);
+    border: 4px solid #E1E554;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.78);
 }
 
+/* ================= NAVIGATIE ================= */
+
 nav {
-    margin: 30px 0px;
     grid-area: nav;
-    background-color: #E1E554;
+    margin: 30px 0;
+    background-color: #054531;
     text-align: center;
     align-self: center;
-    border: 4px solid #054531;
+    border: 4px solid #E1E554;
 }
 
 nav ul {
-    text-align: center;
     display: flex;
     justify-content: space-around;
 }
 
 nav li {
     font-family: 'Great Vibes', cursive;
-    text-shadow: 1px 1px black;
-    color: #054531;
     font-size: 1.5em;
-    list-style-type: none;
-    overflow: hidden;
-    padding: 20px 0px;
-    position: relative;
-    background: linear-gradient(to top, #054531 50%, transparent 50%);
+    list-style: none;
+    padding: 20px 0;
+    color: #E1E554;
+    text-shadow: 1px 1px black;
+    background: linear-gradient(to top, #E1E554 50%, transparent 50%);
     background-size: 100% 200%;
     background-position: 0 0;
-    transition: color 0s, background-position 0.5s, background-size 0.5s;
+    transition: background-position 0.5s;
 }
 
 nav li:hover {
     background-position: 0 100%;
-    color: #E1E554;
-    text-shadow: 1px 1px black;
+    color: #054531;
 }
 
 nav li a {
     color: inherit;
-    transition: color 0.3s;
 }
 
 nav li.active {
-    color: #E1E554;
-    text-shadow: 1px 1px black;
-    background-color: #054531;
+    background-color: #E1E554;
+    color: #054531;
     background-size: 100% 100%;
-    background-position: 0 0;
-    transition: none;
 }
 
-nav li:not(.active):hover {
-    background-position: 0 100%;
-    color: #E1E554;
-}
+/* ================= MAIN CONTENT ================= */
 
 main {
     grid-area: main;
 }
 
 article {
-    border: 3px solid #E1E554;
+    border: 3px solid #054531;
     border-radius: 20px;
-    background-color: #054531;
+    background-color: #E1E554;
     padding: 25px;
-    align-items: flex-start;
-    gap: 20px;
     margin-bottom: 40px;
     font-size: 18px;
 }
 
 p {
-    flex: 1;
     line-height: 1.3;
 }
 
-p #meer-weten {
-    font-size: 10px;
-}
+/* ================= FOOTER ================= */
 
 footer {
     grid-area: footer;
-    background-color: #E1E554;
-    border-top: 4px solid #054531;
-    align-items: center;
-    color: #054531;
-}
-
-footer #disclaimer {
-    grid-area: content;
-    position: relative;
-    left: 0%;
-    font-weight: bold;
-}
-
-footer #logo_school {
-    grid-area: content;
-    position: relative;
-    height: auto;
-    width: 250px;
-    right: 0%;
+    background-color: #054531;
+    border-top: 4px solid #E1E554;
+    color: #E1E554;
 }
 
 #middlefooter {
-    grid-area: middlefooter;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
 }
+
+#logo_school {
+    width: 250px;
+    height: auto;
+}
+
+/* ================= LIJSTEN ================= */
 
 ul {
     list-style: none;
@@ -227,9 +166,10 @@ ol {
     line-height: 1.3;
 }
 
+/* ================= POD ================= */
+
 #POD {
     display: flex;
-    align-items: left;
     flex-wrap: wrap;
     gap: 50px;
 }
@@ -238,17 +178,16 @@ ol {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 30px;
-    border: 3px solid #E1E554;
+    border: 3px solid #054531;
     border-radius: 20px;
-    background-image: url('https://img.freepik.com/free-psd/cartoon-question-mark-isolated_23-2151568563.jpg?t=st=1723724659~exp=1723728259~hmac=abc846ab33dc26fe22d92445e4368465f3c6540d0db5db025bb62a84c837c40e&w=1380');
+    background-image: url('https://img.freepik.com/free-psd/cartoon-question-mark-isolated_23-2151568563.jpg');
     background-size: cover;
     background-position: center;
     width: 100px;
     height: 100px;
     display: flex;
-    align-items: center;
     justify-content: center;
-    text-align: center;
+    align-items: center;
 }
 
 #POD a {
