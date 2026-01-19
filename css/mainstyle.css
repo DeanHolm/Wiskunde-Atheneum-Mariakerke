@@ -97,7 +97,7 @@ header {
     color: #E1E554;
     text-shadow: 5px 5px black;
     letter-spacing: 8px;
-    background-color: #054531;
+    background-color: #82A298;
     border-radius: 0px 0px 20px 20px;
     width: 1000px;
     border: 4px solid #E1E554;
@@ -107,7 +107,7 @@ header {
 nav {
     margin: 30px 0px;
     grid-area: nav;
-    background-color: #054531;
+    background-color: #82A298;
     text-align: center;
     align-self: center;
     border: 4px solid #E1E554;
@@ -136,7 +136,7 @@ nav li {
 
 nav li:hover {
     background-position: 0 100%;
-    color: #054531;
+    color: #82A298;
     text-shadow: 1px 1px black;
 }
 
@@ -146,7 +146,7 @@ nav li a {
 }
 
 nav li.active {
-    color: #054531;
+    color: #82A298;
     text-shadow: 1px 1px black;
     background-color: #E1E554;
     /* Vult de volledige ruimte met kleur */
@@ -160,7 +160,7 @@ nav li.active {
 
 nav li:not(.active):hover {
     background-position: 0 100%;
-    color: #054531;
+    color: #82A298;
 }
 
 main {
@@ -168,7 +168,7 @@ main {
 }
 
 article {
-    border: 3px solid #054531;
+    border: 3px solid #82A298;
     border-radius: 20px;
     background-color: #E1E554;
     padding: 25px;
@@ -190,7 +190,7 @@ p #meer-weten {
 
 footer {
     grid-area: footer;
-    background-color: #054531;
+    background-color: #82A298;
     border-top: 4px solid #E1E554;
     align-items: center;
     color: #E1E554;
@@ -243,7 +243,7 @@ ol {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 30px;
-    border: 3px solid #054531;
+    border: 3px solid #82A298;
     border-radius: 20px;
     background-image: url('https://img.freepik.com/free-psd/cartoon-question-mark-isolated_23-2151568563.jpg?t=st=1723724659~exp=1723728259~hmac=abc846ab33dc26fe22d92445e4368465f3c6540d0db5db025bb62a84c837c40e&w=1380');
     background-size: cover;
@@ -261,3 +261,4 @@ ol {
     color: black;
 
 }
+
