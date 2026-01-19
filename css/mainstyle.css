@@ -11,7 +11,7 @@ body {
 
 a {
     text-decoration: none;
-    color: #E1E554;
+    color: #054531;
 }
 
 #grid-container-home {
@@ -56,22 +56,22 @@ a {
 
 #start {
     grid-area: start;
-    border-right: 3px solid #E1E554;
+    border-right: 3px solid #054531;
 }
 
 ul #eerstejaar {
     grid-area: eerstejaar;
-    border-right: 3px solid #E1E554;
+    border-right: 3px solid #054531;
 }
 
 ul #tweedejaar {
     grid-area: tweedejaar;
-    border-right: 3px solid #E1E554;
+    border-right: 3px solid #054531;
 }
 
 #pod {
     grid-area: pod;
-    border-right: 3px solid #E1E554;
+    border-right: 3px solid #054531;
 }
 
 #links {
@@ -94,13 +94,13 @@ header {
     font-family: 'Times New Roman', Times, serif;
     padding: 20px 0px;
     font-size: 2.5em;
-    color: #E1E554;
+    color: #054531;
     text-shadow: 5px 5px black;
     letter-spacing: 8px;
     background-color: #82A298;
     border-radius: 0px 0px 20px 20px;
     width: 1000px;
-    border: 4px solid #E1E554;
+    border: 4px solid #054531;
     box-shadow: 0 0 15px rgba(255, 255, 255, 0.782);
 }
 
@@ -110,7 +110,7 @@ nav {
     background-color: #82A298;
     text-align: center;
     align-self: center;
-    border: 4px solid #E1E554;
+    border: 4px solid #054531;
 }
 
 nav ul {
@@ -122,13 +122,13 @@ nav ul {
 nav li {
     font-family: 'Great Vibes', cursive;
     text-shadow: 1px 1px black;
-    color: #E1E554;
+    color: #054531;
     font-size: 1.5em;
     list-style-type: none;
     overflow: hidden;
     padding: 20px 0px;
     position: relative;
-    background: linear-gradient(to top, #E1E554 50%, transparent 50%);
+    background: linear-gradient(to top, #054531 50%, transparent 50%);
     background-size: 100% 200%;
     background-position: 0 0;
     transition: color 0s, background-position 0.5s, background-size 0.5s;
@@ -148,7 +148,7 @@ nav li a {
 nav li.active {
     color: #82A298;
     text-shadow: 1px 1px black;
-    background-color: #E1E554;
+    background-color: #054531;
     /* Vult de volledige ruimte met kleur */
     background-size: 100% 100%;
     /* Zorgt ervoor dat de achtergrondkleur volledig zichtbaar is */
@@ -170,7 +170,7 @@ main {
 article {
     border: 3px solid #82A298;
     border-radius: 20px;
-    background-color: #E1E554;
+    background-color: #054531;
     padding: 25px;
     /* display: flex; */
     align-items: flex-start;
@@ -191,9 +191,9 @@ p #meer-weten {
 footer {
     grid-area: footer;
     background-color: #82A298;
-    border-top: 4px solid #E1E554;
+    border-top: 4px solid #054531;
     align-items: center;
-    color: #E1E554;
+    color: #054531;
 }
 
 footer #disclaimer {
@@ -261,4 +261,5 @@ ol {
     color: black;
 
 }
+
 
