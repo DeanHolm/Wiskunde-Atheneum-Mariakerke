@@ -164,7 +164,7 @@ function fillVideos(chapter) {
             videoContainer.appendChild(titleElement);
 
             const image = document.createElement('img');
-            image.src = "../images/filmpje_placeholder.png";
+            image.src = "../images/filmpje.placeholder.png";
             image.alt = "Klik om de video te starten";
             image.style.cursor = "pointer";
             image.width = 640;
@@ -306,3 +306,4 @@ function herlaadPagina(event) {
     event.preventDefault(); // Voorkomt de standaard actie van de link
     location.reload(); // Herlaadt de pagina
 }
+
