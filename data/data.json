@@ -987,7 +987,7 @@
                 "G3.1 - Eentermen en veeltermen" : ["🟢","../corrections/tweedejaar/G3.1 - Eentermen en veeltermen.pdf"],
                 "G3.2 - Som en verschil van veeltermen" : ["🟢","../corrections/tweedejaar/G3.2 - Som en verschil van veeltermen.pdf"],
                 "G3.3 - Product van veeltermen" : ["🟢", "../corrections/tweedejaar/G3.3 - Product van veeltermen.pdf"],
-                "G3.4 - Merkwaardige producten" : ["🔴","../corrections/tweedejaar/G3.4 - Merkwaardige producten.pdf"],
+                "G3.4 - Merkwaardige producten" : ["🟢","../corrections/tweedejaar/G3.4 - Merkwaardige producten.pdf"],
                 "G3 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/G3 - Oranje blaadjes.pdf"]
             }
         },
@@ -1520,6 +1520,7 @@
         }
     }
 }
+
 
 
 
