@@ -260,7 +260,7 @@
                 "G3.2 - Vraagstukken oplossen in verband met deelbaarheid" : ["🟢","../corrections/eerstejaar/G3.2 - Vraagstukken oplossen in verband met deelbaarheid.pdf"],
                 "G3.3 - Vraagstukken oplossen door het gebruik van letters" : ["🟢","../corrections/eerstejaar/G3.3 - Vraagstukken oplossen door het gebruik van letters.pdf"],
                 "G3.4 - Vraagstukken oplossen met vergelijkingen" : ["🟢", "../corrections/eerstejaar/G3.4 - Vraagstukken oplossen met vergelijkingen.pdf"],
-                "G3 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/G3 - Oranje blaadjes.pdf"]
+                "G3 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/G3 - Oranje blaadjes.pdf"]
             }
         },
         "G4 - Rationale getallen": {
@@ -988,7 +988,7 @@
                 "G3.2 - Som en verschil van veeltermen" : ["🟢","../corrections/tweedejaar/G3.2 - Som en verschil van veeltermen.pdf"],
                 "G3.3 - Product van veeltermen" : ["🟢", "../corrections/tweedejaar/G3.3 - Product van veeltermen.pdf"],
                 "G3.4 - Merkwaardige producten" : ["🟢","../corrections/tweedejaar/G3.4 - Merkwaardige producten.pdf"],
-                "G3 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/G3 - Oranje blaadjes.pdf"]
+                "G3 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/G3 - Oranje blaadjes.pdf"]
             }
         },
         "G4 - Data en onzekerheid": {
@@ -1520,6 +1520,7 @@
         }
     }
 }
+
 
 
 
