@@ -44,9 +44,10 @@ a {
 
 header {
     grid-area: header;
-    background-image: url('https://wallpapers.com/images/featured/math-background-jbcyizvw0ckuvcro.jpg');
-    background-repeat: repeat;
-    background-size: 40%;
+    background-image: url('../images/banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -193,4 +194,5 @@ ol {
 #POD a {
     color: black;
 }
+
 
