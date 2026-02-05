@@ -672,8 +672,11 @@
             },
             "Correctiesleutels": {
                 "M3 - Theorie" : ["🟢", "../corrections/eerstejaar/M3 - Theorie.pdf"],
-                "M3.2 - Driehoeken" : ["🔴","../corrections/eerstejaar/M3.2 - Driehoeken.pdf"],
+                "M3.2 - Driehoeken" : ["🟢","../corrections/eerstejaar/M3.2 - Driehoeken.pdf"],
+                "M3.2 - Oefening 18 p.118 – p.119" : ["🟢","../corrections/eerstejaar/M3.2 - Oefening 18 p.118 – p.119.pdf"],
                 "M3.3 - Vierhoeken" : ["🔴","../corrections/eerstejaar/M3.3 - Vierhoeken.pdf"],
+                "M3.3 - Oefening 7 p.136" : ["🔴","../corrections/eerstejaar/M3.3 - Oefening 7 p.136.pdf"],
+                "M3.3 - Oefening 8 p.137" : ["🔴","../corrections/eerstejaar/M3.3 - Oefening 8 p.137.pdf"],
                 "M3.4 - Cirkels" : ["🔴","../corrections/eerstejaar/M3.4 - Cirkels.pdf"],
                 "M3 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M3 - Oranje blaadjes.pdf"]
             }
@@ -1520,6 +1523,7 @@
         }
     }
 }
+
 
 
 
