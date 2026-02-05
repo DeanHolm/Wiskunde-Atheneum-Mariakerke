@@ -38,6 +38,7 @@ a {
     display: grid;
     grid-template-columns: 1fr 1000px 1fr;
     grid-template-areas: "leftfooter middlefooter rightfooter";
+    padding-bottom: 15px;
 }
 
 /* ================= HEADER ================= */
@@ -194,6 +195,7 @@ ol {
 #POD a {
     color: black;
 }
+
 
 
 
