@@ -85,7 +85,7 @@ nav ul {
 }
 
 nav li {
-    font-family: 'Great Vibes', cursive;
+    font-family: Georgia;
     font-size: 1.5em;
     list-style: none;
     padding: 20px 0;
@@ -194,6 +194,7 @@ ol {
 #POD a {
     color: black;
 }
+
 
 
 
