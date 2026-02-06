@@ -59,6 +59,7 @@ header {
 #title {
     padding: 20px 0;
     font-size: 2.5em;
+    font-family: auto;
     color: #E1E554;
     text-shadow: 5px 5px black;
     letter-spacing: 8px;
@@ -195,6 +196,7 @@ ol {
 #POD a {
     color: black;
 }
+
 
 
 
