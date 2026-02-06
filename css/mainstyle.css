@@ -5,7 +5,14 @@
 }
 
 body {
-    background-color: #dbdfd1;
+    /* background-color: #dbdfd1; */
+    background-image: url('../images/background_middle.jpg');
+    background-repeat: no-repeat;      /* afbeelding niet herhalen */
+    background-size: cover;            /* vult altijd het scherm */
+    background-position: center;       /* afbeelding in het midden */
+    background-attachment: fixed;      /* afbeelding blijft op zijn plek bij scrollen */
+    height: 100vh;                     /* volledige schermhoogte */
+    margin: 0;                          /* verwijdert standaardmarges */
 }
 
 a {
@@ -18,7 +25,7 @@ a {
 #grid-container-home {
     display: grid;
     grid-template-columns: 1fr 1000px 1fr;
-    grid-template-rows: 200px 150px 1fr 150px;
+    grid-template-rows: 150px 150px 1fr 150px;
     grid-template-areas:
         "header header header"
         "borderleft nav borderright"
@@ -44,7 +51,7 @@ a {
 
 header {
     grid-area: header;
-    background-image: url('../images/banner.jpg');
+    background-color: #82a298;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -57,15 +64,13 @@ header {
 
 #title {
     padding: 20px 0;
-    font-size: 2.5em;
+    font-size: 2.3em;
     color: #E1E554;
-    text-shadow: 5px 5px black;
+    text-shadow: 2px 2px black;
     letter-spacing: 8px;
     background-color: #054531;
-    border-radius: 0 0 20px 20px;
     width: 1000px;
     border: 4px solid #E1E554;
-    box-shadow: 0 0 15px rgba(255, 255, 255, 0.78);
 }
 
 /* ================= NAVIGATIE ================= */
@@ -120,9 +125,8 @@ main {
 
 article {
     border: 3px solid #054531;
-    border-radius: 20px;
     background-color: #E1E554;
-    padding: 25px;
+    padding: 15px 25px ;
     margin-bottom: 40px;
     font-size: 18px;
 }
