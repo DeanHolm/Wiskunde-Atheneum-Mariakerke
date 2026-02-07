@@ -61,7 +61,7 @@ function emptyDisplay() {
 function addArrow() {
     let arrow = document.createElement("img");
     arrow.setAttribute("id", "pijl");
-    arrow.setAttribute("src", "../images/pijl_terugkeren.png");
+    arrow.setAttribute("src", "../images/Terug.png");
     arrow.setAttribute("alt", "pijl terugkeren");
     placeholder.appendChild(arrow);
     arrow.addEventListener('click',showChapters);
@@ -302,8 +302,4 @@ function scrollToTop() {
     });
 }
 
-function herlaadPagina(event) {
-    event.preventDefault(); // Voorkomt de standaard actie van de link
-    location.reload(); // Herlaadt de pagina
-}
 

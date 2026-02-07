@@ -19,7 +19,7 @@
 }
 
 #hoofdstukken img.dimmed {
-    opacity: 0.3;
+    opacity: 0.0;
 }
 
 main {
@@ -35,15 +35,20 @@ main p {
 }
 
 #pijl {
-    width: 50px;
-    height: 50px;
-    margin: 20px;
+    width: 280px;
+    height: 65px;
+    border: 3px solid #054531;
+    margin-left: 20px;
 }
 
 #titel {
     flex: 1;
-    font-size: 2em;
+    font-size: 1.5em;
     font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#meer-weten {
     font-weight: bold;
 }
 
