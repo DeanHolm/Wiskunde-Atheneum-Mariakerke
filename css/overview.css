@@ -10,16 +10,16 @@
     margin: 0px 0px 60px 0px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out, opacity 0.2s ease-in-out;
 }
 
 #hoofdstukken img:hover {
-    transform: scale(1.03);
+    transform: scale(1.05);
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
 }
 
 #hoofdstukken img.dimmed {
-    opacity: 0.0;
+    opacity: 1;
 }
 
 main {
