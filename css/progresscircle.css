@@ -1,0 +1,42 @@
+.progress-circle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 100px;
+    height: 100px;
+    z-index: 1000;
+  }
+  
+  svg {
+    transform: rotate(-90deg);
+    width: 100px;
+    height: 100px;
+  }
+  
+  circle {
+    fill: none;
+    stroke-width: 10;
+    stroke-linecap: round;
+  }
+  
+  .bg {
+    stroke: #82A298;
+  }
+  
+  .progress {
+    stroke: #E1E554;
+    stroke-dasharray: 283;
+    stroke-dashoffset: 283;
+    transition: stroke-dashoffset 0.5s ease;
+  }
+  
+  .percentage {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    font-weight: bold;
+    color: #E1E554
+  }
+  
