@@ -2,10 +2,11 @@
 
 let data, display, placeholder, placeholder2, goals, videos, exercises, corrections;
 
-window.addEventListener('load',initialize);
+window.addEventListener('load', initialize);
 
-function initialize() {
-    fetchData();
+async function initialize() {
+    await fetchData();
+    activateChapterClicks();
 }
 
 async function fetchData() {
@@ -13,10 +14,11 @@ async function fetchData() {
         data = await response.json();
 }
 
-document.addEventListener("DOMContentLoaded", function() {
+function activateChapterClicks() {
     const images = document.querySelectorAll('#hoofdstukken img');
 
     images.forEach(image => {
+
         image.addEventListener('mouseover', function() {
             images.forEach(img => {
                 if (img !== image) {
@@ -31,9 +33,9 @@ document.addEventListener("DOMContentLoaded", function() {
             });
         });
 
-        image.addEventListener('click',showInfo);
+        image.addEventListener('click', showInfo);
     });
-});
+}
 
 function showInfo() {
     display = document.querySelector("main");
@@ -303,63 +305,19 @@ function scrollToTop() {
 }
 
 
+//   import { initializeApp } from "https://www.gstatic.com/firebasejs/10.2.0/firebase-app.js";
+//   import { getDatabase, ref, runTransaction, onValue } from "https://www.gstatic.com/firebasejs/10.2.0/firebase-database.js";
 
-document.addEventListener("DOMContentLoaded", function () {
-
-  function getCurrentSchoolYear() {
-    const today = new Date();
-    const year = today.getFullYear();
-    let start, end;
-
-    if (today.getMonth() >= 8) {
-      start = new Date(year, 8, 1);
-      end = new Date(year + 1, 5, 30);
-    } else {
-      start = new Date(year - 1, 8, 1);
-      end = new Date(year, 5, 30);
-    }
-    return { start, end };
-  }
-
-  function updateSchoolYearProgress() {
-
-    const circle = document.querySelector('.progress');
-    if (!circle) return; // extra veiligheid
-
-    const { start, end } = getCurrentSchoolYear();
-    const today = new Date();
-
-    const total = end - start;
-    const passed = today - start;
-    let percent = Math.floor((passed / total) * 100);
-    percent = Math.max(0, Math.min(100, percent));
-
-    const radius = circle.r.baseVal.value;
-    const circumference = 2 * Math.PI * radius;
-    const offset = circumference - (percent / 100) * circumference;
-    circle.style.strokeDashoffset = offset;
-
-    document.getElementById('percentage').textContent = percent + '%';
-  }
-
-  updateSchoolYearProgress();
-  setInterval(updateSchoolYearProgress, 86400000);
-});
-
-
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.2.0/firebase-app.js";
-  import { getDatabase, ref, runTransaction, onValue } from "https://www.gstatic.com/firebasejs/10.2.0/firebase-database.js";
-
-  const firebaseConfig = {
-    apiKey: "AIzaSyBcMCPdZAnM7kjmWn_uNuKqxm4_wNLDUes",
-    authDomain: "schoolwebsite-teller.firebaseapp.com",
-    databaseURL: "https://schoolwebsite-teller-default-rtdb.europe-west1.firebasedatabase.app",
-    projectId: "schoolwebsite-teller",
-    storageBucket: "schoolwebsite-teller.firebasestorage.app",
-    messagingSenderId: "526962109108",
-    appId: "1:526962109108:web:63cabd95ec954de031c5e1",
-    measurementId: "G-NW27LLN6GJ"
-  };
+//   const firebaseConfig = {
+//     apiKey: "AIzaSyBcMCPdZAnM7kjmWn_uNuKqxm4_wNLDUes",
+//     authDomain: "schoolwebsite-teller.firebaseapp.com",
+//     databaseURL: "https://schoolwebsite-teller-default-rtdb.europe-west1.firebasedatabase.app",
+//     projectId: "schoolwebsite-teller",
+//     storageBucket: "schoolwebsite-teller.firebasestorage.app",
+//     messagingSenderId: "526962109108",
+//     appId: "1:526962109108:web:63cabd95ec954de031c5e1",
+//     measurementId: "G-NW27LLN6GJ"
+//   };
 
   // Initialiseer Firebase
   const app = initializeApp(firebaseConfig);
