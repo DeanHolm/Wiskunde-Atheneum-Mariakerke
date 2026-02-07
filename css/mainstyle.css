@@ -69,7 +69,7 @@ header {
     padding: 20px 0;
     font-size: 2.6em;
     color: #E1E554;
-    text-shadow: 2px 2px black;
+    text-shadow: 1px 1px #82a298;
     text-align: center;
     letter-spacing: 4px;
     background-color: #054531;
@@ -82,6 +82,10 @@ header {
     max-height: 145px;
     width: auto;
     margin-left: 50px;
+}
+
+#cirkel {
+    margin-right: 50px;
 }
 
 #passer {
@@ -165,6 +169,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
+    text-align: end;
 }
 
 #logo_school {

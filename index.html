@@ -2,14 +2,14 @@
 <html lang="nl">
 
 <head>
-        <!-- Google Analytics -->
+    <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z35N06QM9C"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-    gtag('config', 'G-Z35N06QM9C'); // Vervang met jouw eigen Measurement ID
+        gtag('config', 'G-Z35N06QM9C'); // Vervang met jouw eigen Measurement ID
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -28,6 +28,14 @@
         <header>
             <img src="images/potlood.png" alt="potlood" id="potlood">
             <h1 id="title">GO! atheneum Mariakerke <br> wiskunde</h1><br>
+            <div class="progress-circle" title="Dit percentage geeft weer hoever het schooljaar al gevorderd is."
+                id="cirkel">
+                <svg>
+                    <circle class="bg" r="45" cx="50" cy="50"></circle>
+                    <circle class="progress" r="45" cx="50" cy="50"></circle>
+                </svg>
+                <div class="percentage" id="percentage">0%</div>
+            </div>
         </header>
         <nav>
             <ul id="grid-container-nav">
@@ -43,9 +51,9 @@
                 <span>
                     <h1>Welkom!</h1> <br>
                     <p>Beste leerling <br><br>
-                        Op deze website vind je extra ondersteuningsmateriaal terug voor de lessen wiskunde. 
+                        Op deze website vind je extra ondersteuningsmateriaal terug voor de lessen wiskunde.
                         Per thema kan je aangepast materiaal terugvinden, zoals:</p>
-                        
+
                     <ul>
                         <li>de correctiesleutels;</li>
                         <li>de doelstellingen per hoofdstuk;</li>
@@ -53,8 +61,9 @@
                         <li>extra uitlegfilmpjes.</li>
                     </ul>
                     <br>
-                    Verder vind je op deze website ook nog een onderdeel terug over probleemoplossend denken (POD), maar 
-                    ook een luikje 'varia' waar je tips terugvindt omtrent leren leren, links naar interessante websites, enz.
+                    Verder vind je op deze website ook nog een onderdeel terug over probleemoplossend denken (POD), maar
+                    ook een luikje 'varia' waar je tips terugvindt omtrent leren leren, links naar interessante
+                    websites, enz.
                     </p>
                 </span>
                 <img src="https://cdn3d.iconscout.com/3d/premium/thumb/boy-studying-pi-5336478-4460196.png"
@@ -65,25 +74,14 @@
             <div id="leftfooter"></div>
             <div id="middlefooter">
                 <a href="#"><img src="images/Logo_School.png" alt="logo Atheneum Mariakerke" id="logo_school"></a>
-                <p id="disclaimer">&copy Website gecreëerd door Dean Holm voor vakgroep wiskunde 1ste graad</p>
+                <p id="disclaimer">Aantal bezoekers vandaag: <span id="visitor-today">0</span><br>
+                    Aantal bezoekers totaal: <span id="visitor-total">0</span><br><br>
+                    &copy Website gecreëerd door Dean Holm voor vakgroep wiskunde 1ste graad</p>
             </div>
-            <div id="rightfooter">                 
+            <div id="rightfooter">
             </div>
         </footer>
     </div>
-    <div class="progress-circle"
-    title="Dit percentage geeft weer hoever het schooljaar al gevorderd is.">
- <svg>
-   <circle class="bg" r="45" cx="50" cy="50"></circle>
-   <circle class="progress" r="45" cx="50" cy="50"></circle>
- </svg>
- <div class="percentage" id="percentage">0%</div>
-</div>
-<p>Bezoekers tot nu toe: <span id="visitor-count">0</span></p>
-
 </body>
 
-
 </html>
-
-
