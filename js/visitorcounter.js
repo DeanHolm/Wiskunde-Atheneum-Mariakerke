@@ -1,7 +1,5 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.2.0/firebase-app.js";
-import { getDatabase, ref, runTransaction, onValue } from "https://www.gstatic.com/firebasejs/10.2.0/firebase-database.js";
-
-/* ================= FIREBASE CONFIG ================= */
+import { getDatabase, ref, runTransaction, onValue, set, get } from "https://www.gstatic.com/firebasejs/10.2.0/firebase-database.js";
 
 const firebaseConfig = {
   apiKey: "AIzaSyBcMCPdZAnM7kjmWn_uNuKqxm4_wNLDUes",
@@ -14,69 +12,62 @@ const firebaseConfig = {
   measurementId: "G-NW27LLN6GJ"
 };
 
-/* ================= INITIALISATIE ================= */
-
 const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
 
-/* ================= DATUM FUNCTIE ================= */
-
-// Geeft bv: "2026-02-07"
-function getTodayKey() {
-  const today = new Date();
-  return today.toISOString().split('T')[0];
+/* ====== HELPER: UNIEKE VISITOR ID ====== */
+function generateVisitorId() {
+  const nav = navigator.userAgent + navigator.language + screen.width + screen.height + screen.colorDepth + new Date().getTimezoneOffset();
+  let hash = 0;
+  for (let i = 0; i < nav.length; i++) {
+    hash = ((hash << 5) - hash) + nav.charCodeAt(i);
+    hash |= 0;
+  }
+  return 'v' + Math.abs(hash);
 }
 
-/* ================= DATABASE PADEN ================= */
+/* ====== DATUM ====== */
+const todayKey = new Date().toISOString().split('T')[0];
+const visitorId = generateVisitorId();
 
-const totalRef = ref(database, 'Visitors/total');
-const todayKey = getTodayKey();
+/* ====== DATABASE REFERENTIES ====== */
+const totalRef = ref(database, 'Visitors/total_unique');
 const todayRef = ref(database, 'Visitors/daily/' + todayKey);
+const todayVisitorRef = ref(database, 'Visitors/daily/' + todayKey + '/' + visitorId);
+const totalVisitorRef = ref(database, 'Visitors/unique_ids/' + visitorId);
 
-/* ================= UNIEKE DAGBEZOEKER TELLEN ================= */
+/* ====== TEL UNIEKE BEZOEKER ====== */
+get(todayVisitorRef).then(snapshot => {
+  if (!snapshot.exists()) {
+    // Markeer deze visitor als geteld vandaag
+    set(todayVisitorRef, true);
 
-// Wat was de laatste dag dat deze browser geteld werd?
-const lastCountedDate = localStorage.getItem('countedDate');
+    // Tel totaal aantal bezoekers vandaag
+    runTransaction(todayRef, (current) => (current || 0) + 1);
 
-// Alleen tellen als deze browser vandaag nog niet geteld is
-if (lastCountedDate !== todayKey) {
+    // Tel totaal unieke bezoekers ooit (sleutel = visitorId)
+    get(totalVisitorRef).then(snap => {
+      if (!snap.exists()) {
+        set(totalVisitorRef, true);
+        runTransaction(totalRef, (current) => (current || 0) + 1);
+      }
+    });
 
-  // totaal verhogen
-  runTransaction(totalRef, (currentValue) => {
-    return (currentValue || 0) + 1;
-  });
-
-  // vandaag verhogen
-  runTransaction(todayRef, (currentValue) => {
-    return (currentValue || 0) + 1;
-  })
-  .then(() => {
     console.log("Nieuwe unieke bezoeker vandaag geteld");
-    localStorage.setItem('countedDate', todayKey);
-  })
-  .catch((error) => {
-    console.error("Fout bij teller:", error);
-  });
-}
-
-/* ================= REALTIME WEERGAVE ================= */
-
-// Totaal aantal bezoekers
-onValue(totalRef, (snapshot) => {
-  const total = snapshot.val() || 0;
-
-  const totalElement = document.getElementById('visitor-total');
-  if (totalElement) {
-    totalElement.innerText = total;
+  } else {
+    console.log("Deze bezoeker is vandaag al geteld");
   }
 });
 
-// Bezoekers vandaag
+/* ====== REALTIME WEERGAVE ====== */
+onValue(totalRef, (snapshot) => {
+  const total = snapshot.val() || 0;
+  const totalElement = document.getElementById('visitor-total');
+  if (totalElement) totalElement.innerText = total;
+});
+
 onValue(todayRef, (snapshot) => {
   const today = snapshot.val() || 0;
-
   const todayElement = document.getElementById('visitor-today');
-  if (todayElement) {
-    todayElement.innerText = today;
-  }
+  if (todayElement) todayElement.innerText = today;
 });
