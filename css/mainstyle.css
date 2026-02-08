@@ -56,7 +56,7 @@ a {
     display: grid;
     grid-template-columns: 1fr 1000px 1fr;
     grid-template-areas: "leftfooter middlefooter rightfooter";
-    padding-bottom: 15px;
+    padding: 20px;
 }
 
 /* ================= HEADER ================= */
@@ -177,6 +177,7 @@ footer {
     justify-content: space-between;
     align-items: flex-end;
     text-align: end;
+    padding: 0px 20px;
 }
 
 #logo_school {
