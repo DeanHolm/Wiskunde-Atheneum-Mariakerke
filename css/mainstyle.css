@@ -6,12 +6,18 @@
 
 body {
     background-image: url('../images/background_middle2.jpg');
-    background-repeat: no-repeat;      /* afbeelding niet herhalen */
-    background-size: cover;            /* vult altijd het scherm */
-    background-position: center;       /* afbeelding in het midden */
-    background-attachment: fixed;      /* afbeelding blijft op zijn plek bij scrollen */
-    height: 100vh;                     /* volledige schermhoogte */
-    margin: 0;                          /* verwijdert standaardmarges */
+    background-repeat: no-repeat;
+    /* afbeelding niet herhalen */
+    background-size: cover;
+    /* vult altijd het scherm */
+    background-position: center;
+    /* afbeelding in het midden */
+    background-attachment: fixed;
+    /* afbeelding blijft op zijn plek bij scrollen */
+    height: 100vh;
+    /* volledige schermhoogte */
+    margin: 0;
+    /* verwijdert standaardmarges */
 }
 
 a {
@@ -24,13 +30,20 @@ a {
 #grid-container-home {
     display: grid;
     grid-template-columns: 1fr 1000px 1fr;
-    grid-template-rows: 150px 150px 1fr 150px;
+    grid-template-rows: 170px 150px 1fr 150px;
     grid-template-areas:
         "header header header"
         "borderleft nav borderright"
         "borderleft main borderright"
         "footer footer footer";
     min-height: 100vh;
+}
+
+#grid-container-header {
+    display: grid;
+    grid-template-columns: 1fr 1000px 1fr;
+    grid-template-areas: "leftheader middleheader rightheader";
+    padding-top: 10px;
 }
 
 #grid-container-nav {
@@ -55,43 +68,44 @@ header {
     background-size: cover;
     background-position: center;
     position: relative;
-    box-shadow: 0 0 20px 0 black;
+    box-shadow: 0 0 20px 0 #82a298;
     border-bottom: 4px solid #E1E554;
 }
 
 
-#title {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+#middleheader {
+    position: relative;      /* voor absolute positioning van de titel */
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* potlood links, cirkel rechts */
+    padding: 0 20px;        /* wat marge aan de zijkanten */
+}
 
-    padding: 20px 0;
+/* TITEL in het perfecte midden */
+#title {
+    position: absolute;      /* absoluut in middleheader */
+    left: 50%;               /* horizontaal midden */
+    transform: translateX(-50%); /* centreer exact */
     font-size: 2.6em;
     color: #E1E554;
     text-shadow: 1px 1px #82a298;
     text-align: center;
     letter-spacing: 4px;
-    background-color: #054531;
     margin: 0;
     white-space: nowrap;
 }
 
-
+/* POTLOOD */
 #potlood {
     max-height: 145px;
     width: auto;
-    margin-left: 50px;
 }
 
-#cirkel {
-    margin-right: 50px;
-}
-
-#passer {
-    max-height: 145px;
-    width: auto;
-    margin-right: 50px;
+/* PROGRESS CIRCLE */
+.progress-circle {
+    width: 100px;
+    height: 100px;
+    flex-shrink: 0;
 }
 
 /* ================= NAVIGATIE ================= */
@@ -116,7 +130,7 @@ nav li {
     list-style: none;
     padding: 20px 0;
     color: #E1E554;
-    text-shadow: 1px 1px black;
+    text-shadow: 1px 1px #82a298;
     background: linear-gradient(to top, #E1E554 50%, transparent 50%);
     background-size: 100% 200%;
     background-position: 0 0;
@@ -147,7 +161,7 @@ main {
 article {
     border: 3px solid #054531;
     background-color: #E1E554;
-    padding: 15px 25px ;
+    padding: 15px 25px;
     margin-bottom: 40px;
     font-size: 18px;
 }
@@ -220,12 +234,3 @@ ol {
 #POD a {
     color: black;
 }
-
-
-
-
-
-
-
-
-
