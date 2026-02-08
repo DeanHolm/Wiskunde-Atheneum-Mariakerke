@@ -101,13 +101,6 @@ header {
     width: auto;
 }
 
-/* PROGRESS CIRCLE */
-.progress-circle {
-    width: 100px;
-    height: 100px;
-    flex-shrink: 0;
-}
-
 /* ================= NAVIGATIE ================= */
 
 nav {
