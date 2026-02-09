@@ -1344,7 +1344,8 @@
                 "👉 10 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111813/redirect"]
             },
             "Correctiesleutels": {
-                "M3.2 - Congruentie" : ["🔴", "../corrections/tweedejaar/M3.2 - Congruentie.pdf"],
+                "M3 - Theorie" : ["🟢", "../corrections/tweedejaar/M3 - Theorie.pdf"],
+                "M3.2 - Congruentie" : ["🟢", "../corrections/tweedejaar/M3.2 - Congruentie.pdf"],
                 "M3.3 - Verantwoorden van constructies" : ["🔴","../corrections/tweedejaar/M3.3 - Verantwoorden van constructies.pdf"],
                 "M3 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M3 - Oranje blaadjes.pdf"]
             }
