@@ -121,7 +121,6 @@ nav li {
     font-family: Georgia;
     font-size: 1.5em;
     list-style: none;
-    padding: 20px 0;
     color: #E1E554;
     text-shadow: 1px 1px #82a298;
     background: linear-gradient(to top, #E1E554 50%, transparent 50%);
@@ -137,6 +136,10 @@ nav li:hover {
 
 nav li a {
     color: inherit;
+    display: block;          /* maakt de link een blok */
+    width: 100%;             /* volledige breedte van het vak */
+    height: 100%;            /* volledige hoogte van het vak */
+    padding: 20px 0;         /* bepaalt hoe hoog je knop is */
 }
 
 nav li.active {
