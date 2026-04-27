@@ -1407,52 +1407,16 @@
                 "👉 8 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111814/redirect"]
             },
             "Correctiesleutels": {
+                "M4 - Theorie" : ["🔴", "../corrections/tweedejaar/M4 - Theorie.pdf"],
                 "M4.1 - Eigenschappen onderzoeken" : ["🔴", "../corrections/tweedejaar/M4.1 - Eigenschappen onderzoeken.pdf"],
                 "M4.2 - De driehoeksongelijkheid" : ["🔴", "../corrections/tweedejaar/M4.2 - De driehoeksongelijkheid.pdf"],
                 "M4 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M4 - Oranje blaadjes.pdf"],
                 "M4 - Bewijzen meetkunde studeren" : ["🔴","../corrections/tweedejaar/M4 - Bewijzen meetkunde studeren.pdf"]
             }
         },
-        "M5 - Ruimtemeetkunde": {
+        "M5 - Vierhoeken": {
             "Doelstellingen": {
-                "5.1 Ruimtefiguren herkennen" : [
-                    "Ik kan ruimtefiguren herkennen in het dagelijkse leven.",
-                    "Ik kan bij ruimtefiguren het boven-, grond- en de zijvlakken benoemen.",
-                    "Ik kan bij ruimtefiguren het aantal vlakken, ribben en hoekpunten bepalen.",
-                    "Ik kan voorbeelden geven van omwentelingslichamen.",
-                    "Ik kan herkennen of een ruimtefiguur spiegelsymmetrisch is om een vlak.",
-                    "Ik kan herkennen of een ruimtefiguur spiegelsymmetrisch is om een punt.",
-                    "Ik kan natuurlijk, isometrisch en cavalièreperspectief herkennen.",
-                    "Ik kan de Europese projectie herkennen.",
-                    "Ik kan de werkelijke afmetingen bepalen van een ruimtefiguur getekend in cavalièreperspectief.",
-                    "Ik kan de werkelijke afmetingen bepalen van een ruimtefiguur getekend in isometrisch perspectief.",
-                    "Ik kan de werkelijke afmetingen bepalen van de rechtopstaande ribben van een ruimtefiguur getekend in de Europese projectie.",
-                    "Ik kan de verschillende aanzichten van een figuur bepalen."
-                ],
-                "5.2 Volume van ruimtefiguren" : [
-                    "Ik ken de verschillende volumematen.",
-                    "Ik kan de ene volumemaat omzetten naar een andere volumemaat.",
-                    "Ik kan een schatting maken over het volume van iets in het dagelijkse leven.",
-                    "Ik kan in een probleem herkennen wanneer ik het volume moet berekenen.",
-                    "Ik ken de formule om het volume van een kubus te berekenen.",
-                    "Ik ken de formule om het volume van een balk te berekenen.",
-                    "Ik ken de formule om het volume van een cilinder te berekenen.",
-                    "Ik kan aan de hand van een tabel of grafiek een lineair, kwadratisch en kubisch verband herkennen."
-                ]
-            },
-            "Filmpjes": {},
-            "Oefeningen": {
-                "👉 12 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111815/redirect"]
-            },
-            "Correctiesleutels": {
-                "M5.1 - Ruimtefiguren herkennen" : ["🔴", "../corrections/tweedejaar/M5.1 - Ruimtefiguren herkennen.pdf"],
-                "M5.2 - Volume van ruimtefiguren" : ["🔴","../corrections/tweedejaar/M5.2 - Volume van ruimtefiguren.pdf"],
-                "M5 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M5 - Oranje blaadjes.pdf"]
-            }
-        },
-        "M6 - Vierhoeken": {
-            "Doelstellingen": {
-                "6.1 Eigenschappen onderzoeken" : [
+                "5.1 Eigenschappen onderzoeken" : [
                     "Ik ken de definitie van een vierhoek.",
                     "Ik kan in een vierhoek de hoekpunten aanduiden.",
                     "Ik kan in een vierhoek de hoekpunten correct symbolisch noteren.",
@@ -1506,7 +1470,7 @@
                     "Ik kan de classificatie van de vierhoeken in een Venndiagram weergeven.",
                     "Ik kan alle definities en eigenschappen van vierhoeken toepassen in oefeningen."
                 ],
-                "6.2 Vierhoeken construeren en classificeren" : [
+                "5.2 Vierhoeken construeren en classificeren" : [
                     "Ik begrijp wat er wordt bedoeld met de classificatie van vierhoeken.",
                     "Ik kan de vierhoeken classificeren op basis van eigenschappen van de zijden.",
                     "Ik kan de vierhoeken classificeren op basis van eigenschappen van de hoeken.",
@@ -1520,11 +1484,50 @@
                 "👉 7 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111816/redirect"]
             },
             "Correctiesleutels": {
-                "M6.1 - Eigenschappen onderzoeken" : ["🔴", "../corrections/tweedejaar/M6.1 - Eigenschappen onderzoeken.pdf"],
-                "M6.2 - Vierhoeken construeren en classificeren" : ["🔴","../corrections/tweedejaar/M6.2 - Vierhoeken construeren en classificeren.pdf"],
-                "M6 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M6 - Oranje blaadjes.pdf"]
+                "M5 - Theorie" : ["🔴", "../corrections/tweedejaar/M5 - Theorie.pdf"],
+                "M5.1 - Eigenschappen onderzoeken" : ["🔴", "../corrections/tweedejaar/M5.1 - Eigenschappen onderzoeken.pdf"],
+                "M5.2 - Vierhoeken construeren en classificeren" : ["🔴","../corrections/tweedejaar/M5.2 - Vierhoeken construeren en classificeren.pdf"],
+                "M5 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M5 - Oranje blaadjes.pdf"]
             }
         }
+         "M6 - Ruimtemeetkunde": {
+            "Doelstellingen": {
+                "6.1 Ruimtefiguren herkennen" : [
+                    "Ik kan ruimtefiguren herkennen in het dagelijkse leven.",
+                    "Ik kan bij ruimtefiguren het boven-, grond- en de zijvlakken benoemen.",
+                    "Ik kan bij ruimtefiguren het aantal vlakken, ribben en hoekpunten bepalen.",
+                    "Ik kan voorbeelden geven van omwentelingslichamen.",
+                    "Ik kan herkennen of een ruimtefiguur spiegelsymmetrisch is om een vlak.",
+                    "Ik kan herkennen of een ruimtefiguur spiegelsymmetrisch is om een punt.",
+                    "Ik kan natuurlijk, isometrisch en cavalièreperspectief herkennen.",
+                    "Ik kan de Europese projectie herkennen.",
+                    "Ik kan de werkelijke afmetingen bepalen van een ruimtefiguur getekend in cavalièreperspectief.",
+                    "Ik kan de werkelijke afmetingen bepalen van een ruimtefiguur getekend in isometrisch perspectief.",
+                    "Ik kan de werkelijke afmetingen bepalen van de rechtopstaande ribben van een ruimtefiguur getekend in de Europese projectie.",
+                    "Ik kan de verschillende aanzichten van een figuur bepalen."
+                ],
+                "6.2 Volume van ruimtefiguren" : [
+                    "Ik ken de verschillende volumematen.",
+                    "Ik kan de ene volumemaat omzetten naar een andere volumemaat.",
+                    "Ik kan een schatting maken over het volume van iets in het dagelijkse leven.",
+                    "Ik kan in een probleem herkennen wanneer ik het volume moet berekenen.",
+                    "Ik ken de formule om het volume van een kubus te berekenen.",
+                    "Ik ken de formule om het volume van een balk te berekenen.",
+                    "Ik ken de formule om het volume van een cilinder te berekenen.",
+                    "Ik kan aan de hand van een tabel of grafiek een lineair, kwadratisch en kubisch verband herkennen."
+                ]
+            },
+            "Filmpjes": {},
+            "Oefeningen": {
+                "👉 12 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111815/redirect"]
+            },
+            "Correctiesleutels": {
+                "M6 - Theorie" : ["🔴", "../corrections/tweedejaar/M6 - Theorie.pdf"],
+                "M6.1 - Ruimtefiguren herkennen" : ["🔴", "../corrections/tweedejaar/M6.1 - Ruimtefiguren herkennen.pdf"],
+                "M6.2 - Volume van ruimtefiguren" : ["🔴","../corrections/tweedejaar/M6.2 - Volume van ruimtefiguren.pdf"],
+                "M6 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M6 - Oranje blaadjes.pdf"]
+            }
+        },
     }
 }
 
