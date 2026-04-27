@@ -706,9 +706,9 @@
             },
             "Correctiesleutels": {
                 "M4 - Theorie" : ["🟢", "../corrections/eerstejaar/M4 - Theorie.pdf"],
-                "M4.1 - Voorstelling van ruimtefiguren in een vlak" : ["🔴","../corrections/eerstejaar/M4.1 - Voorstelling van ruimtefiguren in een vlak.pdf"],
-                "M4.2 - Opbouw van ruimtefiguren" : ["🔴","../corrections/eerstejaar/M4.2 - Opbouw van ruimtefiguren.pdf"],
-                "M4 - Oranje blaadjes" : ["🔴", "../corrections/eerstejaar/M4 - Oranje blaadjes.pdf"]
+                "M4.1 - Voorstelling van ruimtefiguren in een vlak" : ["🟢","../corrections/eerstejaar/M4.1 - Voorstelling van ruimtefiguren in een vlak.pdf"],
+                "M4.2 - Opbouw van ruimtefiguren" : ["🟢","../corrections/eerstejaar/M4.2 - Opbouw van ruimtefiguren.pdf"],
+                "M4 - Oranje blaadjes" : ["🟢", "../corrections/eerstejaar/M4 - Oranje blaadjes.pdf"]
             }
         },
         "M5 - Omtrek en oppervlakte van vlakke figuren": {
