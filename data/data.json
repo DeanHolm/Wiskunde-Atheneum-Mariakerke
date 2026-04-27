@@ -1049,7 +1049,8 @@
                 "👉 7 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111809/redirect"]
             },
             "Correctiesleutels": {
-                "G4 - Data en onzekerheid" : ["🔴","../corrections/tweedejaar/G4 - Data en onzekerheid.pdf"],
+                "G4 - Theorie" : ["🔴","../corrections/tweedejaar/G4 - Theorie.pdf"],
+                "G4 - Oefeningen" : ["🔴","../corrections/tweedejaar/G4 - Oefeningen.pdf"],
                 "G4 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/G4 - Oranje blaadjes.pdf"]
             }
         },
