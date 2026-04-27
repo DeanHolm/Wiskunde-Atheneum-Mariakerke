@@ -1081,6 +1081,7 @@
                 "👉 22 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111810/redirect"]
             },
             "Correctiesleutels": {
+                "G5 - Theorie \u211A" : ["🟢", "../corrections/tweedejaar/G5 - Theorie.pdf"],
                 "G5.1 - Vergelijkingen oplossen in \u211A" : ["🟢", "../corrections/tweedejaar/G5.1 - Vergelijkingen oplossen in Q.pdf"],
                 "G5.2 - Vraagstukken oplossen" : ["🟢","../corrections/tweedejaar/G5.2 - Vraagstukken oplossen.pdf"],
                 "G5 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/G5 - Oranje blaadjes.pdf"]
