@@ -1407,11 +1407,11 @@
                 "👉 8 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111814/redirect"]
             },
             "Correctiesleutels": {
-                "M4 - Theorie" : ["🔴", "../corrections/tweedejaar/M4 - Theorie.pdf"],
-                "M4.1 - Eigenschappen onderzoeken" : ["🔴", "../corrections/tweedejaar/M4.1 - Eigenschappen onderzoeken.pdf"],
-                "M4.2 - De driehoeksongelijkheid" : ["🔴", "../corrections/tweedejaar/M4.2 - De driehoeksongelijkheid.pdf"],
-                "M4 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M4 - Oranje blaadjes.pdf"],
-                "M4 - Bewijzen meetkunde studeren" : ["🔴","../corrections/tweedejaar/M4 - Bewijzen meetkunde studeren.pdf"]
+                "M4 - Theorie" : ["🟢", "../corrections/tweedejaar/M4 - Theorie.pdf"],
+                "M4.1 - Eigenschappen onderzoeken" : ["🟢", "../corrections/tweedejaar/M4.1 - Eigenschappen onderzoeken.pdf"],
+                "M4.2 - De driehoeksongelijkheid" : ["🟢", "../corrections/tweedejaar/M4.2 - De driehoeksongelijkheid.pdf"],
+                "M4 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/M4 - Oranje blaadjes.pdf"],
+                "M4 - Bewijzen meetkunde studeren" : ["🟢","../corrections/tweedejaar/M4 - Bewijzen meetkunde studeren.pdf"]
             }
         },
         "M5 - Vierhoeken": {
@@ -1484,10 +1484,10 @@
                 "👉 7 extra Polpo-oefeningen" : ["https://api.polpo.be/api/Bundles/111816/redirect"]
             },
             "Correctiesleutels": {
-                "M5 - Theorie" : ["🔴", "../corrections/tweedejaar/M5 - Theorie.pdf"],
-                "M5.1 - Eigenschappen onderzoeken" : ["🔴", "../corrections/tweedejaar/M5.1 - Eigenschappen onderzoeken.pdf"],
-                "M5.2 - Vierhoeken construeren en classificeren" : ["🔴","../corrections/tweedejaar/M5.2 - Vierhoeken construeren en classificeren.pdf"],
-                "M5 - Oranje blaadjes" : ["🔴","../corrections/tweedejaar/M5 - Oranje blaadjes.pdf"]
+                "M5 - Theorie" : ["🟢", "../corrections/tweedejaar/M5 - Theorie.pdf"],
+                "M5.1 - Eigenschappen onderzoeken" : ["🟢", "../corrections/tweedejaar/M5.1 - Eigenschappen onderzoeken.pdf"],
+                "M5.2 - Vierhoeken construeren en classificeren" : ["🟢","../corrections/tweedejaar/M5.2 - Vierhoeken construeren en classificeren.pdf"],
+                "M5 - Oranje blaadjes" : ["🟢","../corrections/tweedejaar/M5 - Oranje blaadjes.pdf"]
             }
         },
          "M6 - Ruimtemeetkunde": {
